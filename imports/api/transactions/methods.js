@@ -5,10 +5,8 @@ import { Transactions } from './transactions.js';
 
 
 Meteor.methods({
-  webhook() {
-    return "Hello!";
-  },
   getBalance() {
+    console.log('Getting balance...');
     return {
       speech: 'Your checking account balance is $500',
       displayText: 'Your checking account balance is $500',
@@ -17,11 +15,37 @@ Meteor.methods({
     }
   },
   getTransactions() {
+    console.log('Getting transactions...');
     return "Here are your transactions";
   },
   getSpending () {
+    console.log('Getting spending...');
     return "Here's your spending";
   },
+  webhook(response) {
+    console.log(response);
+    let calledFunction;
+    switch (response.result.action) {
+      case 'getTransactions':
+        calledFunction = Meteor.call('getTransactions');
+        break;
+      case 'getSpendingf':
+        calledFunction = Meteor.call('getSpending')
+        break;
+      case 'getBalance':
+        calledFunction = Meteor.call('getBalance');
+        break;
+      default:
+        calledFunction = {
+          speech: "Sorry, I couldn't find a function associated with that intent",
+          displayText: "Sorry, I couldn't find a function associated with that intent",
+          data: {},
+          contextOut: [],
+        };
+    }
+    return calledFunction;
+  },
+
 })
 
 /*
