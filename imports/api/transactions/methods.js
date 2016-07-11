@@ -7,7 +7,16 @@ import { Transactions } from './transactions.js';
 Meteor.methods({
   webhook() {
     return "Hello!";
-  }
+  },
+  getBalance() {
+    return "Here's your balance";
+  },
+  getTransactions() {
+    return "Here are your transactions";
+  },
+  getSpending () {
+    return "Here's your spending";
+  },
 })
 
 /*
