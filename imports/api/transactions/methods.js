@@ -9,7 +9,12 @@ Meteor.methods({
     return "Hello!";
   },
   getBalance() {
-    return "Here's your balance";
+    return {
+      speech: 'Your checking account balance is $500',
+      displayText: 'Your checking account balance is $500',
+      data: {},
+      contextOut: [],
+    }
   },
   getTransactions() {
     return "Here are your transactions";
