@@ -23,7 +23,6 @@ Meteor.methods({
     //If the request year is after the current year, set it back to the current year
     currentDate < requestDate ? requestDate.year(currentDate.year()) : null;
 
-    console.log(requestDate.year());
     return {
       speech: 'getTransactions',
       displayText: 'getTransactions',
