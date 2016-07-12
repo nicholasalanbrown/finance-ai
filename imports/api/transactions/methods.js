@@ -36,14 +36,12 @@ Meteor.methods({
   getTransactionsBetweenDates(datePeriod) {
     let speech = '';
     let currentDate = moment();
-    let startDate = moment(datePeriod.slice(0,10));
-    let endDate = moment(datePeriod.slice(11,21));
+    let startDate = moment(datePeriod.startDate.rfcString);
+    let endDate = moment(datePeriod.endDate.rfcString);
 
     //If the request year is after the current year, set it back to the current year
-    currentDate < startDate ? startDate.year(currentDate.year()) : null;
-    currentDate < endDate ? endDate.year(currentDate.year()) : null;
 
-    let docArray = Transactions.find({date: {$gte: startDate.startOf('day').toDate(), $lte: endDate.endOf('day').toDate()} }, {limit: 5}).fetch();
+    let docArray = Transactions.find({date: {$gte: startDate.startOf('day').toDate(), $lte: endDate.startOf('day').toDate()} }, {limit: 5}).fetch();
 
     if (docArray.length == 0) {
       speech = "Sorry, I couldn't find a transaction in that date range";
