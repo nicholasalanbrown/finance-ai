@@ -34,7 +34,7 @@ Meteor.methods({
     };
   },
   getTransactionsBetweenDates(datePeriod) {
-    let speech;
+    let speech = '';
     let currentDate = moment();
     let startDate = moment(datePeriod.slice(0,10));
     let endDate = moment(datePeriod.slice(11,21));
@@ -43,15 +43,23 @@ Meteor.methods({
     currentDate < startDate ? startDate.year(currentDate.year()) : null;
     currentDate < endDate ? endDate.year(currentDate.year()) : null;
 
-    let doc = Transactions.findOne({date: {$gte: startDate.startOf('day').toDate(), $lte: endDate.endOf('day').toDate()} });
+    let docArray = Transactions.find({date: {$gte: startDate.startOf('day').toDate(), $lte: endDate.endOf('day').toDate()} }, {limit: 5}).fetch();
 
-    if (!doc) {
+    if (docArray.length == 0) {
       speech = "Sorry, I couldn't find a transaction in that date range";
     }
 
     else {
-      speech = moment(doc.date).format('MM-DD-YYYY') + ' ' + doc.description + ' ' + '$'+doc.amount;
+      console.log(docArray.length);
+      _.each(docArray, function(doc, index) {
+        speech += moment(doc.date).format('MM-DD-YYY')+ ' '+doc.description+' '+'$'+doc.amount;
+        if (index < docArray.length-1) {
+          speech += '\n';
+        }
+      });
     }
+
+    console.log(speech);
 
     return {
       speech: speech,
