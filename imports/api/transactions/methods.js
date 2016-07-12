@@ -17,18 +17,36 @@ Meteor.methods({
     }
   },
   getTransactionsOnDate(date) {
+    let speech = '';
     let currentDate = moment();
     let requestDate = moment(date);
 
     //If the request year is after the current year, set it back to the current year
-    currentDate < requestDate ? requestDate.year(currentDate.year()) : null;
+    currentDate < requestDate ? startDate.year(currentDate.year()) : null;
 
-    let doc = Transactions.findOne({date: {$gte: requestDate.startOf('day').toDate(), $lte: requestDate.endOf('day').toDate()} });
-    console.log(doc);
+    let docArray = Transactions.find({date: {$gte: requestDate.startOf('day').toDate(), $lte: requestDate.startOf('day').toDate()} }, {sort: {date: 1}, limit: 5}).fetch();
+
+    if (docArray.length == 0) {
+      speech = "Sorry, I couldn't find any transactions in that date range";
+    }
+
+    else {
+      speech = 'I found these transactions for that date range: \n';
+      _.each(docArray, function(doc, index) {
+        let amountPrefix;
+        doc.type == 'debit' ? amountPrefix = '-' : amountPrefix = '+';
+        speech += moment(doc.date).format('MM-DD-YYYY')+ ' '+doc.description+' '+ amountPrefix +'$'+doc.amount;
+        if (index < docArray.length-1) {
+          speech += '\n';
+        }
+      });
+    }
+
+    console.log(speech);
 
     return {
-      speech: 'getTransactions',
-      displayText: 'getTransactions',
+      speech: speech,
+      displayText: speech,
       data: {},
       contextOut: [],
     };
