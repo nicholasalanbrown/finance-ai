@@ -50,7 +50,7 @@ Meteor.methods({
     }
 
     else {
-      console.log(docArray.length);
+      speech = 'I found these transactions for that date range: \n'; 
       _.each(docArray, function(doc, index) {
         let amountPrefix;
         doc.type == 'debit' ? amountPrefix = '-' : amountPrefix = '+';
