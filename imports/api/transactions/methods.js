@@ -65,7 +65,7 @@ Meteor.methods({
 
     return {
       speech: speech,
-      displayText: 'getTransactions',
+      displayText: speech,
       data: {},
       contextOut: [],
     };
