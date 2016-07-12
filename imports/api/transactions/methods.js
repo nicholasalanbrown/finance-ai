@@ -16,7 +16,7 @@ Meteor.methods({
       contextOut: [],
     }
   },
-  getTransactions(date) {
+  getTransactionsOnDate(date) {
     let currentDate = moment();
     let requestDate = moment(date);
 
@@ -33,6 +33,36 @@ Meteor.methods({
       contextOut: [],
     };
   },
+  getTransactionsBetweenDates(datePeriod) {
+    let speech;
+    let currentDate = moment();
+    let startDate = moment(datePeriod.slice(0,10));
+    let endDate = moment(datePeriod.slice(11,21));
+
+    console.log(startDate.format());
+    console.log(endDate.format());
+
+    //If the request year is after the current year, set it back to the current year
+    currentDate < startDate ? startDate.year(currentDate.year()) : null;
+    currentDate < endDate ? endDate.year(currentDate.year()) : null;
+
+    let doc = Transactions.findOne({date: {$gte: startDate.startOf('day').toDate(), $lte: endDate.endOf('day').toDate()} });
+
+    if (!doc) {
+      speech = "Sorry, I couldn't find a transaction in that date range";
+    }
+
+    else {
+      speech = moment(doc.date).format('MM-DD-YYYY') + ' ' + doc.description + ' ' + '$'+doc.amount;
+    }
+
+    return {
+      speech: speech,
+      displayText: 'getTransactions',
+      data: {},
+      contextOut: [],
+    };
+  },
   getSpending () {
     console.log('Getting spending...');
     return "Here's your spending";
@@ -43,7 +73,12 @@ Meteor.methods({
     let calledFunction;
     switch (response.result.action) {
       case 'getTransactions':
-        calledFunction = Meteor.call('getTransactions', response.result.parameters.date.rfcString);
+        if (response.result.parameters.date) {
+          calledFunction = Meteor.call('getTransactionsOnDate', response.result.parameters.date.rfcString);
+        }
+        else if (response.result.parameters['date-period']) {
+          calledFunction = Meteor.call('getTransactionsBetweenDates', response.result.parameters['date-period']);
+        }
         break;
       case 'getSpendingf':
         calledFunction = Meteor.call('getSpending')
