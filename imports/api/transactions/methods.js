@@ -39,9 +39,6 @@ Meteor.methods({
     let startDate = moment(datePeriod.slice(0,10));
     let endDate = moment(datePeriod.slice(11,21));
 
-    console.log(startDate.format());
-    console.log(endDate.format());
-
     //If the request year is after the current year, set it back to the current year
     currentDate < startDate ? startDate.year(currentDate.year()) : null;
     currentDate < endDate ? endDate.year(currentDate.year()) : null;
