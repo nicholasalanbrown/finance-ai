@@ -46,11 +46,11 @@ Meteor.methods({
     let docArray = Transactions.find({date: {$gte: startDate.startOf('day').toDate(), $lte: endDate.startOf('day').toDate()} }, {sort: {date: 1}, limit: 5}).fetch();
 
     if (docArray.length == 0) {
-      speech = "Sorry, I couldn't find a transaction in that date range";
+      speech = "Sorry, I couldn't find any transactions in that date range";
     }
 
     else {
-      speech = 'I found these transactions for that date range: \n'; 
+      speech = 'I found these transactions for that date range: \n';
       _.each(docArray, function(doc, index) {
         let amountPrefix;
         doc.type == 'debit' ? amountPrefix = '-' : amountPrefix = '+';
