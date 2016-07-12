@@ -40,6 +40,8 @@ Meteor.methods({
     let endDate = moment(datePeriod.endDate.rfcString);
 
     //If the request year is after the current year, set it back to the current year
+    currentDate < startDate ? startDate.year(currentDate.year()) : null;
+    currentDate < endDate ? endDate.year(currentDate.year()) : null;
 
     let docArray = Transactions.find({date: {$gte: startDate.startOf('day').toDate(), $lte: endDate.startOf('day').toDate()} }, {limit: 5}).fetch();
 
