@@ -17,8 +17,13 @@ Meteor.methods({
     }
   },
   getTransactions(date) {
-    let currentDate = moment(date).format();
-    console.log(currentDate);
+    let currentDate = moment();
+    let requestDate = moment(date);
+
+    //If the request year is after the current year, set it back to the current year
+    currentDate < requestDate ? requestDate.year(currentDate.year()) : null;
+
+    console.log(requestDate.year());
     return {
       speech: 'getTransactions',
       displayText: 'getTransactions',
@@ -36,7 +41,7 @@ Meteor.methods({
     let calledFunction;
     switch (response.result.action) {
       case 'getTransactions':
-        calledFunction = Meteor.call('getTransactions', response.result.parameters.date.calendar);
+        calledFunction = Meteor.call('getTransactions', response.result.parameters.date.rfcString);
         break;
       case 'getSpendingf':
         calledFunction = Meteor.call('getSpending')
