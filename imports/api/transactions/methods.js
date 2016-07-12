@@ -23,6 +23,9 @@ Meteor.methods({
     //If the request year is after the current year, set it back to the current year
     currentDate < requestDate ? requestDate.year(currentDate.year()) : null;
 
+    let doc = Transactions.findOne({date: {$gte: requestDate.hour(0).minute(0).toDate(), $lte: requestDate.hour(23).minute(59).toDate()} });
+    console.log(doc);
+
     return {
       speech: 'getTransactions',
       displayText: 'getTransactions',
