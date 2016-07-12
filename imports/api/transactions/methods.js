@@ -52,7 +52,9 @@ Meteor.methods({
     else {
       console.log(docArray.length);
       _.each(docArray, function(doc, index) {
-        speech += moment(doc.date).format('MM-DD-YYY')+ ' '+doc.description+' '+'$'+doc.amount;
+        let amountPrefix;
+        doc.type == 'debit' ? amountPrefix = '-' : amountPrefix = '+';
+        speech += moment(doc.date).format('MM-DD-YYYY')+ ' '+doc.description+' '+ amountPrefix +'$'+doc.amount;
         if (index < docArray.length-1) {
           speech += '\n';
         }
