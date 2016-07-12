@@ -1,7 +1,9 @@
 import { Meteor } from 'meteor/meteor';
 import { _ } from 'meteor/underscore';
+import moment from 'moment';
 
 import { Transactions } from './transactions.js';
+import { History } from '../history/history.js';
 
 
 Meteor.methods({
@@ -14,20 +16,27 @@ Meteor.methods({
       contextOut: [],
     }
   },
-  getTransactions() {
-    console.log('Getting transactions...');
-    return "Here are your transactions";
+  getTransactions(date) {
+    let currentDate = moment(date).format();
+    console.log(currentDate);
+    return {
+      speech: 'getTransactions',
+      displayText: 'getTransactions',
+      data: {},
+      contextOut: [],
+    };
   },
   getSpending () {
     console.log('Getting spending...');
     return "Here's your spending";
   },
   webhook(response) {
+    console.log('Running webhook method...');
     console.log(response);
     let calledFunction;
     switch (response.result.action) {
       case 'getTransactions':
-        calledFunction = Meteor.call('getTransactions');
+        calledFunction = Meteor.call('getTransactions', response.result.parameters.date.calendar);
         break;
       case 'getSpendingf':
         calledFunction = Meteor.call('getSpending')
