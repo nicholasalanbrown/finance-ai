@@ -43,7 +43,7 @@ Meteor.methods({
     currentDate < startDate ? startDate.year(currentDate.year()) : null;
     currentDate < endDate ? endDate.year(currentDate.year()) : null;
 
-    let docArray = Transactions.find({date: {$gte: startDate.startOf('day').toDate(), $lte: endDate.startOf('day').toDate()} }, {limit: 5}).fetch();
+    let docArray = Transactions.find({date: {$gte: startDate.startOf('day').toDate(), $lte: endDate.startOf('day').toDate()} }, {sort: {date: 1}, limit: 5}).fetch();
 
     if (docArray.length == 0) {
       speech = "Sorry, I couldn't find a transaction in that date range";
