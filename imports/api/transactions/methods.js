@@ -7,7 +7,7 @@ import { History } from '../history/history.js';
 
 
 Meteor.methods({
-  getBalance() {
+  getBalance(accountType) {
     console.log('Getting balance...');
     return {
       speech: 'Your checking account balance is $500',
@@ -17,6 +17,7 @@ Meteor.methods({
     }
   },
   getTransactionsOnDate(date) {
+    console.log('Getting transactions on a specific date..');
     let speech = '';
     let currentDate = moment();
     let requestDate = moment(date);
@@ -52,6 +53,7 @@ Meteor.methods({
     };
   },
   getTransactionsBetweenDates(datePeriod) {
+    console.log('Getting transactions over a date period...');
     let speech = '';
     let currentDate = moment();
     let startDate = moment(datePeriod.startDate.rfcString);
