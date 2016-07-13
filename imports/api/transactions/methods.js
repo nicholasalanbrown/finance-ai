@@ -36,7 +36,7 @@ Meteor.methods({
       _.each(docArray, function(doc, index) {
         let amountPrefix;
         doc.type == 'debit' ? amountPrefix = '-' : amountPrefix = '+';
-        speech += moment(doc.date).format('MM-DD-YYYY')+ ' '+doc.description+' '+ amountPrefix +'$'+doc.amount;
+        speech += moment(doc.date).format('MM-DD-YYYY')+ ' '+doc.description+' '+ amountPrefix +'$'+doc.amount.toFixed(2);
         if (index < docArray.length-1) {
           speech += '\n';
         }
@@ -74,7 +74,7 @@ Meteor.methods({
       _.each(docArray, function(doc, index) {
         let amountPrefix;
         doc.type == 'debit' ? amountPrefix = '-' : amountPrefix = '+';
-        speech += moment(doc.date).format('MM-DD-YYYY')+ ' '+doc.description+' '+ amountPrefix +'$'+doc.amount;
+        speech += moment(doc.date).format('MM-DD-YYYY')+ ' '+doc.description+' '+ amountPrefix +'$'+doc.amount.toFixed(2);
         if (index < docArray.length-1) {
           speech += '\n';
         }
@@ -110,7 +110,7 @@ Meteor.methods({
 
     else {
       const amounts = _.pluck(docArray, 'amount');
-      const sum = _.reduce(amounts, function(memo, num){ return memo + num; }, 0);
+      const sum = _.reduce(amounts, function(memo, num){ return memo + num; }, 0).toFixed(2);
       let transactionNoun = docArray.length > 1 ? 'transactions' : 'transaction';
       speech = 'I found ' + docArray.length +' '+ transactionNoun +', totalling $' + sum;
     }
