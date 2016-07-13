@@ -1,10 +1,12 @@
 import { Meteor } from 'meteor/meteor';
 import { _ } from 'meteor/underscore';
 import moment from 'moment';
+import numeral from 'numeral';
 
 import { Transactions } from './transactions.js';
 import { History } from '../history/history.js';
 
+formatCurrency = (number) => numeral(number).format('$0,0.00');
 
 Meteor.methods({
   getBalance(accountType) {
@@ -36,7 +38,7 @@ Meteor.methods({
       _.each(docArray, function(doc, index) {
         let amountPrefix;
         doc.type == 'debit' ? amountPrefix = '-' : amountPrefix = '+';
-        speech += moment(doc.date).format('MM-DD-YYYY')+ ' '+doc.description+' '+ amountPrefix +'$'+doc.amount.toFixed(2);
+        speech += moment(doc.date).format('MM-DD-YYYY')+ ' '+doc.description+' '+ amountPrefix + formatCurrency(doc.amount);
         if (index < docArray.length-1) {
           speech += '\n';
         }
@@ -74,7 +76,7 @@ Meteor.methods({
       _.each(docArray, function(doc, index) {
         let amountPrefix;
         doc.type == 'debit' ? amountPrefix = '-' : amountPrefix = '+';
-        speech += moment(doc.date).format('MM-DD-YYYY')+ ' '+doc.description+' '+ amountPrefix +'$'+doc.amount.toFixed(2);
+        speech += moment(doc.date).format('MM-DD-YYYY')+ ' '+doc.description+' '+ amountPrefix + formatCurrency(doc.amount);
         if (index < docArray.length-1) {
           speech += '\n';
         }
@@ -110,9 +112,9 @@ Meteor.methods({
 
     else {
       const amounts = _.pluck(docArray, 'amount');
-      const sum = _.reduce(amounts, function(memo, num){ return memo + num; }, 0).toFixed(2);
+      const sum = formatCurrency(_.reduce(amounts, function(memo, num){ return memo + num; }, 0));
       let transactionNoun = docArray.length > 1 ? 'transactions' : 'transaction';
-      speech = 'I found ' + docArray.length +' '+ transactionNoun +', totalling $' + sum;
+      speech = 'I found ' + docArray.length +' '+ transactionNoun +', totalling ' + sum;
     }
 
     console.log(speech);
