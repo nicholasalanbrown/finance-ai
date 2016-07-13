@@ -88,13 +88,43 @@ Meteor.methods({
       contextOut: [],
     };
   },
-  getSpending () {
-    console.log('Getting spending...');
-    return "Here's your spending";
+
+  getSpending(category, datePeriod) {
+    console.log('Getting spending...')
+    let speech = '';
+    let currentDate = moment();
+    let startDate = moment(datePeriod.startDate.rfcString);
+    let endDate = moment(datePeriod.endDate.rfcString);
+
+    //If the request year is after the current year, set it back to the current year
+    currentDate < startDate ? startDate.year(currentDate.year()) : null;
+    currentDate < endDate ? endDate.year(currentDate.year()) : null;
+
+    let docArray = Transactions.find({category: category, date: {$gte: startDate.startOf('day').toDate(), $lte: endDate.startOf('day').toDate()} }).fetch();
+
+    if (docArray.length == 0) {
+      speech = "Sorry, I couldn't find any transactions in that date range";
+    }
+
+    else {
+      const amounts = _.pluck(docArray, 'amount');
+      const sum = _.reduce(amounts, function(memo, num){ return memo + num; }, 0);
+      speech = 'I found ' + docArray.length + ' transactions, totalling $' + sum;
+    }
+
+    console.log(speech);
+
+    return {
+      speech: speech,
+      displayText: speech,
+      data: {},
+      contextOut: [],
+    };
   },
+
   webhook(response) {
     console.log('Running webhook method...');
-    console.log(response);
+    History.insert(response);
     let calledFunction;
     switch (response.result.action) {
       case 'getTransactions':
@@ -105,8 +135,8 @@ Meteor.methods({
           calledFunction = Meteor.call('getTransactionsBetweenDates', response.result.parameters['date-period']);
         }
         break;
-      case 'getSpendingf':
-        calledFunction = Meteor.call('getSpending')
+      case 'getSpending':
+        calledFunction = Meteor.call('getSpending', response.result.parameters.category, response.result.parameters['date-period'])
         break;
       case 'getBalance':
         calledFunction = Meteor.call('getBalance');
