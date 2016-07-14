@@ -114,7 +114,7 @@ Meteor.methods({
       const amounts = _.pluck(docArray, 'amount');
       const sum = formatCurrency(_.reduce(amounts, function(memo, num){ return memo + num; }, 0));
       let transactionNoun = docArray.length > 1 ? 'transactions' : 'transaction';
-      speech = 'I found ' + docArray.length +' '+ transactionNoun +', totalling ' + sum;
+      speech = 'I found ' + docArray.length +' '+ transactionNoun +' for '+ category.toLowerCase() +', totalling ' + sum;
     }
 
     console.log(speech);
