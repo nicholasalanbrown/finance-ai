@@ -1,0 +1,4858 @@
+[
+  {
+    "mint": "",
+    "plaid1": "Bank Fees",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": 10000000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Bank Fees",
+    "plaid2": "Overdraft",
+    "plaid3": "",
+    "plaidId": 10001000,
+    "type": "special"
+  },
+  {
+    "mint": "ATM Fee",
+    "plaid1": "Bank Fees",
+    "plaid2": "ATM",
+    "plaid3": "",
+    "plaidId": 10002000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Bank Fees",
+    "plaid2": "Late Payment",
+    "plaid3": "",
+    "plaidId": 10003000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Bank Fees",
+    "plaid2": "Fraud Dispute",
+    "plaid3": "",
+    "plaidId": 10004000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Bank Fees",
+    "plaid2": "Foreign Transaction",
+    "plaid3": "",
+    "plaidId": 10005000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Bank Fees",
+    "plaid2": "Wire Transfer",
+    "plaid3": "",
+    "plaidId": 10006000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Bank Fees",
+    "plaid2": "Insufficient Funds",
+    "plaid3": "",
+    "plaidId": 10007000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Bank Fees",
+    "plaid2": "Cash Advance",
+    "plaid3": "",
+    "plaidId": 10008000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Bank Fees",
+    "plaid2": "Excess Activity",
+    "plaid3": "",
+    "plaidId": 10009000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Cash Advance",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": 11000000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": 12000000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Animal Shelter",
+    "plaid3": "",
+    "plaidId": 12001000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Assisted Living Services",
+    "plaid3": "",
+    "plaidId": 12002000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Assisted Living Services",
+    "plaid3": "Facilities and Nursing Homes",
+    "plaidId": 12002001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Assisted Living Services",
+    "plaid3": "Caretakers",
+    "plaidId": 12002002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Cemetery",
+    "plaid3": "",
+    "plaidId": 12003000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Courts",
+    "plaid3": "",
+    "plaidId": 12004000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Day Care and Preschools",
+    "plaid3": "",
+    "plaidId": 12005000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Disabled Persons Services",
+    "plaid3": "",
+    "plaidId": 12006000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Drug and Alcohol Services",
+    "plaid3": "",
+    "plaidId": 12007000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Education",
+    "plaid3": "",
+    "plaidId": 12008000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Education",
+    "plaid3": "Vocational Schools",
+    "plaidId": 12008001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Education",
+    "plaid3": "Tutoring and Educational Services",
+    "plaidId": 12008002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Education",
+    "plaid3": "Primary and Secondary Schools",
+    "plaidId": 12008003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Education",
+    "plaid3": "Fraternities and Sororities",
+    "plaidId": 12008004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Education",
+    "plaid3": "Driving Schools",
+    "plaidId": 12008005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Education",
+    "plaid3": "Dance Schools",
+    "plaidId": 12008006,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Education",
+    "plaid3": "Culinary Lessons and Schools",
+    "plaidId": 12008007,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Education",
+    "plaid3": "Computer Training",
+    "plaidId": 12008008,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Education",
+    "plaid3": "Colleges and Universities",
+    "plaidId": 12008009,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Education",
+    "plaid3": "Art School",
+    "plaidId": 12008010,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Education",
+    "plaid3": "Adult Education",
+    "plaidId": 12008011,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Government Departments and Agencies",
+    "plaid3": "",
+    "plaidId": 12009000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Government Lobbyists",
+    "plaid3": "",
+    "plaidId": 12010000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Housing Assistance and Shelters",
+    "plaid3": "",
+    "plaidId": 12011000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Law Enforcement",
+    "plaid3": "",
+    "plaidId": 12012000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Law Enforcement",
+    "plaid3": "Police Stations",
+    "plaidId": 12012001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Law Enforcement",
+    "plaid3": "Fire Stations",
+    "plaidId": 12012002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Law Enforcement",
+    "plaid3": "Correctional Institutions",
+    "plaidId": 12012003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Libraries",
+    "plaid3": "",
+    "plaidId": 12013000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Military",
+    "plaid3": "",
+    "plaidId": 12014000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Organizations and Associations",
+    "plaid3": "",
+    "plaidId": 12015000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Organizations and Associations",
+    "plaid3": "Youth Organizations",
+    "plaidId": 12015001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Organizations and Associations",
+    "plaid3": "Environmental",
+    "plaidId": 12015002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Organizations and Associations",
+    "plaid3": "Charities and Non-Profits",
+    "plaidId": 12015003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Post Offices",
+    "plaid3": "",
+    "plaidId": 12016000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Public and Social Services",
+    "plaid3": "",
+    "plaidId": 12017000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Religious",
+    "plaid3": "",
+    "plaidId": 12018000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Religious",
+    "plaid3": "Temple",
+    "plaidId": 12018001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Religious",
+    "plaid3": "Synagogues",
+    "plaidId": 12018002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Religious",
+    "plaid3": "Mosques",
+    "plaidId": 12018003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Religious",
+    "plaid3": "Churches",
+    "plaidId": 12018004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Senior Citizen Services",
+    "plaid3": "",
+    "plaidId": 12019000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Community",
+    "plaid2": "Senior Citizen Services",
+    "plaid3": "Retirement",
+    "plaidId": 12019001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": 13000000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Bar",
+    "plaid3": "",
+    "plaidId": 13001000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Bar",
+    "plaid3": "Wine Bar",
+    "plaidId": 13001001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Bar",
+    "plaid3": "Sports Bar",
+    "plaidId": 13001002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Bar",
+    "plaid3": "Hotel Lounge",
+    "plaidId": 13001003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Breweries",
+    "plaid3": "",
+    "plaidId": 13002000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Internet Cafes",
+    "plaid3": "",
+    "plaidId": 13003000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Nightlife",
+    "plaid3": "",
+    "plaidId": 13004000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Nightlife",
+    "plaid3": "Strip Club",
+    "plaidId": 13004001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Nightlife",
+    "plaid3": "Night Clubs",
+    "plaidId": 13004002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Nightlife",
+    "plaid3": "Karaoke",
+    "plaidId": 13004003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Nightlife",
+    "plaid3": "Jazz and Blues Cafe",
+    "plaidId": 13004004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Nightlife",
+    "plaid3": "Hookah Lounges",
+    "plaidId": 13004005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Nightlife",
+    "plaid3": "Adult Entertainment",
+    "plaidId": 13004006,
+    "type": "place"
+  },
+  {
+    "mint": "Restaurants",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "",
+    "plaidId": 13005000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Winery",
+    "plaidId": 13005001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Vegan and Vegetarian",
+    "plaidId": 13005002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Turkish",
+    "plaidId": 13005003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Thai",
+    "plaidId": 13005004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Swiss",
+    "plaidId": 13005005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Sushi",
+    "plaidId": 13005006,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Steakhouses",
+    "plaidId": 13005007,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Spanish",
+    "plaidId": 13005008,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Seafood",
+    "plaidId": 13005009,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Scandinavian",
+    "plaidId": 13005010,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Portuguese",
+    "plaidId": 13005011,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Pizza",
+    "plaidId": 13005012,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Moroccan",
+    "plaidId": 13005013,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Middle Eastern",
+    "plaidId": 13005014,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Mexican",
+    "plaidId": 13005015,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Mediterranean",
+    "plaidId": 13005016,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Latin American",
+    "plaidId": 13005017,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Korean",
+    "plaidId": 13005018,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Juice Bar",
+    "plaidId": 13005019,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Japanese",
+    "plaidId": 13005020,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Italian",
+    "plaidId": 13005021,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Indonesian",
+    "plaidId": 13005022,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Indian",
+    "plaidId": 13005023,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Ice Cream",
+    "plaidId": 13005024,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Greek",
+    "plaidId": 13005025,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "German",
+    "plaidId": 13005026,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Gastropub",
+    "plaidId": 13005027,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "French",
+    "plaidId": 13005028,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Food Truck",
+    "plaidId": 13005029,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Fish and Chips",
+    "plaidId": 13005030,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Filipino",
+    "plaidId": 13005031,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Fast Food",
+    "plaidId": 13005032,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Falafel",
+    "plaidId": 13005033,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Ethiopian",
+    "plaidId": 13005034,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Eastern European",
+    "plaidId": 13005035,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Donuts",
+    "plaidId": 13005036,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Distillery",
+    "plaidId": 13005037,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Diners",
+    "plaidId": 13005038,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Dessert",
+    "plaidId": 13005039,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Delis",
+    "plaidId": 13005040,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Cupcake Shop",
+    "plaidId": 13005041,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Cuban",
+    "plaidId": 13005042,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Coffee Shop",
+    "plaidId": 13005043,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Chinese",
+    "plaidId": 13005044,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Caribbean",
+    "plaidId": 13005045,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Cajun",
+    "plaidId": 13005046,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Cafe",
+    "plaidId": 13005047,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Burrito",
+    "plaidId": 13005048,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Burgers",
+    "plaidId": 13005049,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Breakfast Spot",
+    "plaidId": 13005050,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Brazilian",
+    "plaidId": 13005051,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Barbecue",
+    "plaidId": 13005052,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Bakery",
+    "plaidId": 13005053,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Bagel Shop",
+    "plaidId": 13005054,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Australian",
+    "plaidId": 13005055,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Asian",
+    "plaidId": 13005056,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "American",
+    "plaidId": 13005057,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "African",
+    "plaidId": 13005058,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Food and Drink",
+    "plaid2": "Restaurants",
+    "plaid3": "Afghan",
+    "plaidId": 13005059,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": 14000000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Healthcare Services",
+    "plaid3": "",
+    "plaidId": 14001000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Healthcare Services",
+    "plaid3": "Psychologists",
+    "plaidId": 14001001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Healthcare Services",
+    "plaid3": "Pregnancy and Sexual Health",
+    "plaidId": 14001002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Healthcare Services",
+    "plaid3": "Podiatrists",
+    "plaidId": 14001003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Healthcare Services",
+    "plaid3": "Physical Therapy",
+    "plaidId": 14001004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Healthcare Services",
+    "plaid3": "Optometrists",
+    "plaidId": 14001005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Healthcare Services",
+    "plaid3": "Nutritionists",
+    "plaidId": 14001006,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Healthcare Services",
+    "plaid3": "Nurses",
+    "plaidId": 14001007,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Healthcare Services",
+    "plaid3": "Mental Health",
+    "plaidId": 14001008,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Healthcare Services",
+    "plaid3": "Medical Supplies and Labs",
+    "plaidId": 14001009,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Healthcare Services",
+    "plaid3": "Hospitals, Clinics and Medical Centers",
+    "plaidId": 14001010,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Healthcare Services",
+    "plaid3": "Emergency Services",
+    "plaidId": 14001011,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Healthcare Services",
+    "plaid3": "Dentists",
+    "plaidId": 14001012,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Healthcare Services",
+    "plaid3": "Counseling and Therapy",
+    "plaidId": 14001013,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Healthcare Services",
+    "plaid3": "Chiropractors",
+    "plaidId": 14001014,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Healthcare Services",
+    "plaid3": "Blood Banks and Centers",
+    "plaidId": 14001015,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Healthcare Services",
+    "plaid3": "Alternative Medicine",
+    "plaidId": 14001016,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Healthcare Services",
+    "plaid3": "Acupuncture",
+    "plaidId": 14001017,
+    "type": "place"
+  },
+  {
+    "mint": "Doctor",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "",
+    "plaidId": 14002000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Urologists",
+    "plaidId": 14002001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Respiratory",
+    "plaidId": 14002002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Radiologists",
+    "plaidId": 14002003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Psychiatrists",
+    "plaidId": 14002004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Plastic Surgeons",
+    "plaidId": 14002005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Pediatricians",
+    "plaidId": 14002006,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Pathologists",
+    "plaidId": 14002007,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Orthopedic Surgeons",
+    "plaidId": 14002008,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Ophthalmologists",
+    "plaidId": 14002009,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Oncologists",
+    "plaidId": 14002010,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Obstetricians and Gynecologists",
+    "plaidId": 14002011,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Neurologists",
+    "plaidId": 14002012,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Internal Medicine",
+    "plaidId": 14002013,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "General Surgery",
+    "plaidId": 14002014,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Gastroenterologists",
+    "plaidId": 14002015,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Family Medicine",
+    "plaidId": 14002016,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Ear, Nose and Throat",
+    "plaidId": 14002017,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Dermatologists",
+    "plaidId": 14002018,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Cardiologists",
+    "plaidId": 14002019,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Healthcare",
+    "plaid2": "Physicians",
+    "plaid3": "Anesthesiologists",
+    "plaidId": 14002020,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Interest",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": 15000000,
+    "type": "special"
+  },
+  {
+    "mint": "Interest Income",
+    "plaid1": "Interest",
+    "plaid2": "Interest Earned",
+    "plaid3": "",
+    "plaidId": 15001000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Interest",
+    "plaid2": "Interest Charged",
+    "plaid3": "",
+    "plaidId": 15002000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Payment",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": 16000000,
+    "type": "special"
+  },
+  {
+    "mint": "Credit Card Payment",
+    "plaid1": "Payment",
+    "plaid2": "Credit Card",
+    "plaid3": "",
+    "plaidId": 16001000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Payment",
+    "plaid2": "Rent",
+    "plaid3": "",
+    "plaidId": 16002000,
+    "type": "special"
+  },
+  {
+    "mint": "Student Loan",
+    "plaid1": "Payment",
+    "plaid2": "Loan",
+    "plaid3": "",
+    "plaidId": 16003000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": 17000000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "",
+    "plaidId": 17001000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Theatrical Productions",
+    "plaidId": 17001001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Symphony and Opera",
+    "plaidId": 17001002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Sports Venues",
+    "plaidId": 17001003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Social Clubs",
+    "plaidId": 17001004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Psychics and Astrologers",
+    "plaidId": 17001005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Party Centers",
+    "plaidId": 17001006,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Music and Show Venues",
+    "plaidId": 17001007,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Museums",
+    "plaidId": 17001008,
+    "type": "place"
+  },
+  {
+    "mint": "Movies & DVDs",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Movie Theatres",
+    "plaidId": 17001009,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Fairgrounds and Rodeos",
+    "plaidId": 17001010,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Entertainment",
+    "plaidId": 17001011,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Dance Halls and Saloons",
+    "plaidId": 17001012,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Circuses and Carnivals",
+    "plaidId": 17001013,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Casinos and Gaming",
+    "plaidId": 17001014,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Bowling",
+    "plaidId": 17001015,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Billiards and Pool",
+    "plaidId": 17001016,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Art Dealers and Galleries",
+    "plaidId": 17001017,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Arcades and Amusement Parks",
+    "plaidId": 17001018,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Arts and Entertainment",
+    "plaid3": "Aquarium",
+    "plaidId": 17001019,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Athletic Fields",
+    "plaid3": "",
+    "plaidId": 17002000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Baseball",
+    "plaid3": "",
+    "plaidId": 17003000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Basketball",
+    "plaid3": "",
+    "plaidId": 17004000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Batting Cages",
+    "plaid3": "",
+    "plaidId": 17005000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Boating",
+    "plaid3": "",
+    "plaidId": 17006000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Campgrounds and RV Parks",
+    "plaid3": "",
+    "plaidId": 17007000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Canoes and Kayaks",
+    "plaid3": "",
+    "plaidId": 17008000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Combat Sports",
+    "plaid3": "",
+    "plaidId": 17009000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Cycling",
+    "plaid3": "",
+    "plaidId": 17010000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Dance",
+    "plaid3": "",
+    "plaidId": 17011000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Equestrian",
+    "plaid3": "",
+    "plaidId": 17012000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Football",
+    "plaid3": "",
+    "plaidId": 17013000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Go Carts",
+    "plaid3": "",
+    "plaidId": 17014000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Golf",
+    "plaid3": "",
+    "plaidId": 17015000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Gun Ranges",
+    "plaid3": "",
+    "plaidId": 17016000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Gymnastics",
+    "plaid3": "",
+    "plaidId": 17017000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Gyms and Fitness Centers",
+    "plaid3": "",
+    "plaidId": 17018000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Hiking",
+    "plaid3": "",
+    "plaidId": 17019000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Hockey",
+    "plaid3": "",
+    "plaidId": 17020000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Hot Air Balloons",
+    "plaid3": "",
+    "plaidId": 17021000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Hunting and Fishing",
+    "plaid3": "",
+    "plaidId": 17022000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Landmarks",
+    "plaid3": "",
+    "plaidId": 17023000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Landmarks",
+    "plaid3": "Monuments and Memorials",
+    "plaidId": 17023001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Landmarks",
+    "plaid3": "Historic Sites",
+    "plaidId": 17023002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Landmarks",
+    "plaid3": "Gardens",
+    "plaidId": 17023003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Landmarks",
+    "plaid3": "Buildings and Structures",
+    "plaidId": 17023004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Miniature Golf",
+    "plaid3": "",
+    "plaidId": 17024000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Outdoors",
+    "plaid3": "",
+    "plaidId": 17025000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Outdoors",
+    "plaid3": "Rivers",
+    "plaidId": 17025001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Outdoors",
+    "plaid3": "Mountains",
+    "plaidId": 17025002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Outdoors",
+    "plaid3": "Lakes",
+    "plaidId": 17025003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Outdoors",
+    "plaid3": "Forests",
+    "plaidId": 17025004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Outdoors",
+    "plaid3": "Beaches",
+    "plaidId": 17025005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Paintball",
+    "plaid3": "",
+    "plaidId": 17026000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Parks",
+    "plaid3": "",
+    "plaidId": 17027000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Parks",
+    "plaid3": "Playgrounds",
+    "plaidId": 17027001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Parks",
+    "plaid3": "Picnic Areas",
+    "plaidId": 17027002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Parks",
+    "plaid3": "Natural Parks",
+    "plaidId": 17027003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Personal Trainers",
+    "plaid3": "",
+    "plaidId": 17028000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Race Tracks",
+    "plaid3": "",
+    "plaidId": 17029000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Racquet Sports",
+    "plaid3": "",
+    "plaidId": 17030000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Racquetball",
+    "plaid3": "",
+    "plaidId": 17031000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Rafting",
+    "plaid3": "",
+    "plaidId": 17032000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Recreation Centers",
+    "plaid3": "",
+    "plaidId": 17033000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Rock Climbing",
+    "plaid3": "",
+    "plaidId": 17034000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Running",
+    "plaid3": "",
+    "plaidId": 17035000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Scuba Diving",
+    "plaid3": "",
+    "plaidId": 17036000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Skating",
+    "plaid3": "",
+    "plaidId": 17037000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Skydiving",
+    "plaid3": "",
+    "plaidId": 17038000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Snow Sports",
+    "plaid3": "",
+    "plaidId": 17039000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Soccer",
+    "plaid3": "",
+    "plaidId": 17040000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Sports and Recreation Camps",
+    "plaid3": "",
+    "plaidId": 17041000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Sports Clubs",
+    "plaid3": "",
+    "plaidId": 17042000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Stadiums and Arenas",
+    "plaid3": "",
+    "plaidId": 17043000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Swimming",
+    "plaid3": "",
+    "plaidId": 17044000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Tennis",
+    "plaid3": "",
+    "plaidId": 17045000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Water Sports",
+    "plaid3": "",
+    "plaidId": 17046000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Yoga and Pilates",
+    "plaid3": "",
+    "plaidId": 17047000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Recreation",
+    "plaid2": "Zoo",
+    "plaid3": "",
+    "plaidId": 17048000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": 18000000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Advertising and Marketing",
+    "plaid3": "",
+    "plaidId": 18001000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Advertising and Marketing",
+    "plaid3": "Writing, Copywriting and Technical Writing",
+    "plaidId": 18001001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Advertising and Marketing",
+    "plaid3": "Search Engine Marketing and Optimization",
+    "plaidId": 18001002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Advertising and Marketing",
+    "plaid3": "Public Relations",
+    "plaidId": 18001003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Advertising and Marketing",
+    "plaid3": "Promotional Items",
+    "plaidId": 18001004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Advertising and Marketing",
+    "plaid3": "Print, TV, Radio and Outdoor Advertising",
+    "plaidId": 18001005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Advertising and Marketing",
+    "plaid3": "Online Advertising",
+    "plaidId": 18001006,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Advertising and Marketing",
+    "plaid3": "Market Research and Consulting",
+    "plaidId": 18001007,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Advertising and Marketing",
+    "plaid3": "Direct Mail and Email Marketing Services",
+    "plaidId": 18001008,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Advertising and Marketing",
+    "plaid3": "Creative Services",
+    "plaidId": 18001009,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Advertising and Marketing",
+    "plaid3": "Advertising Agencies and Media Buyers",
+    "plaidId": 18001010,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Art Restoration",
+    "plaid3": "",
+    "plaidId": 18003000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Audiovisual",
+    "plaid3": "",
+    "plaidId": 18004000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Automation and Control Systems",
+    "plaid3": "",
+    "plaidId": 18005000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Automotive",
+    "plaid3": "",
+    "plaidId": 18006000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Automotive",
+    "plaid3": "Towing",
+    "plaidId": 18006001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Automotive",
+    "plaid3": "Motorcycle, Moped and Scooter Repair",
+    "plaidId": 18006002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Automotive",
+    "plaid3": "Maintenance and Repair",
+    "plaidId": 18006003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Automotive",
+    "plaid3": "Car Wash and Detail",
+    "plaidId": 18006004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Automotive",
+    "plaid3": "Car Appraisers",
+    "plaidId": 18006005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Automotive",
+    "plaid3": "Auto Transmission",
+    "plaidId": 18006006,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Automotive",
+    "plaid3": "Auto Tires",
+    "plaidId": 18006007,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Automotive",
+    "plaid3": "Auto Smog Check",
+    "plaidId": 18006008,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Automotive",
+    "plaid3": "Auto Oil and Lube",
+    "plaidId": 18006009,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Business and Strategy Consulting",
+    "plaid3": "",
+    "plaidId": 18007000,
+    "type": "place"
+  },
+  {
+    "mint": "Business Services",
+    "plaid1": "Service",
+    "plaid2": "Business Services",
+    "plaid3": "",
+    "plaidId": 18008000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Business Services",
+    "plaid3": "Printing and Publishing",
+    "plaidId": 18008001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Cable",
+    "plaid3": "",
+    "plaidId": 18009000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Chemicals and Gasses",
+    "plaid3": "",
+    "plaidId": 18010000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Cleaning",
+    "plaid3": "",
+    "plaidId": 18011000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Computers",
+    "plaid3": "",
+    "plaidId": 18012000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Computers",
+    "plaid3": "Maintenance and Repair",
+    "plaidId": 18012001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Computers",
+    "plaid3": "Software Development",
+    "plaidId": 18012002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Construction",
+    "plaid3": "",
+    "plaidId": 18013000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Construction",
+    "plaid3": "Specialty",
+    "plaidId": 18013001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Construction",
+    "plaid3": "Roofers",
+    "plaidId": 18013002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Construction",
+    "plaid3": "Painting",
+    "plaidId": 18013003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Construction",
+    "plaid3": "Masonry",
+    "plaidId": 18013004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Construction",
+    "plaid3": "Infrastructure",
+    "plaidId": 18013005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Construction",
+    "plaid3": "Heating, Ventilating and Air Conditioning",
+    "plaidId": 18013006,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Construction",
+    "plaid3": "Electricians",
+    "plaidId": 18013007,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Construction",
+    "plaid3": "Contractors",
+    "plaidId": 18013008,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Construction",
+    "plaid3": "Carpet and Flooring",
+    "plaidId": 18013009,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Construction",
+    "plaid3": "Carpenters",
+    "plaidId": 18013010,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Credit Counseling and Bankruptcy Services",
+    "plaid3": "",
+    "plaidId": 18014000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Dating and Escort",
+    "plaid3": "",
+    "plaidId": 18015000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Employment Agencies",
+    "plaid3": "",
+    "plaidId": 18016000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Engineering",
+    "plaid3": "",
+    "plaidId": 18017000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Entertainment",
+    "plaid3": "",
+    "plaidId": 18018000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Entertainment",
+    "plaid3": "Media",
+    "plaidId": 18018001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Events and Event Planning",
+    "plaid3": "",
+    "plaidId": 18019000,
+    "type": "place"
+  },
+  {
+    "mint": "Financial",
+    "plaid1": "Service",
+    "plaid2": "Financial",
+    "plaid3": "",
+    "plaidId": 18020000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Financial",
+    "plaid3": "Taxes",
+    "plaidId": 18020001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Financial",
+    "plaid3": "Student Aid and Grants",
+    "plaidId": 18020002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Financial",
+    "plaid3": "Stock Brokers",
+    "plaidId": 18020003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Financial",
+    "plaid3": "Loans and Mortgages",
+    "plaidId": 18020004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Financial",
+    "plaid3": "Holding and Investment Offices",
+    "plaidId": 18020005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Financial",
+    "plaid3": "Fund Raising",
+    "plaidId": 18020006,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Financial",
+    "plaid3": "Financial Planning and Investments",
+    "plaidId": 18020007,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Financial",
+    "plaid3": "Credit Reporting",
+    "plaidId": 18020008,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Financial",
+    "plaid3": "Collections",
+    "plaidId": 18020009,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Financial",
+    "plaid3": "Check Cashing",
+    "plaidId": 18020010,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Financial",
+    "plaid3": "Business Brokers and Franchises",
+    "plaidId": 18020011,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Financial",
+    "plaid3": "Banking and Finance",
+    "plaidId": 18020012,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Financial",
+    "plaid3": "ATMs",
+    "plaidId": 18020013,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Financial",
+    "plaid3": "Accounting and Bookkeeping",
+    "plaidId": 18020014,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Food and Beverage",
+    "plaid3": "",
+    "plaidId": 18021000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Food and Beverage",
+    "plaid3": "Distribution",
+    "plaidId": 18021001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Food and Beverage",
+    "plaid3": "Catering",
+    "plaidId": 18021002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Funeral Services",
+    "plaid3": "",
+    "plaidId": 18022000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Geological",
+    "plaid3": "",
+    "plaidId": 18023000,
+    "type": "place"
+  },
+  {
+    "mint": "Home Improvement",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "",
+    "plaidId": 18024000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Upholstery",
+    "plaidId": 18024001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Tree Service",
+    "plaidId": 18024002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Swimming Pool Maintenance and Services",
+    "plaidId": 18024003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Storage",
+    "plaidId": 18024004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Roofers",
+    "plaidId": 18024005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Pools and Spas",
+    "plaidId": 18024006,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Plumbing",
+    "plaidId": 18024007,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Pest Control",
+    "plaidId": 18024008,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Painting",
+    "plaidId": 18024009,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Movers",
+    "plaidId": 18024010,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Mobile Homes",
+    "plaidId": 18024011,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Lighting Fixtures",
+    "plaidId": 18024012,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Landscaping and Gardeners",
+    "plaidId": 18024013,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Kitchens",
+    "plaidId": 18024014,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Interior Design",
+    "plaidId": 18024015,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Housewares",
+    "plaidId": 18024016,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Home Inspection Services",
+    "plaidId": 18024017,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Home Appliances",
+    "plaidId": 18024018,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Heating, Ventilation and Air Conditioning",
+    "plaidId": 18024019,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Hardware and Services",
+    "plaidId": 18024020,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Fences, Fireplaces and Garage Doors",
+    "plaidId": 18024021,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Electricians",
+    "plaidId": 18024022,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Doors and Windows",
+    "plaidId": 18024023,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Contractors",
+    "plaidId": 18024024,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Carpet and Flooring",
+    "plaidId": 18024025,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Carpenters",
+    "plaidId": 18024026,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Home Improvement",
+    "plaid3": "Architects",
+    "plaidId": 18024027,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Household",
+    "plaid3": "",
+    "plaidId": 18025000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Human Resources",
+    "plaid3": "",
+    "plaidId": 18026000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Immigration",
+    "plaid3": "",
+    "plaidId": 18027000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Import and Export",
+    "plaid3": "",
+    "plaidId": 18028000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Industrial Machinery and Vehicles",
+    "plaid3": "",
+    "plaidId": 18029000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Insurance",
+    "plaid3": "",
+    "plaidId": 18030000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Internet Services",
+    "plaid3": "",
+    "plaidId": 18031000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Leather",
+    "plaid3": "",
+    "plaidId": 18032000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Legal",
+    "plaid3": "",
+    "plaidId": 18033000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Logging and Sawmills",
+    "plaid3": "",
+    "plaidId": 18034000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Machine Shops",
+    "plaid3": "",
+    "plaidId": 18035000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Management",
+    "plaid3": "",
+    "plaidId": 18036000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "",
+    "plaidId": 18037000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Apparel and Fabric Products",
+    "plaidId": 18037001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Chemicals and Gasses",
+    "plaidId": 18037002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Computers and Office Machines",
+    "plaidId": 18037003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Electrical Equipment and Components",
+    "plaidId": 18037004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Food and Beverage",
+    "plaidId": 18037005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Furniture and Fixtures",
+    "plaidId": 18037006,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Glass Products",
+    "plaidId": 18037007,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Industrial Machinery and Equipment",
+    "plaidId": 18037008,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Leather Goods",
+    "plaidId": 18037009,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Metal Products",
+    "plaidId": 18037010,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Nonmetallic Mineral Products",
+    "plaidId": 18037011,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Paper Products",
+    "plaidId": 18037012,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Petroleum",
+    "plaidId": 18037013,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Plastic Products",
+    "plaidId": 18037014,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Rubber Products",
+    "plaidId": 18037015,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Service Instruments",
+    "plaidId": 18037016,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Textiles",
+    "plaidId": 18037017,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Tobacco",
+    "plaidId": 18037018,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Transportation Equipment",
+    "plaidId": 18037019,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Manufacturing",
+    "plaid3": "Wood Products",
+    "plaidId": 18037020,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Media Production",
+    "plaid3": "",
+    "plaidId": 18038000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Metals",
+    "plaid3": "",
+    "plaidId": 18039000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Mining",
+    "plaid3": "",
+    "plaidId": 18040000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Mining",
+    "plaid3": "Coal",
+    "plaidId": 18040001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Mining",
+    "plaid3": "Metal",
+    "plaidId": 18040002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Mining",
+    "plaid3": "Non-Metallic Minerals",
+    "plaidId": 18040003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "News Reporting",
+    "plaid3": "",
+    "plaidId": 18041000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Oil and Gas",
+    "plaid3": "",
+    "plaidId": 18042000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Packaging",
+    "plaid3": "",
+    "plaidId": 18043000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Paper",
+    "plaid3": "",
+    "plaidId": 18044000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Personal Care",
+    "plaid3": "",
+    "plaidId": 18045000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Personal Care",
+    "plaid3": "Tattooing",
+    "plaidId": 18045001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Personal Care",
+    "plaid3": "Tanning Salons",
+    "plaidId": 18045002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Personal Care",
+    "plaid3": "Spas",
+    "plaidId": 18045003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Personal Care",
+    "plaid3": "Skin Care",
+    "plaidId": 18045004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Personal Care",
+    "plaid3": "Piercing",
+    "plaidId": 18045005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Personal Care",
+    "plaid3": "Massage Clinics and Therapists",
+    "plaidId": 18045006,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Personal Care",
+    "plaid3": "Manicures and Pedicures",
+    "plaidId": 18045007,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Personal Care",
+    "plaid3": "Laundry and Garment Services",
+    "plaidId": 18045008,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Personal Care",
+    "plaid3": "Hair Salons and Barbers",
+    "plaidId": 18045009,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Personal Care",
+    "plaid3": "Hair Removal",
+    "plaidId": 18045010,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Petroleum",
+    "plaid3": "",
+    "plaidId": 18046000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Photography",
+    "plaid3": "",
+    "plaidId": 18047000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Plastics",
+    "plaid3": "",
+    "plaidId": 18048000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Rail",
+    "plaid3": "",
+    "plaidId": 18049000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Real Estate",
+    "plaid3": "",
+    "plaidId": 18050000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Real Estate",
+    "plaid3": "Real Estate Development and Title Companies",
+    "plaidId": 18050001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Real Estate",
+    "plaid3": "Real Estate Appraiser",
+    "plaidId": 18050002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Real Estate",
+    "plaid3": "Real Estate Agents",
+    "plaidId": 18050003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Real Estate",
+    "plaid3": "Property Management",
+    "plaidId": 18050004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Real Estate",
+    "plaid3": "Corporate Housing",
+    "plaidId": 18050005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Real Estate",
+    "plaid3": "Commercial Real Estate",
+    "plaidId": 18050006,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Real Estate",
+    "plaid3": "Building and Land Surveyors",
+    "plaidId": 18050007,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Real Estate",
+    "plaid3": "Boarding Houses",
+    "plaidId": 18050008,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Real Estate",
+    "plaid3": "Apartments, Condos and Houses",
+    "plaidId": 18050009,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Real Estate",
+    "plaid3": "Rent",
+    "plaidId": 18050010,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Refrigeration and Ice",
+    "plaid3": "",
+    "plaidId": 18051000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Renewable Energy",
+    "plaid3": "",
+    "plaidId": 18052000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Repair Services",
+    "plaid3": "",
+    "plaidId": 18053000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Research",
+    "plaid3": "",
+    "plaidId": 18054000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Rubber",
+    "plaid3": "",
+    "plaidId": 18055000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Scientific",
+    "plaid3": "",
+    "plaidId": 18056000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Security and Safety",
+    "plaid3": "",
+    "plaidId": 18057000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Shipping and Freight",
+    "plaid3": "",
+    "plaidId": 18058000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Software Development",
+    "plaid3": "",
+    "plaidId": 18059000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Storage",
+    "plaid3": "",
+    "plaidId": 18060000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Subscription",
+    "plaid3": "",
+    "plaidId": 18061000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Tailors",
+    "plaid3": "",
+    "plaidId": 18062000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Telecommunication Services",
+    "plaid3": "",
+    "plaidId": 18063000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Textiles",
+    "plaid3": "",
+    "plaidId": 18064000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Tourist Information and Services",
+    "plaid3": "",
+    "plaidId": 18065000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Transportation",
+    "plaid3": "",
+    "plaidId": 18066000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Travel Agents and Tour Operators",
+    "plaid3": "",
+    "plaidId": 18067000,
+    "type": "place"
+  },
+  {
+    "mint": "Utilities",
+    "plaid1": "Service",
+    "plaid2": "Utilities",
+    "plaid3": "",
+    "plaidId": 18068000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Utilities",
+    "plaid3": "Water",
+    "plaidId": 18068001,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Utilities",
+    "plaid3": "Sanitary and Waste Management",
+    "plaidId": 18068002,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Utilities",
+    "plaid3": "Heating, Ventilating, and Air Conditioning",
+    "plaidId": 18068003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Utilities",
+    "plaid3": "Gas",
+    "plaidId": 18068004,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Utilities",
+    "plaid3": "Electric",
+    "plaidId": 18068005,
+    "type": "special"
+  },
+  {
+    "mint": "Veterinary",
+    "plaid1": "Service",
+    "plaid2": "Veterinarians",
+    "plaid3": "",
+    "plaidId": 18069000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Water and Waste Management",
+    "plaid3": "",
+    "plaidId": 18070000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Web Design and Development",
+    "plaid3": "",
+    "plaidId": 18071000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Welding",
+    "plaid3": "",
+    "plaidId": 18072000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Agriculture and Forestry",
+    "plaid3": "",
+    "plaidId": 18073000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Agriculture and Forestry",
+    "plaid3": "Crop Production",
+    "plaidId": 18073001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Agriculture and Forestry",
+    "plaid3": "Forestry",
+    "plaidId": 18073002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Agriculture and Forestry",
+    "plaid3": "Livestock and Animals",
+    "plaidId": 18073003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Agriculture and Forestry",
+    "plaid3": "Services",
+    "plaidId": 18073004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Service",
+    "plaid2": "Art and Graphic Design",
+    "plaid3": "",
+    "plaidId": 18074000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": 19000000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Adult",
+    "plaid3": "",
+    "plaidId": 19001000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Antiques",
+    "plaid3": "",
+    "plaidId": 19002000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Arts and Crafts",
+    "plaid3": "",
+    "plaidId": 19003000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Auctions",
+    "plaid3": "",
+    "plaidId": 19004000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Automotive",
+    "plaid3": "",
+    "plaidId": 19005000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Automotive",
+    "plaid3": "Used Car Dealers",
+    "plaidId": 19005001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Automotive",
+    "plaid3": "Salvage Yards",
+    "plaidId": 19005002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Automotive",
+    "plaid3": "RVs and Motor Homes",
+    "plaidId": 19005003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Automotive",
+    "plaid3": "Motorcycles, Mopeds and Scooters",
+    "plaidId": 19005004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Automotive",
+    "plaid3": "Classic and Antique Car",
+    "plaidId": 19005005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Automotive",
+    "plaid3": "Car Parts and Accessories",
+    "plaidId": 19005006,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Automotive",
+    "plaid3": "Car Dealers and Leasing",
+    "plaidId": 19005007,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Beauty Products",
+    "plaid3": "",
+    "plaidId": 19006000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Bicycles",
+    "plaid3": "",
+    "plaidId": 19007000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Boat Dealers",
+    "plaid3": "",
+    "plaidId": 19008000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Bookstores",
+    "plaid3": "",
+    "plaidId": 19009000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Cards and Stationery",
+    "plaid3": "",
+    "plaidId": 19010000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Children",
+    "plaid3": "",
+    "plaidId": 19011000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Clothing and Accessories",
+    "plaid3": "",
+    "plaidId": 19012000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Clothing and Accessories",
+    "plaid3": "Women's Store",
+    "plaidId": 19012001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Clothing and Accessories",
+    "plaid3": "Swimwear",
+    "plaidId": 19012002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Clothing and Accessories",
+    "plaid3": "Shoe Store",
+    "plaidId": 19012003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Clothing and Accessories",
+    "plaid3": "Men's Store",
+    "plaidId": 19012004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Clothing and Accessories",
+    "plaid3": "Lingerie Store",
+    "plaidId": 19012005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Clothing and Accessories",
+    "plaid3": "Kids' Store",
+    "plaidId": 19012006,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Clothing and Accessories",
+    "plaid3": "Boutique",
+    "plaidId": 19012007,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Clothing and Accessories",
+    "plaid3": "Accessories Store",
+    "plaidId": 19012008,
+    "type": "place"
+  },
+  {
+    "mint": "Electronics & Software",
+    "plaid1": "Shops",
+    "plaid2": "Computers and Electronics",
+    "plaid3": "",
+    "plaidId": 19013000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Computers and Electronics",
+    "plaid3": "Video Games",
+    "plaidId": 19013001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Computers and Electronics",
+    "plaid3": "Mobile Phones",
+    "plaidId": 19013002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Computers and Electronics",
+    "plaid3": "Cameras",
+    "plaidId": 19013003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Construction Supplies",
+    "plaid3": "",
+    "plaidId": 19014000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Convenience Stores",
+    "plaid3": "",
+    "plaidId": 19015000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Costumes",
+    "plaid3": "",
+    "plaidId": 19016000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Dance and Music",
+    "plaid3": "",
+    "plaidId": 19017000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Department Stores",
+    "plaid3": "",
+    "plaidId": 19018000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Digital Purchase",
+    "plaid3": "",
+    "plaidId": 19019000,
+    "type": "digital"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Discount Stores",
+    "plaid3": "",
+    "plaidId": 19020000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Electrical Equipment",
+    "plaid3": "",
+    "plaidId": 19021000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Equipment Rental",
+    "plaid3": "",
+    "plaidId": 19022000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Flea Markets",
+    "plaid3": "",
+    "plaidId": 19023000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Florists",
+    "plaid3": "",
+    "plaidId": 19024000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Food and Beverage Store",
+    "plaid3": "",
+    "plaidId": 19025000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Food and Beverage Store",
+    "plaid3": "Specialty",
+    "plaidId": 19025001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Food and Beverage Store",
+    "plaid3": "Health Food",
+    "plaidId": 19025002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Food and Beverage Store",
+    "plaid3": "Farmers Markets",
+    "plaidId": 19025003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Food and Beverage Store",
+    "plaid3": "Beer, Wine and Spirits",
+    "plaidId": 19025004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Fuel Dealer",
+    "plaid3": "",
+    "plaidId": 19026000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Furniture and Home Decor",
+    "plaid3": "",
+    "plaidId": 19027000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Gift and Novelty",
+    "plaid3": "",
+    "plaidId": 19028000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Glasses and Optometrist",
+    "plaid3": "",
+    "plaidId": 19029000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Hardware Store",
+    "plaid3": "",
+    "plaidId": 19030000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Hobby and Collectibles",
+    "plaid3": "",
+    "plaidId": 19031000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Industrial Supplies",
+    "plaid3": "",
+    "plaidId": 19032000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Jewelry and Watches",
+    "plaid3": "",
+    "plaidId": 19033000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Luggage",
+    "plaid3": "",
+    "plaidId": 19034000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Marine Supplies",
+    "plaid3": "",
+    "plaidId": 19035000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Music, Video and DVD",
+    "plaid3": "",
+    "plaidId": 19036000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Musical Instruments",
+    "plaid3": "",
+    "plaidId": 19037000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Newsstands",
+    "plaid3": "",
+    "plaidId": 19038000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Office Supplies",
+    "plaid3": "",
+    "plaidId": 19039000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Outlet",
+    "plaid3": "",
+    "plaidId": 19040000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Outlet",
+    "plaid3": "Women's Store",
+    "plaidId": 19040001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Outlet",
+    "plaid3": "Swimwear",
+    "plaidId": 19040002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Outlet",
+    "plaid3": "Shoe Store",
+    "plaidId": 19040003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Outlet",
+    "plaid3": "Men's Store",
+    "plaidId": 19040004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Outlet",
+    "plaid3": "Lingerie Store",
+    "plaidId": 19040005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Outlet",
+    "plaid3": "Kids' Store",
+    "plaidId": 19040006,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Outlet",
+    "plaid3": "Boutique",
+    "plaidId": 19040007,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Outlet",
+    "plaid3": "Accessories Store",
+    "plaidId": 19040008,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Pawn Shops",
+    "plaid3": "",
+    "plaidId": 19041000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Pets",
+    "plaid3": "",
+    "plaidId": 19042000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Pharmacies",
+    "plaid3": "",
+    "plaidId": 19043000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Photos and Frames",
+    "plaid3": "",
+    "plaidId": 19044000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Shopping Centers and Malls",
+    "plaid3": "",
+    "plaidId": 19045000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Sporting Goods",
+    "plaid3": "",
+    "plaidId": 19046000,
+    "type": "place"
+  },
+  {
+    "mint": "Groceries",
+    "plaid1": "Shops",
+    "plaid2": "Supermarkets and Groceries",
+    "plaid3": "",
+    "plaidId": 19047000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Tobacco",
+    "plaid3": "",
+    "plaidId": 19048000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Toys",
+    "plaid3": "",
+    "plaidId": 19049000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Vintage and Thrift",
+    "plaid3": "",
+    "plaidId": 19050000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Warehouses and Wholesale Stores",
+    "plaid3": "",
+    "plaidId": 19051000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Wedding and Bridal",
+    "plaid3": "",
+    "plaidId": 19052000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Wholesale",
+    "plaid3": "",
+    "plaidId": 19053000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Shops",
+    "plaid2": "Lawn and Garden",
+    "plaid3": "",
+    "plaidId": 19054000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Tax",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": 20000000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Tax",
+    "plaid2": "Refund",
+    "plaid3": "",
+    "plaidId": 20001000,
+    "type": "special"
+  },
+  {
+    "mint": "Taxes",
+    "plaid1": "Tax",
+    "plaid2": "Payment",
+    "plaid3": "",
+    "plaidId": 20002000,
+    "type": "special"
+  },
+  {
+    "mint": "Transfer",
+    "plaid1": "Transfer",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": 21000000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Internal Account Transfer",
+    "plaid3": "",
+    "plaidId": 21001000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "ACH",
+    "plaid3": "",
+    "plaidId": 21002000,
+    "type": "special"
+  },
+  {
+    "mint": "Check",
+    "plaid1": "Transfer",
+    "plaid2": "Billpay",
+    "plaid3": "",
+    "plaidId": 21003000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Check",
+    "plaid3": "",
+    "plaidId": 21004000,
+    "type": "special"
+  },
+  {
+    "mint": "Bonus",
+    "plaid1": "Transfer",
+    "plaid2": "Credit",
+    "plaid3": "",
+    "plaidId": 21005000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Debit",
+    "plaid3": "",
+    "plaidId": 21006000,
+    "type": "special"
+  },
+  {
+    "mint": "Income",
+    "plaid1": "Transfer",
+    "plaid2": "Deposit",
+    "plaid3": "",
+    "plaidId": 21007000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Deposit",
+    "plaid3": "Check",
+    "plaidId": 21007001,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Deposit",
+    "plaid3": "ATM",
+    "plaidId": 21007002,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Keep the Change Savings Program",
+    "plaid3": "",
+    "plaidId": 21008000,
+    "type": "special"
+  },
+  {
+    "mint": "Paycheck",
+    "plaid1": "Transfer",
+    "plaid2": "Payroll",
+    "plaid3": "",
+    "plaidId": 21009000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Payroll",
+    "plaid3": "Benefits",
+    "plaidId": 21009001,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Third Party",
+    "plaid3": "",
+    "plaidId": 21010000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Third Party",
+    "plaid3": "Venmo",
+    "plaidId": 21010001,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Third Party",
+    "plaid3": "Square Cash",
+    "plaidId": 21010002,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Third Party",
+    "plaid3": "Square",
+    "plaidId": 21010003,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Third Party",
+    "plaid3": "PayPal",
+    "plaidId": 21010004,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Third Party",
+    "plaid3": "Dwolla",
+    "plaidId": 21010005,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Third Party",
+    "plaid3": "Coinbase",
+    "plaidId": 21010006,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Third Party",
+    "plaid3": "Chase QuickPay",
+    "plaidId": 21010007,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Third Party",
+    "plaid3": "Acorns",
+    "plaidId": 21010008,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Third Party",
+    "plaid3": "Digit",
+    "plaidId": 21010009,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Third Party",
+    "plaid3": "Betterment",
+    "plaidId": 21010010,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Wire",
+    "plaid3": "",
+    "plaidId": 21011000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Withdrawal",
+    "plaid3": "",
+    "plaidId": 21012000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Withdrawal",
+    "plaid3": "Check",
+    "plaidId": 21012001,
+    "type": "special"
+  },
+  {
+    "mint": "Cash & ATM",
+    "plaid1": "Transfer",
+    "plaid2": "Withdrawal",
+    "plaid3": "ATM",
+    "plaidId": 21012002,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Transfer",
+    "plaid2": "Save As You Go",
+    "plaid3": "",
+    "plaidId": 21013000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": 22000000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Airlines and Aviation Services",
+    "plaid3": "",
+    "plaidId": 22001000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Airports",
+    "plaid3": "",
+    "plaidId": 22002000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Boat",
+    "plaid3": "",
+    "plaidId": 22003000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Bus Stations",
+    "plaid3": "",
+    "plaidId": 22004000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Car and Truck Rentals",
+    "plaid3": "",
+    "plaidId": 22005000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Car Service",
+    "plaid3": "",
+    "plaidId": 22006000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Car Service",
+    "plaid3": "Ride Share",
+    "plaidId": 22006001,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Charter Buses",
+    "plaid3": "",
+    "plaidId": 22007000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Cruises",
+    "plaid3": "",
+    "plaidId": 22008000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Gas Stations",
+    "plaid3": "",
+    "plaidId": 22009000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Heliports",
+    "plaid3": "",
+    "plaidId": 22010000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Limos and Chauffeurs",
+    "plaid3": "",
+    "plaidId": 22011000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Lodging",
+    "plaid3": "",
+    "plaidId": 22012000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Lodging",
+    "plaid3": "Resorts",
+    "plaidId": 22012001,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Lodging",
+    "plaid3": "Lodges and Vacation Rentals",
+    "plaidId": 22012002,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Lodging",
+    "plaid3": "Hotels and Motels",
+    "plaidId": 22012003,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Lodging",
+    "plaid3": "Hostels",
+    "plaidId": 22012004,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Lodging",
+    "plaid3": "Cottages and Cabins",
+    "plaidId": 22012005,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Lodging",
+    "plaid3": "Bed and Breakfasts",
+    "plaidId": 22012006,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Parking",
+    "plaid3": "",
+    "plaidId": 22013000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Public Transportation Services",
+    "plaid3": "",
+    "plaidId": 22014000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Rail",
+    "plaid3": "",
+    "plaidId": 22015000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Taxi",
+    "plaid3": "",
+    "plaidId": 22016000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Tolls and Fees",
+    "plaid3": "",
+    "plaidId": 22017000,
+    "type": "special"
+  },
+  {
+    "mint": "",
+    "plaid1": "Travel",
+    "plaid2": "Transportation Centers",
+    "plaid3": "",
+    "plaidId": 22018000,
+    "type": "place"
+  },
+  {
+    "mint": "",
+    "plaid1": "Contact GitHub",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": "",
+    "type": ""
+  },
+  {
+    "mint": "",
+    "plaid1": "API",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": "",
+    "type": ""
+  },
+  {
+    "mint": "",
+    "plaid1": "Training",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": "",
+    "type": ""
+  },
+  {
+    "mint": "",
+    "plaid1": "Shop",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": "",
+    "type": ""
+  },
+  {
+    "mint": "",
+    "plaid1": "Blog",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": "",
+    "type": ""
+  },
+  {
+    "mint": "",
+    "plaid1": "About",
+    "plaid2": "",
+    "plaid3": "",
+    "plaidId": "",
+    "type": ""
+  }
+]

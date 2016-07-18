@@ -1,0 +1,35 @@
+[{
+	"_account": "YzzrzBrO9OSzo6BXwAvVuL5dmMKMqkhOoEqeo",
+	"amount": 12.74,
+	"date": "2016-03-12",
+	"name": "Golden Crepes",
+	"meta": {
+		"location": {
+			"address": "262 W 15th St",
+			"city": "New York",
+			"state": "NY",
+			"zip": "10011",
+			"coordinates": {
+				"lat": 40.740352,
+				"lon": -74.001761
+			}
+		}
+	},
+	"pending": false,
+	"type": {
+		"primary": "place"
+	},
+	"category": [
+		"Food and Drink",
+		"Restaurants"
+	],
+	"category_id": "13005000",
+	"score": {
+		"location": {
+			"address": 1,
+			"city": 1,
+			"state": 1
+		},
+		"name": 0.9
+	}
+}]
