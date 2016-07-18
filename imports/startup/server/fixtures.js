@@ -14,6 +14,7 @@ Meteor.methods({
   transformMintData(data, filename) {
 
     let jsonArray = [];
+    let missingCategories = [];
 
     let newTransaction = transactionTemplate;
     _.each(data, function(mint) {
@@ -39,8 +40,10 @@ Meteor.methods({
 
       }
 
+
+
       if (!mappedCategory && mint.category != 'Uncategorized') {
-        console.log('Could not find category mapping for '+mint.category);
+        missingCategories.push(mint.category);
       }
 
       newTransaction.category = categoryArray;
@@ -49,15 +52,22 @@ Meteor.methods({
 
     });
 
-    jsonfile.writeFile(base + __dirname + filename, jsonArray, function (err) {
-      if (err) {
-        console.error(err)
-      }
-      else {
-        console.log('File written successfully to '+ __dirname + filename);
-      }
+    if (missingCategories.length = 0 ) {
 
-    })
+      jsonfile.writeFile(base + __dirname + filename, jsonArray, function (err) {
+        if (err) {
+          console.error(err)
+        }
+        else {
+          console.log('File written successfully to '+ __dirname + filename);
+        }
+
+      })
+    }
+    else {
+      console.log('Some Mint categories were missing from the mapping - add them and try again.');
+      console.log(missingCategories);
+    }
 
   }
 });
