@@ -1,1114 +1,2682 @@
 [
   {
-    "date": "7/5/16",
-    "description": "Banfield Pet Hospital",
-    "originalDescription": "BANFIELD WELLNESS PLAN PORTLAND OR US",
-    "amount": 28.95,
-    "type": "debit",
-    "category": "Veterinary"
+    "date": "7/21/16",
+    "description": "One Girl Cookies",
+    "original_description": "ONE GIRL COOKIES",
+    "amount": -4,
+    "transaction": "debit",
+    "category": "Restaurants"
   },
   {
-    "date": "7/5/16",
-    "description": "Stripe Transfer Future",
-    "originalDescription": "STRIPE TRANSFER~ Future Amount: 23.97 ~ Tran: DDIR",
-    "amount": 23.97,
-    "type": "credit",
-    "category": "Transfer"
-  },
-  {
-    "date": "7/5/16",
-    "description": "Betterment Sec Transfer",
-    "originalDescription": "BETTERMENT SEC TRANSFER",
-    "amount": 277.32,
-    "type": "debit",
-    "category": "Transfer"
-  },
-  {
-    "date": "7/5/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 32.23,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "7/5/16",
-    "description": "Capital One Crcardpmt",
-    "originalDescription": "CAPITAL ONE CRCARDPMT",
-    "amount": 518.72,
-    "type": "debit",
-    "category": "Credit Card Payment"
-  },
-  {
-    "date": "7/1/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 5.25,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "7/1/16",
-    "description": "Free Childre Direct",
-    "originalDescription": "FREE THE CHILDRE DIRECT DEP~ Future Amount: 2356.29 ~ Tran:",
-    "amount": 2356.29,
-    "type": "credit",
-    "category": "Paycheck"
-  },
-  {
-    "date": "6/30/16",
-    "description": "ACS Education Services",
-    "originalDescription": "ACS LOAN PYMT",
-    "amount": 116.05,
-    "type": "debit",
-    "category": "Student Loan"
-  },
-  {
-    "date": "6/30/16",
-    "description": "ACS Education Services",
-    "originalDescription": "ACS LOAN PYMT",
-    "amount": 63.64,
-    "type": "debit",
-    "category": "Student Loan"
-  },
-  {
-    "date": "6/30/16",
-    "description": "Huge Llc Dir",
-    "originalDescription": "HUGE LLC DIR DEP~ Future Amount: 3257.58 ~ Tran: DDIR",
-    "amount": 3257.58,
-    "type": "credit",
-    "category": "Paycheck"
-  },
-  {
-    "date": "6/30/16",
-    "description": "Nicholas A Brown",
-    "originalDescription": "NICHOLAS A BROWN (Ally Interest Checking XXXXXX8744) sent mo",
-    "amount": 250,
-    "type": "debit",
-    "category": "Uncategorized"
-  },
-  {
-    "date": "6/29/16",
-    "description": "Hulu",
-    "originalDescription": "HLU*HULU 30609388-U HULU.COM/BILL CA US",
-    "amount": 7.99,
-    "type": "debit",
-    "category": "Movies & DVDs"
-  },
-  {
-    "date": "6/29/16",
-    "description": "Venmo Cashout",
-    "originalDescription": "VENMO-0 CASHOUT",
-    "amount": 42,
-    "type": "credit",
-    "category": "Income"
-  },
-  {
-    "date": "6/29/16",
-    "description": "Pai Iso 52 Jay Street",
-    "originalDescription": "PAI ISO 52 JAY ST BROOKLYN NY US",
-    "amount": 61.99,
-    "type": "debit",
-    "category": "Cash & ATM"
-  },
-  {
-    "date": "6/29/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 51.01,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "6/28/16",
-    "description": "Stripe Transfer Future",
-    "originalDescription": "STRIPE TRANSFER~ Future Amount: 23.97 ~ Tran: ACHDW",
-    "amount": 23.97,
-    "type": "debit",
-    "category": "Transfer"
-  },
-  {
-    "date": "6/28/16",
-    "description": "Hello Digit Savings",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 30,
-    "type": "credit",
-    "category": "Income"
-  },
-  {
-    "date": "6/28/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 77.87,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "6/28/16",
-    "description": "American Express",
-    "originalDescription": "AMEX EPayment ACH PMT",
-    "amount": 4694.75,
-    "type": "debit",
-    "category": "Credit Card Payment"
-  },
-  {
-    "date": "6/27/16",
-    "description": "Transfer from Online Savings Account",
-    "originalDescription": "Internet transfer from Online Savings account XXXXXX3372",
-    "amount": 4980.77,
-    "type": "credit",
-    "category": "Transfer"
-  },
-  {
-    "date": "6/27/16",
-    "description": "Hello Digit Savings",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 195,
-    "type": "credit",
-    "category": "Income"
-  },
-  {
-    "date": "6/24/16",
-    "description": "Dam Realty Corp.",
-    "originalDescription": "ADAM REALTY CORP ONLINE PMT~ Future Amount: 2280 ~ Tran: ACH",
-    "amount": 2280,
-    "type": "debit",
-    "category": "Home Improvement"
-  },
-  {
-    "date": "6/24/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 35.36,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "6/24/16",
-    "description": "Stripe Transfer Future",
-    "originalDescription": "STRIPE TRANSFER~ Future Amount: 71.91 ~ Tran: DDIR",
-    "amount": 71.91,
-    "type": "credit",
-    "category": "Transfer"
-  },
-  {
-    "date": "6/23/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 34.11,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "6/23/16",
-    "description": "Stripe Transfer Future",
-    "originalDescription": "STRIPE TRANSFER~ Future Amount: 95.88 ~ Tran: DDIR",
-    "amount": 95.88,
-    "type": "credit",
-    "category": "Transfer"
-  },
-  {
-    "date": "6/22/16",
-    "description": "Stripe Transfer Future",
-    "originalDescription": "STRIPE TRANSFER~ Future Amount: 95.88 ~ Tran: DDIR",
-    "amount": 95.88,
-    "type": "credit",
-    "category": "Transfer"
-  },
-  {
-    "date": "6/22/16",
-    "description": "Consolidated Edison",
-    "originalDescription": "CON ED OF NY INTELL CK",
-    "amount": 58.51,
-    "type": "debit",
-    "category": "Utilities"
-  },
-  {
-    "date": "6/21/16",
-    "description": "Pai Iso 52 Jay Street",
-    "originalDescription": "PAI ISO 52 JAY ST BROOKLYN NY US",
-    "amount": 41.99,
-    "type": "debit",
-    "category": "Cash & ATM"
-  },
-  {
-    "date": "6/21/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 13.13,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "6/20/16",
-    "description": "Navi Ed Serv",
-    "originalDescription": "NAVI  ED SERV PP STUDNTLOAN",
-    "amount": 1053.33,
-    "type": "debit",
-    "category": "Student Loan"
-  },
-  {
-    "date": "6/20/16",
-    "description": "Check 1187",
-    "originalDescription": "Check Paid #1187",
-    "amount": 200,
-    "type": "debit",
-    "category": "Check"
-  },
-  {
-    "date": "6/20/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 11.67,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "6/19/16",
-    "description": "Tyrellstown Dublin Ie",
-    "originalDescription": "TYRELLSTOWN DUBLIN IE",
-    "amount": 45.63,
-    "type": "debit",
-    "category": "Uncategorized"
-  },
-  {
-    "date": "6/18/16",
-    "description": "Germany Munich De",
-    "originalDescription": "Germany Munich DE",
-    "amount": 22.82,
-    "type": "debit",
+    "date": "7/20/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436203 7182430050 320162020602781219",
+    "amount": -35.01,
+    "transaction": "debit",
     "category": "Groceries"
   },
   {
-    "date": "6/17/16",
-    "description": "Stadtsparkasse Muenche Fl",
-    "originalDescription": "STADTSPARKASSE MUENCHE FL 131 DE",
-    "amount": 228.06,
-    "type": "debit",
+    "date": "7/20/16",
+    "description": "GrubHub",
+    "original_description": "GRUBHUB*KINARASINDIANEW YORKEJP8M0JB    8775851085 320162020605165644",
+    "amount": -19.03,
+    "transaction": "debit",
+    "category": "Food & Dining"
+  },
+  {
+    "date": "7/19/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436201 7182430050 320162010599513375",
+    "amount": -27.62,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "7/19/16",
+    "description": "Bar Tabac",
+    "original_description": "Bar Tabac           Brooklyn85133316201 718-923-0918 320162010587318853",
+    "amount": -79.42,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "7/17/16",
+    "description": "Bohemian Hall Beer",
+    "original_description": "BOHEMIAN HALL & BEERASTORIA99999996199 7182744925 320161990564255790",
+    "amount": -76,
+    "transaction": "debit",
+    "category": "Alcohol & Bars"
+  },
+  {
+    "date": "7/17/16",
+    "description": "Uber",
+    "original_description": "UBER   *US JUL16 4DE866-576-1032W2BT3ES    8665761039 320161990565788302",
+    "amount": -30.29,
+    "transaction": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "7/17/16",
+    "description": "MTA",
+    "original_description": "MTA MVM*N103-JAY ST-NEW YORK05482753409 718-330-1234 320161990565460592",
+    "amount": -40,
+    "transaction": "debit",
+    "category": "Public Transportation"
+  },
+  {
+    "date": "7/17/16",
+    "description": "Maizal Restaurant",
+    "original_description": "MAIZAL RESTAURANT ASASTORIA73011006199 INFO@MAIZALRESTAURANT 320161990562640888",
+    "amount": -164.08,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "7/17/16",
+    "description": "Bar Great Harry",
+    "original_description": "BAR GREAT HARRY 1482BROOKLYN74760626199 212-222-1103 320161990562368024",
+    "amount": -32,
+    "transaction": "debit",
+    "category": "Alcohol & Bars"
+  },
+  {
+    "date": "7/17/16",
+    "description": "Me We Toronto",
+    "original_description": "ME TO WE 57         TORONTO10101124    416-964-8942 320161990567258991",
+    "amount": -196.94,
+    "transaction": "debit",
     "category": "Uncategorized"
   },
   {
+    "date": "7/17/16",
+    "description": "Bohemian Hall Beer",
+    "original_description": "BOHEMIAN HALL & BEERASTORIA99999996199 7182744925 320161990564094869",
+    "amount": -20,
+    "transaction": "debit",
+    "category": "Alcohol & Bars"
+  },
+  {
+    "date": "7/16/16",
+    "description": "Dodge",
+    "original_description": "YMC* GREATER NY DODG718-625-31304104100006 CIVIC SOCIAL 320161980559559514",
+    "amount": -126,
+    "transaction": "debit",
+    "category": "Auto Payment"
+  },
+  {
+    "date": "7/16/16",
+    "description": "Uber With Mr",
+    "original_description": "UBER PURCHASE WITH MR POINTS CR 320161980560242030",
+    "amount": 30.29,
+    "transaction": "credit",
+    "category": "Credit Card Payment"
+  },
+  {
+    "date": "7/15/16",
+    "description": "Amazon",
+    "original_description": "AMAZON MKTPLACE PMTSAMZN.COM/BITBR1V0VKF8P BOOK STORES 320161970536812188",
+    "amount": -79.99,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "7/15/16",
+    "description": "Amazon",
+    "original_description": "AMAZON MKTPLACE PMTSAMZN.COM/BID9XJN7XTTBQ BOOK STORES 320161970532731795",
+    "amount": -74.28,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "7/15/16",
+    "description": "Amazon",
+    "original_description": "AMAZON MKTPLACE PMTSAMZN.COM/BIU6X6Y6V1KZ6 BOOK STORES 320161970532464999",
+    "amount": -69.94,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "7/14/16",
+    "description": "Amazon",
+    "original_description": "AMAZON MKTPLACE PMTSAMZN.COM/BIEQPCHHMGQEM BOOK STORES 320161960525476325",
+    "amount": -17.99,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "7/14/16",
+    "description": "Amazon",
+    "original_description": "AMAZON MKTPLACE PMTSAMZN.COM/BIQCKFMY2FZZG BOOK STORES 320161960523583780",
+    "amount": -16.1,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "7/14/16",
+    "description": "Brooklyn Roasting T",
+    "original_description": "BROOKLYN ROASTING COBrooklynT5ZPX5      squareup.com/receipts 320161960520718299",
+    "amount": -1.75,
+    "transaction": "debit",
+    "category": "Coffee Shops"
+  },
+  {
+    "date": "7/14/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436197 7182430050 320161960531091378",
+    "amount": -59.78,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "7/14/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436197 7182430050 320161960530901756",
+    "amount": -6.06,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "7/13/16",
+    "description": "Brooklyn Roasting Cobrooklyn",
+    "original_description": "BROOKLYN ROASTING COBrooklynT5V4VT      squareup.com/receipts 320161950505026468",
+    "amount": -1.75,
+    "transaction": "debit",
+    "category": "Coffee Shops"
+  },
+  {
+    "date": "7/12/16",
+    "description": "Seamlss Elpasomexicanew York",
+    "original_description": "SEAMLSS*ELPASOMEXICANEW YORK9AR1DQ1Y    8002561020 320161940493087730",
+    "amount": -21.28,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "7/11/16",
+    "description": "Seamlss Masalagrill X",
+    "original_description": "SEAMLSS*MASALAGRILL NEW YORK15X8AX0X    8002561020 320161930478851173",
+    "amount": -14.96,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "7/11/16",
+    "description": "Transfer to Corporate Card",
+    "original_description": "MISSION DOLORES 1482BROOKLYN74760626193 718-399-0099 320161930475584427",
+    "amount": -36,
+    "transaction": "debit",
+    "category": "Credit Card Payment"
+  },
+  {
+    "date": "7/11/16",
+    "description": "Relaxing Smith Inbrooklyn",
+    "original_description": "RELAXING ON SMITH INBROOKLYN85180896192718-522-6199 320161930484840386",
+    "amount": -64.75,
+    "transaction": "debit",
+    "category": "Spa & Massage"
+  },
+  {
+    "date": "7/10/16",
+    "description": "Trader Joe's",
+    "original_description": "TRADER JOE'S #558  QBROOKLYN0162422     626-599-3700 320161920470732921",
+    "amount": -85.83,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "7/10/16",
+    "description": "Amazon",
+    "original_description": "AMAZON MKTPLACE PMTSAMZN.COM/BIOTJ6XNJAPZN BOOK STORES 320161920468134603",
+    "amount": -9.5,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "7/9/16",
+    "description": "Mail.Com",
+    "original_description": "MOM AND POP ORGANIC BROOKLYN73011006192 SKWAK20@GMAIL.COM 320161910448932752",
+    "amount": -21.53,
+    "transaction": "debit",
+    "category": "Internet"
+  },
+  {
+    "date": "7/9/16",
+    "description": "Dos Toros Taqueria",
+    "original_description": "DOS TOROS TAQUERIA  BROOKLYN501572      FAST FOOD RESTAURANT 320161910457524780",
+    "amount": -13.5,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "7/8/16",
+    "description": "Verizon Wireless",
+    "original_description": "VERIZONWRLSSAPO VE  800-922-020E0000001022NONE             07921 320161900441093174",
+    "amount": -144.99,
+    "transaction": "debit",
+    "category": "Mobile Phone"
+  },
+  {
+    "date": "7/8/16",
+    "description": "Fatty Daddys",
+    "original_description": "FATTY DADDY TACO-2  BROOKLYN549217      RESTAURANT 320161900440851178",
+    "amount": -16.61,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "7/8/16",
+    "description": "GrubHub",
+    "original_description": "GRUBHUB*NATURESGRILLNEW YORKJXAYZN5X    8775851085 320161900437318979",
+    "amount": -25.99,
+    "transaction": "debit",
+    "category": "Food & Dining"
+  },
+  {
+    "date": "7/8/16",
+    "description": "Bobby Vans Grill",
+    "original_description": "BOBBY VANS GRILL 006JAMAICA0000020083  718-553-2100 320161900443621083",
+    "amount": -33.05,
+    "transaction": "debit",
+    "category": "Fast Food"
+  },
+  {
+    "date": "7/8/16",
+    "description": "Wnyc Wqxr Njpr",
+    "original_description": "WNYC/WQXR/NJPR/NYPR 6468294000ID71G7PoXT ID71G7PoXT       11201 320161900446372405",
+    "amount": -10,
+    "transaction": "debit",
+    "category": "Charity"
+  },
+  {
+    "date": "7/8/16",
+    "description": "MTA",
+    "original_description": "MTA MVM*N108-HOYT-SCNEW YORK05355677736 718-330-1234 320161900437524943",
+    "amount": -40,
+    "transaction": "debit",
+    "category": "Public Transportation"
+  },
+  {
+    "date": "7/7/16",
+    "description": "Wedding",
+    "original_description": "ZOLA WEDDING REGISTRNEW YORK CICH_18UQKU4O 4086579652 320161890430832770",
+    "amount": -102.65,
+    "transaction": "debit",
+    "category": "Clothing"
+  },
+  {
+    "date": "7/7/16",
+    "description": "Amazon",
+    "original_description": "AMAZON MKTPLACE PMTSAMZN.COM/BICVCQIYXHFBY DIRECT MKTG MISC 320161890429378681",
+    "amount": 64.95,
+    "transaction": "credit",
+    "category": "Shopping"
+  },
+  {
+    "date": "7/7/16",
+    "description": "Gourmet Deli",
+    "original_description": "NEVIS GOURMET DELI  BROOKLYN85101656189718-855-5220 320161890432339341",
+    "amount": -7,
+    "transaction": "debit",
+    "category": "Food & Dining"
+  },
+  {
+    "date": "7/7/16",
+    "description": "Labcorp",
+    "original_description": "LABCORP WEB         (800)845-6100030497098MEDICAL DEN 320161890426907968",
+    "amount": -10.05,
+    "transaction": "debit",
+    "category": "Doctor"
+  },
+  {
+    "date": "7/7/16",
+    "description": "Uniqlo Atlantic Term",
+    "original_description": "UNIQLO ATLANTIC TERMBROOKLYNTA8345      877-486-4756 320161890427225378",
+    "amount": -44.7,
+    "transaction": "debit",
+    "category": "Clothing"
+  },
+  {
+    "date": "7/7/16",
+    "description": "Van Leeuwen Artisan Ice Cream",
+    "original_description": "VAN LEEUWEN ARTISAN BrooklynT444OL      squareup.com/receipts 320161890424598646",
+    "amount": -3.49,
+    "transaction": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "7/7/16",
+    "description": "Chapters Indigo",
+    "original_description": "INDIEGOGO 866-641-46SAN FRANCISCH_18UQXQ4M 8666414646 320161890428150929",
+    "amount": -55,
+    "transaction": "debit",
+    "category": "Books"
+  },
+  {
+    "date": "7/7/16",
+    "description": "Peter Pan",
+    "original_description": "PETER PAN BUS WEBSITSPRINGFIELD13990527    413-781-2900 320161890429303139",
+    "amount": -86,
+    "transaction": "debit",
+    "category": "Babysitter & Daycare"
+  },
+  {
+    "date": "7/7/16",
+    "description": "Patagonia",
+    "original_description": "PATAGONIA GREEN ST 4NEW YORK25554       805-667-2324 320161890429985282",
+    "amount": -96.9,
+    "transaction": "debit",
+    "category": "Sporting Goods"
+  },
+  {
+    "date": "7/6/16",
+    "description": "Usagi Ny T",
+    "original_description": "USAGI NY            BrooklynT4ZPXD      squareup.com/receipts 320161880408511391",
+    "amount": -4.9,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "7/6/16",
+    "description": "Seamlss Greenstarfoo K",
+    "original_description": "SEAMLSS*GREENSTARFOONEW YORKK7BMKKMV    8002561020 320161880409044929",
+    "amount": -35.07,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "7/6/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436188 7182430050 320161880415927080",
+    "amount": -23.63,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "7/6/16",
+    "description": "Target",
+    "original_description": "TARGET ATLANTIC TERMBROOKLYN00832662    DISCOUNT STORE 320161880407000780",
+    "amount": -38.56,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "7/6/16",
+    "description": "Van Leeuwen Artisan Ice Cream",
+    "original_description": "VAN LEEUWEN ARTISAN BrooklynT4XXAQ      squareup.com/receipts 320161880409739910",
+    "amount": -4.5,
+    "transaction": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "7/5/16",
+    "description": "Central Park Grill",
+    "original_description": "CENTRAL PARK GRILL 0BUFFALO99999996187 7168369466 320161870400204940",
+    "amount": -19,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "7/5/16",
+    "description": "Buffalo Niagara Airp",
+    "original_description": "BUFFALO/NIAGARA AIRPCHEEKTOWAGA917616      716-633-0382 320161870401208855",
+    "amount": -56.4,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "7/4/16",
+    "description": "Black Ant",
+    "original_description": "THE BLACK ANT       NEW YORK85180896185 212-598-0330 320161860389501043",
+    "amount": -62.99,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "7/3/16",
+    "description": "Jackthreads",
+    "original_description": "PAYPAL *JACKTHREADS 402935773362371170    402-935-7733 320161850375956609",
+    "amount": 157.51,
+    "transaction": "credit",
+    "category": "Credit Card Payment"
+  },
+  {
+    "date": "7/2/16",
+    "description": "Ramada",
+    "original_description": "RAMADA PLAZA TORONTOTORONTO2650204     416-977-4823 320161840360070213",
+    "amount": -81.53,
+    "transaction": "debit",
+    "category": "Hotel"
+  },
+  {
+    "date": "7/2/16",
+    "description": "Audible.com",
+    "original_description": "AUDIBLE             888-283-505WSZ1CY0N9G5 AUDIO BOOKS 320161840356077759",
+    "amount": -14.95,
+    "transaction": "debit",
+    "category": "Books"
+  },
+  {
+    "date": "7/2/16",
+    "description": "American Grill",
+    "original_description": "PAN AMERICAN GRILL 5BUFFALO000224397   7168560062 320161840359668215",
+    "amount": -31.75,
+    "transaction": "debit",
+    "category": "Food & Dining"
+  },
+  {
+    "date": "7/2/16",
+    "description": "Tim Horton's",
+    "original_description": "TIM HORTON'S        BUFFALO506192      FAST FOOD RESTAURANT 320161840359212974",
+    "amount": -1.69,
+    "transaction": "debit",
+    "category": "Coffee Shops"
+  },
+  {
+    "date": "7/2/16",
+    "description": "Target",
+    "original_description": "TARGET BOULEVARD MALAMHERST01093926    DISCOUNT STORE 320161840356778106",
+    "amount": -10,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "7/2/16",
+    "description": "Target",
+    "original_description": "TARGET BOULEVARD MALAMHERST00854069    DISCOUNT STORE 320161840356089476",
+    "amount": -33.05,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "7/2/16",
+    "description": "Blue Smoke",
+    "original_description": "6351380 - BLUE SMOKEJAMAICARESTAURANT 320161840361413293",
+    "amount": -4.36,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "7/2/16",
+    "description": "Trader Joe's",
+    "original_description": "TRADER JOE'S #536 QPAMHERST0040564     626-599-3700 320161840361258774",
+    "amount": -10.08,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "7/1/16",
+    "description": "Amazon",
+    "original_description": "AMAZON SERVICES-KIND866-321-885TSVIXY8BA3G DIGITAL 320161830342306025",
+    "amount": -9.99,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "7/1/16",
+    "description": "Hudson's Bay",
+    "original_description": "HUDSON'S BAY #1560 TTORONTO15600208780 DEPARTMENT STORE 320161830346636205",
+    "amount": -151.43,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "7/1/16",
+    "description": "Seamlss Fattydaddyta Yrygc",
+    "original_description": "SEAMLSS*FATTYDADDYTANEW YORK3YRYGC5P    8002561020 320161830340921974",
+    "amount": -23.16,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "7/1/16",
+    "description": "Uber",
+    "original_description": "UBER   *US JUL01 CPB866-576-103K2P9CH4T    8665761039 320161830339516164",
+    "amount": -17.98,
+    "transaction": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "7/1/16",
+    "description": "Milestone's",
+    "original_description": "MILESTONE'S #5216   TORONTO85          RESTAURANT 320161830348576054",
+    "amount": -35.97,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "7/1/16",
+    "description": "Digitalocean Com Ci",
+    "original_description": "DIGITALOCEAN.COM    NEW YORK CICH_18SKIM4I 6463978051 320161830344179100",
+    "amount": -5,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "7/1/16",
+    "description": "Kiehl's",
+    "original_description": "KIEHLS TORONTOEATON TORONTO864038      COSMETIC STORE 320161830346986895",
+    "amount": -37.64,
+    "transaction": "debit",
+    "category": "Personal Care"
+  },
+  {
+    "date": "6/29/16",
+    "description": "Chipotle",
+    "original_description": "CHIPOTLE 0561 0099  BROOKLYN0000010700  718-243-9109 320161810319946393",
+    "amount": -14,
+    "transaction": "debit",
+    "category": "Fast Food"
+  },
+  {
+    "date": "6/29/16",
+    "description": "iTunes",
+    "original_description": "WWW.ITUNES.COM/BILL CUPERTINOMKTN88K2Q00 ITUNES STORE & APP ST 320161810314106013",
+    "amount": -9.99,
+    "transaction": "debit",
+    "category": "Music"
+  },
+  {
+    "date": "6/29/16",
+    "description": "Terroni",
+    "original_description": "TERRONI ADELAIDE    TORONTO860776      RESTAURANT 320161810319133096",
+    "amount": -45.73,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "6/29/16",
+    "description": "Seamlss Pizzetta Seanew",
+    "original_description": "SEAMLSS*PIZZETTA SEANEW YORKJ2FN8BNF    8002561020 320161810313670887",
+    "amount": -21.91,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "6/28/16",
+    "description": "Spotify",
+    "original_description": "SPOTIFY USA         NEW YORK45VUVPR5NRA BUSINESS SERVICE 320161800307234423",
+    "amount": -9.99,
+    "transaction": "debit",
+    "category": "Music"
+  },
+  {
+    "date": "6/28/16",
+    "description": "Amazon",
+    "original_description": "AMAZON MKTPLACE PMTSAMZN.COM/BIW5E6LDVHLO7 MERCHANDISE 320161800302573465",
+    "amount": -29.11,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "6/28/16",
+    "description": "Tim Horton's",
+    "original_description": "TIM HORTONS #3477# QTORONTO867822      FAST FOOD RESTAURANT 320161800305536745",
+    "amount": -1.56,
+    "transaction": "debit",
+    "category": "Coffee Shops"
+  },
+  {
+    "date": "6/28/16",
+    "description": "Laguardia Usa Llc",
+    "original_description": "LAGUARDIA USA, LLC  NEW YORK0622899     718-656-6210 320161800303489706",
+    "amount": -6.52,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "6/27/16",
+    "description": "Cuper Brooklyn",
+    "original_description": "CUPER               BROOKLYN85175306178 646-381-3606 320161790291728213",
+    "amount": -11.8,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "6/27/16",
+    "description": "Autopay Thank You",
+    "original_description": "AUTOPAY PAYMENT - THANK YOU 320161790292057005",
+    "amount": 4694.75,
+    "transaction": "credit",
+    "category": "Credit Card Payment"
+  },
+  {
+    "date": "6/27/16",
+    "description": "Rite Aid",
+    "original_description": "RITE AID STORE - 105BROOKLYN804211      DRUG STORE/PHARMACY 320161790288658928",
+    "amount": -36.9,
+    "transaction": "debit",
+    "category": "Pharmacy"
+  },
+  {
+    "date": "6/27/16",
+    "description": "Bacchus",
+    "original_description": "BACCHUS 084890020200BROOKLYN73011006178 BRUNOLACLIDE@GMAIL.CO 320161790291903087",
+    "amount": -43.02,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "6/27/16",
+    "description": "Uber.com",
+    "original_description": "UBER BV             TORONTO311JVPMAPI6 BUSINESS SERVICE 320161790293117838",
+    "amount": -4.81,
+    "transaction": "debit",
+    "category": "Rental Car & Taxi"
+  },
+  {
+    "date": "6/27/16",
+    "description": "MI Restaurant",
+    "original_description": "NATSUMI RESTAURANT  NEW YORK84136006178 212-258-2988 320161790290352212",
+    "amount": -30.46,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "6/27/16",
+    "description": "Netflix",
+    "original_description": "NETFLIX.COM         866-579-717626980902   8665797172 320161790287003545",
+    "amount": -9.99,
+    "transaction": "debit",
+    "category": "Movies & DVDs"
+  },
+  {
+    "date": "6/27/16",
+    "description": "Chop-Chop",
+    "original_description": "CHOP CHOP           BROOKLYN85179246178718-858-3757 320161790289768448",
+    "amount": -14.15,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "6/26/16",
+    "description": "Los Paisanos Inc",
+    "original_description": "LOS PAISANOS 0000000BROOKLYN43287288    7188552641 320161780277236310",
+    "amount": -30.66,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "6/26/16",
+    "description": "Federal Express",
+    "original_description": "FEDEX OFFICE        BROOKLYN000004741230000             112410 320161780270370055",
+    "amount": -1.68,
+    "transaction": "debit",
+    "category": "Shipping"
+  },
+  {
+    "date": "6/26/16",
+    "description": "A & S Bakery",
+    "original_description": "MIAS BAKERY 14696500BROOKLYN74760626178 347-987-3194 320161780268543922",
+    "amount": -11.7,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "6/25/16",
+    "description": "Amazon",
+    "original_description": "AMAZON.COM          AMZN.COM/BIKP9VI1ANVV7 MERCHANDISE 320161770260064500",
+    "amount": -60.28,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "6/25/16",
+    "description": "Bruno's",
+    "original_description": "BAR BRUNO           BROOKLYN10114       520 HENRY STREET  BRO 320161770266150414",
+    "amount": -84.61,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "6/25/16",
+    "description": "Seamlss Thewingbar Pxwhnk",
+    "original_description": "SEAMLSS*THEWINGBAR SNEW YORKPXWHNK51    8002561020 320161770259455168",
+    "amount": -25.05,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "6/25/16",
+    "description": "Hecho en Dumbo",
+    "original_description": "HECHO EN DUMBO 00039NEW YORK025000745   2129374245 320161770260540622",
+    "amount": -35.94,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "6/25/16",
+    "description": "Amazon",
+    "original_description": "AMAZON.COM          AMZN.COM/BIUDR29VE3R97 MERCHANDISE 320161770266694407",
+    "amount": -49.29,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "6/25/16",
+    "description": "Fawkner",
+    "original_description": "FAWKNER 000000001   BROOKLYN00002701051 7185223172 320161770257425601",
+    "amount": -36,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "6/24/16",
+    "description": "Uber",
+    "original_description": "UBER UBER           866-576-103EQNJCXCD    8665761039 320161760241485422",
+    "amount": -10.53,
+    "transaction": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "6/24/16",
+    "description": "Amazon",
+    "original_description": "AMAZON.COM          AMZN.COM/BIRHCUW55U885 MERCHANDISE 320161760242632949",
+    "amount": -195.96,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "6/24/16",
+    "description": "Chipotle",
+    "original_description": "CHIPOTLE 0561 0099  BROOKLYN0000010057  718-243-9109 320161760249821193",
+    "amount": -14,
+    "transaction": "debit",
+    "category": "Fast Food"
+  },
+  {
+    "date": "6/24/16",
+    "description": "Absolute",
+    "original_description": "ABSOLUTE COFFEE     BrooklynT3OXQX      squareup.com/receipts 320161760244000072",
+    "amount": -7.5,
+    "transaction": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "6/23/16",
+    "description": "Gitbook Plus Ch",
+    "original_description": "GITBOOK PLUS        ORO VALLEYCH_18PNZ74Z 8778877815 320161750234586471",
+    "amount": -7,
+    "transaction": "debit",
+    "category": "Books"
+  },
+  {
+    "date": "6/23/16",
+    "description": "Starbucks",
+    "original_description": "STARBUCKS.COM/CARD  800-782-72830132165IP2 GIFT CARD 320161750232551582",
+    "amount": -20,
+    "transaction": "debit",
+    "category": "Coffee Shops"
+  },
+  {
+    "date": "6/23/16",
+    "description": "Trader Joe's",
+    "original_description": "TRADER JOE'S #558  QBROOKLYN0181006     626-599-3700 320161750234539562",
+    "amount": -44.57,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "6/22/16",
+    "description": "Seamlss Fattydaddyta Pbce",
+    "original_description": "SEAMLSS*FATTYDADDYTANEW YORKPBCE5TPY    8002561020 320161740214490966",
+    "amount": -33.81,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "6/21/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436174 7182430050 320161730208382064",
+    "amount": -27.64,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "6/21/16",
+    "description": "Temple Bar",
+    "original_description": "THE TEMPLE BAR TRADIDUBLINCARD & SOUVENIR STORE 320161730197291043",
+    "amount": -47.43,
+    "transaction": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "6/21/16",
+    "description": "Jtl Management Taxi",
+    "original_description": "JTL MANAGEMENT TAXI LONG ISLAND00415541805 718-392-7000 320161730196320540",
+    "amount": -52.56,
+    "transaction": "debit",
+    "category": "Rental Car & Taxi"
+  },
+  {
+    "date": "6/20/16",
+    "description": "Hilton",
+    "original_description": "CITY HILTON MUENCHENMUENCHEN05301206115 LODGING 320161720182819614",
+    "amount": -10.73,
+    "transaction": "debit",
+    "category": "Hotel"
+  },
+  {
+    "date": "6/20/16",
+    "description": "Carlton Hotel",
+    "original_description": "CARLTON HOTEL BLANCHDUBLINLODGING 320161720183831248",
+    "amount": -16.72,
+    "transaction": "debit",
+    "category": "Hotel"
+  },
+  {
+    "date": "6/19/16",
+    "description": "Aichinger Seafood Gmmuenchen",
+    "original_description": "AICHINGER SEAFOOD GMMUENCHEN69126700251 RESTAURANT 320161710156323031",
+    "amount": -34.33,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "6/18/16",
+    "description": "Products",
+    "original_description": "PAYPAL *DT PRODUCTS 402935773329785093    402-935-7733 320161700139959709",
+    "amount": -10.99,
+    "transaction": "debit",
+    "category": "Home Services"
+  },
+  {
     "date": "6/17/16",
-    "description": "Free Childre Direct",
-    "originalDescription": "FREE THE CHILDRE DIRECT DEP~ Future Amount: 4154.74 ~ Tran:",
-    "amount": 4154.74,
-    "type": "credit",
-    "category": "Paycheck"
+    "description": "Hotel Gasthof Alpenrmittenwald",
+    "original_description": "HOTEL GASTHOF ALPENRMITTENWALD69162003454 LODGING 320161690133354942",
+    "amount": -422.7,
+    "transaction": "debit",
+    "category": "Hotel"
+  },
+  {
+    "date": "6/17/16",
+    "description": "Hofbraeuhaus Am Platmuenchen",
+    "original_description": "HOFBRAEUHAUS AM PLATMUENCHEN14000011962 RESTAURANT 320161690133359713",
+    "amount": -19.45,
+    "transaction": "debit",
+    "category": "Restaurants"
   },
   {
     "date": "6/16/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 23.71,
-    "type": "debit",
+    "description": "Dodge",
+    "original_description": "YMC* GREATER NY DODG718-625-31304104100006 CIVIC SOCIAL 320161680116093380",
+    "amount": -126,
+    "transaction": "debit",
+    "category": "Auto Payment"
+  },
+  {
+    "date": "6/16/16",
+    "description": "Jack Threads",
+    "original_description": "PAYPAL *JACKTHREADS 402935773321950054    402-935-7733 320161680113925764",
+    "amount": -157.51,
+    "transaction": "debit",
     "category": "Business Services"
   },
   {
     "date": "6/15/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 12.31,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "6/15/16",
-    "description": "Huge Llc Dir",
-    "originalDescription": "HUGE LLC DIR DEP~ Future Amount: 3593.17 ~ Tran: DDIR",
-    "amount": 3593.17,
-    "type": "credit",
-    "category": "Paycheck"
-  },
-  {
-    "date": "6/14/16",
-    "description": "Transact Bahnhof Mittenwald",
-    "originalDescription": "Transact Bahnhof Mittenwald DE",
-    "amount": 316.14,
-    "type": "debit",
+    "description": "Bahnhof Bahnhofinnsbruck Bahnhof",
+    "original_description": "BAHNHOF 1187 BAHNHOFINNSBRUCK00158032210 BAHNHOF 1187 320161670088315026",
+    "amount": -23.88,
+    "transaction": "debit",
     "category": "Uncategorized"
   },
   {
     "date": "6/13/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 36.96,
-    "type": "debit",
-    "category": "Business Services"
+    "description": "Barockhotel Am Dom",
+    "original_description": "BAROCKHOTEL AM DOM  BAMBERG61421523274 LODGING 320161650051296041",
+    "amount": -412.5,
+    "transaction": "debit",
+    "category": "Hotel"
   },
   {
-    "date": "6/12/16",
-    "description": "Sparkasse Bamberg Bahnhof",
-    "originalDescription": "SPARKASSE BAMBERG BAHNHOF DE",
-    "amount": 228.66,
-    "type": "debit",
-    "category": "Cash & ATM"
-  },
-  {
-    "date": "6/10/16",
-    "description": "Interest Paid",
-    "originalDescription": "Interest Paid",
-    "amount": 0.67,
-    "type": "credit",
-    "category": "Interest Income"
-  },
-  {
-    "date": "6/10/16",
-    "description": "ATM Fee Refund",
-    "originalDescription": "ATM Fee Reimbursement",
-    "amount": 1.5,
-    "type": "credit",
-    "category": "ATM Fee"
-  },
-  {
-    "date": "6/9/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 36.96,
-    "type": "debit",
-    "category": "Business Services"
+    "date": "6/13/16",
+    "description": "Amazon",
+    "original_description": "AMAZON SERVICES-KIND866-321-885EJROGBGTV12 DIGITAL 320161650053679124",
+    "amount": -14.99,
+    "transaction": "debit",
+    "category": "Shopping"
   },
   {
     "date": "6/8/16",
-    "description": "Spk Mittelmosel Eife",
-    "originalDescription": "SPK MITTELMOSEL - EIFE TREIS-K. DE",
-    "amount": 345.72,
-    "type": "debit",
-    "category": "Uncategorized"
+    "description": "Verizon Wireless",
+    "original_description": "VERIZONWRLSSAPO VE  800-922-020E0000001009NONE             07921 320161600974419504",
+    "amount": -144.53,
+    "transaction": "debit",
+    "category": "Mobile Phone"
   },
   {
     "date": "6/7/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 97.5,
-    "type": "debit",
+    "description": "iTunes",
+    "original_description": "WWW.ITUNES.COM/BILL CUPERTINOMKTMLGFJSQ0 ITUNES STORE & APP ST 320161590954064624",
+    "amount": -9.99,
+    "transaction": "debit",
+    "category": "Music"
+  },
+  {
+    "date": "6/6/16",
+    "description": "Zum Landsknecht Bernkastel",
+    "original_description": "ZUM LANDSKNECHT     BERNKASTEL-54226251936 RESTAURANT 320161580946619697",
+    "amount": -19.98,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "6/5/16",
+    "description": "Restaurant Pinocchiotrittenheim Bar",
+    "original_description": "RESTAURANT PINOCCHIOTRITTENHEIM65331589217 BAR/NIGHTCLUB 320161570916569099",
+    "amount": -23.12,
+    "transaction": "debit",
+    "category": "Food & Dining"
+  },
+  {
+    "date": "6/5/16",
+    "description": "Otg Management",
+    "original_description": "OTG MANAGEMENT EWR  NEWARK0241001    00241001         07114 320161570928805473",
+    "amount": -69.49,
+    "transaction": "debit",
     "category": "Business Services"
   },
   {
-    "date": "6/6/16",
-    "description": "Spk Mittelmosel Eife",
-    "originalDescription": "SPK MITTELMOSEL - EIFE ROEMERSTR DE",
-    "amount": 286.56,
-    "type": "debit",
-    "category": "Uncategorized"
-  },
-  {
-    "date": "6/6/16",
-    "description": "Banfield Pet Hospital",
-    "originalDescription": "BANFIELD WELLNESS PLAN 08668947927 OR US",
-    "amount": 28.95,
-    "type": "debit",
-    "category": "Veterinary"
-  },
-  {
-    "date": "6/6/16",
-    "description": "National Grid",
-    "originalDescription": "NATIONAL GRID NY UTILITYPAY~ Future Amount: 16.98 ~ Tran: AC",
-    "amount": 16.98,
-    "type": "debit",
-    "category": "Utilities"
-  },
-  {
-    "date": "6/6/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 25.94,
-    "type": "debit",
+    "date": "6/5/16",
+    "description": "Otg Management",
+    "original_description": "OTG MANAGEMENT EWR  NEWARK0241012    00241012         07114 320161570925423811",
+    "amount": -16.1,
+    "transaction": "debit",
     "category": "Business Services"
   },
   {
-    "date": "6/6/16",
-    "description": "Capital One Crcardpmt",
-    "originalDescription": "CAPITAL ONE CRCARDPMT",
-    "amount": 182.63,
-    "type": "debit",
-    "category": "Credit Card Payment"
+    "date": "6/5/16",
+    "description": "West Elm",
+    "original_description": "WEST ELM E-COMMERCE 866-937-835338770370003387703700000000011201 320161570920271785",
+    "amount": -19.59,
+    "transaction": "debit",
+    "category": "Furnishings"
   },
   {
     "date": "6/4/16",
-    "description": "Deutsche Bank AG",
-    "originalDescription": "*Deutsche Bank AG F-FLUGHAF. DE",
-    "amount": 171.94,
-    "type": "debit",
-    "category": "Financial"
+    "description": "Seamlss Thewingbar N",
+    "original_description": "SEAMLSS*THEWINGBAR SNEW YORK2N43868     8002561020 320161560905422424",
+    "amount": -28.8,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "6/4/16",
+    "description": "Scoom Squaire Amfrankfurt",
+    "original_description": "SCOOM THE SQUAIRE AMFRANKFURT65366948663 FAST FOOD RESTAURANT 320161560900221069",
+    "amount": -1.96,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "6/4/16",
+    "description": "18 Restaurant",
+    "original_description": "RATSKELLER Z. STEIPETRIER65484637418 RESTAURANT 320161560900223225",
+    "amount": -43.65,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "6/4/16",
+    "description": "Njt Ny Penn",
+    "original_description": "NJT NY PENN STA   01NEW YORK000704153   973-2755555 320161560914425820",
+    "amount": -26,
+    "transaction": "debit",
+    "category": "Public Transportation"
   },
   {
     "date": "6/3/16",
-    "description": "Fedloanservicing Stdnt Loan",
-    "originalDescription": "FEDLOANSERVICING STDNT LOAN~ Future Amount: 691.84 ~ Tran: A",
-    "amount": 691.84,
-    "type": "debit",
-    "category": "Student Loan"
+    "description": "Coffee Bean Tea",
+    "original_description": "THE COFFEE BEAN TEA NEW YORK00008531135 2128699800 320161550884974031",
+    "amount": -3.81,
+    "transaction": "debit",
+    "category": "Coffee Shops"
   },
   {
     "date": "6/3/16",
-    "description": "Free Childre Direct",
-    "originalDescription": "FREE THE CHILDRE DIRECT DEP~ Future Amount: 2333.61 ~ Tran:",
-    "amount": 2333.61,
-    "type": "credit",
-    "category": "Paycheck"
+    "description": "Amazon",
+    "original_description": "AMAZON MKTPLACE PMTSAMZN.COM/BIFT7BT9XV0WL DIRECT MKTG MISC 320161550882735774",
+    "amount": 49.95,
+    "transaction": "credit",
+    "category": "Shopping"
   },
   {
-    "date": "6/2/16",
-    "description": "Bridge Fresh Market",
-    "originalDescription": "BRIDGE FRESH MA 68 JAY STREET BROOKLYN NY US",
-    "amount": 61.5,
-    "type": "debit",
+    "date": "6/3/16",
+    "description": "Usacorp Inc",
+    "original_description": "USACORP INC         BROOKLYN85121786155866-678-7226 320161550898623166",
+    "amount": -265,
+    "transaction": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "6/3/16",
+    "description": "Jack Threads",
+    "original_description": "PAYPAL *JACKTHREADS 402935773393069960    402-935-7733 320161550892481399",
+    "amount": -181.51,
+    "transaction": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "6/3/16",
+    "description": "Absolute",
+    "original_description": "ABSOLUTE COFFEE     BrooklynPUTVKK      squareup.com/receipts 320161550886228135",
+    "amount": -5.75,
+    "transaction": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "6/3/16",
+    "description": "MTA",
+    "original_description": "METRO-NORTH TVM & TONEW YORK0000018510  877-690-5116 320161550883404478",
+    "amount": -36.5,
+    "transaction": "debit",
+    "category": "Public Transportation"
+  },
+  {
+    "date": "6/3/16",
+    "description": "Maxwells",
+    "original_description": "MAXWELLS 65000000528NEW YORK10156320160 2122820070 320161550882475887",
+    "amount": -19.83,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "6/3/16",
+    "description": "Seamlss Thaism Seaml",
+    "original_description": "SEAMLSS*THAISM SEAMLNEW YORK9S98MQ4     8002561020 320161550886579608",
+    "amount": -25.05,
+    "transaction": "debit",
     "category": "Restaurants"
   },
   {
     "date": "6/2/16",
-    "description": "Betterment Sec Transfer",
-    "originalDescription": "BETTERMENT SEC TRANSFER",
-    "amount": 277.32,
-    "type": "debit",
-    "category": "Transfer"
+    "description": "Brooklyn Roasting Tym",
+    "original_description": "BROOKLYN ROASTING COBrooklynTYM4G3      squareup.com/receipts 320161540866098661",
+    "amount": -1.75,
+    "transaction": "debit",
+    "category": "Coffee Shops"
   },
   {
     "date": "6/2/16",
-    "description": "Venmo",
-    "originalDescription": "VENMO-2 PAYMENT",
-    "amount": 7,
-    "type": "debit",
-    "category": "Transfer"
+    "description": "Trader Joe's",
+    "original_description": "TRADER JOE'S #558  QBROOKLYN0166560     626-599-3700 320161540873270146",
+    "amount": -27.1,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "6/2/16",
+    "description": "Audible.com",
+    "original_description": "AUDIBLE             888-283-505R94OR76J3JG AUDIO BOOKS 320161540866627536",
+    "amount": -14.95,
+    "transaction": "debit",
+    "category": "Books"
+  },
+  {
+    "date": "6/2/16",
+    "description": "Federal Express",
+    "original_description": "FEDEX# 809509388095 MEMPHIS80950938809FedEx #1-800-622-1147 320161540865724669",
+    "amount": -14,
+    "transaction": "debit",
+    "category": "Shipping"
+  },
+  {
+    "date": "6/2/16",
+    "description": "Jack The Horse Tavern",
+    "original_description": "JACK THE HORSE TAVERBROOKLYN10156320160 7188522416 320161540876402139",
+    "amount": -59.88,
+    "transaction": "debit",
+    "category": "Alcohol & Bars"
+  },
+  {
+    "date": "6/2/16",
+    "description": "Seamlss Notrayspizze Wq",
+    "original_description": "SEAMLSS*NOTRAYSPIZZENEW YORK6478WQ4     8002561020 320161540867106181",
+    "amount": -27.54,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "6/2/16",
+    "description": "PetSmart",
+    "original_description": "PETSMART            BROOKLYN22494064102 PET SHOP/FOOD/SUPPLY 320161540876220858",
+    "amount": -61.69,
+    "transaction": "debit",
+    "category": "Pet Food & Supplies"
   },
   {
     "date": "6/1/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 52.24,
-    "type": "debit",
-    "category": "Business Services"
+    "description": "Digitalocean Com Ci",
+    "original_description": "DIGITALOCEAN.COM    NEW YORK CICH_18HXA54I 6463978051 320161530849007957",
+    "amount": -5,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "6/1/16",
+    "description": "Brooklyn Roasting Tyhsjb",
+    "original_description": "BROOKLYN ROASTING COBrooklynTYHSJB      squareup.com/receipts 320161530846948659",
+    "amount": -4,
+    "transaction": "debit",
+    "category": "Coffee Shops"
+  },
+  {
+    "date": "6/1/16",
+    "description": "Duane Reade",
+    "original_description": "DUANE READE         BROOKLYN99999996153 8002892273 320161530847461865",
+    "amount": -5.99,
+    "transaction": "debit",
+    "category": "Pharmacy"
+  },
+  {
+    "date": "6/1/16",
+    "description": "Wnyc Wqxr Njpr",
+    "original_description": "WNYC/WQXR/NJPR/NYPR 6468294000ID61G5xVN5 ID61G5xVN5       11201 320161530861084940",
+    "amount": -10,
+    "transaction": "debit",
+    "category": "Charity"
+  },
+  {
+    "date": "6/1/16",
+    "description": "Amazon",
+    "original_description": "AMAZON MKTPLACE PMTSAMZN.COM/BICVCE08Q2P2Y BOOK STORES 320161530844097964",
+    "amount": -64.95,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "6/1/16",
+    "description": "Amazon",
+    "original_description": "AMAZON MKTPLACE PMTSAMZN.COM/BIFT7Q0ODVJZ0 BOOK STORES 320161530843678541",
+    "amount": -56.94,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "6/1/16",
+    "description": "Chop-Chop",
+    "original_description": "CHOP CHOP           BROOKLYN85179246153718-858-3757 320161530860456988",
+    "amount": -20.13,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "6/1/16",
+    "description": "Seamlss Sapidindianf X",
+    "original_description": "SEAMLSS*SAPIDINDIANFNEW YORK8X2R2Q4     8002561020 320161530848734684",
+    "amount": -26.11,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "6/1/16",
+    "description": "Uniqlo Atlantic Term",
+    "original_description": "UNIQLO ATLANTIC TERMBROOKLYNTA9286      877-486-4756 320161530854155026",
+    "amount": -21.5,
+    "transaction": "debit",
+    "category": "Clothing"
   },
   {
     "date": "5/31/16",
-    "description": "American Express",
-    "originalDescription": "AMEX EPayment ACH PMT",
-    "amount": 4007.89,
-    "type": "debit",
-    "category": "Credit Card Payment"
+    "description": "Target",
+    "original_description": "TARGET ATLANTIC TERMBROOKLYN00908207    DISCOUNT STORE 320161520829531528",
+    "amount": -71.9,
+    "transaction": "debit",
+    "category": "Shopping"
   },
   {
     "date": "5/31/16",
-    "description": "Huge Llc Dir",
-    "originalDescription": "HUGE LLC DIR DEP~ Future Amount: 2694.22 ~ Tran: DDIR",
-    "amount": 2694.22,
-    "type": "credit",
-    "category": "Paycheck"
+    "description": "Back By Bistro",
+    "original_description": "BACK BY BISTRO      NORFOLK088213222   757-8589601 320161520832337219",
+    "amount": -30.68,
+    "transaction": "debit",
+    "category": "Restaurants"
   },
   {
     "date": "5/31/16",
-    "description": "ACS Education Services",
-    "originalDescription": "ACS LOAN PYMT",
-    "amount": 116.05,
-    "type": "debit",
-    "category": "Student Loan"
+    "description": "Amazon",
+    "original_description": "AMAZON.COM          AMZN.COM/BIVD4ZVIBVWJ6 MERCHANDISE 320161520834558806",
+    "amount": -21.76,
+    "transaction": "debit",
+    "category": "Shopping"
   },
   {
     "date": "5/31/16",
-    "description": "ACS Education Services",
-    "originalDescription": "ACS LOAN PYMT",
-    "amount": 63.64,
-    "type": "debit",
-    "category": "Student Loan"
+    "description": "Gorilla Coffee",
+    "original_description": "GORILLA COFFEE FIFTHBrooklynTYFHNJ      squareup.com/receipts 320161520830398213",
+    "amount": -8,
+    "transaction": "debit",
+    "category": "Coffee Shops"
+  },
+  {
+    "date": "5/31/16",
+    "description": "Nyc Taxi G",
+    "original_description": "NYC TAXI 4G12 090222PHILADELPHI086748183   000-0000000 320161520829619704",
+    "amount": -40.8,
+    "transaction": "debit",
+    "category": "Rental Car & Taxi"
   },
   {
     "date": "5/30/16",
-    "description": "Hulu",
-    "originalDescription": "HLU*HULU 30609388-U HULU.COM/BILL CA US",
-    "amount": 7.99,
-    "type": "debit",
+    "description": "Hilton",
+    "original_description": "HILTON HERB N KITCHERICHMOND0000003019  (804) 344-4300 320161510816067853",
+    "amount": -5.57,
+    "transaction": "debit",
+    "category": "Hotel"
+  },
+  {
+    "date": "5/30/16",
+    "description": "Hilton",
+    "original_description": "HILTON RICHMOND DWTWRICHMOND0000079707  (804) 344-4300 320161510816509767",
+    "amount": -4.12,
+    "transaction": "debit",
+    "category": "Hotel"
+  },
+  {
+    "date": "5/30/16",
+    "description": "Parlor Salon",
+    "original_description": "PARLOR SALON        (804)338-7984202986151 804-338-7973 320161510814127322",
+    "amount": -54,
+    "transaction": "debit",
+    "category": "Food & Dining"
+  },
+  {
+    "date": "5/29/16",
+    "description": "1 Restaurant",
+    "original_description": "SAISON              RICHMOND1847191     RESTAURANT 320161500806839826",
+    "amount": -12.43,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/29/16",
+    "description": "Amazon",
+    "original_description": "AMAZON MKTPLACE PMTSAMZN.COM/BIRRVI328YD4Q BOOK STORES 320161500806230728",
+    "amount": -21.02,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "5/29/16",
+    "description": "Maxs",
+    "original_description": "MAXS ON BROAD 650000RICHMOND10156320160 8042250400 320161500798880904",
+    "amount": -51.25,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/29/16",
+    "description": "Amtrak",
+    "original_description": "AMTRAK-NORTHEAST CAFWASHINGTON0527000083  800-872-7245 320161500809381349",
+    "amount": -17.25,
+    "transaction": "debit",
+    "category": "Travel"
+  },
+  {
+    "date": "5/29/16",
+    "description": "Exxon",
+    "original_description": "EXXONMOBIL 9917     YORKTOWN00087584    757-988-1606 320161500809448643",
+    "amount": -17.93,
+    "transaction": "debit",
+    "category": "Gas & Fuel"
+  },
+  {
+    "date": "5/29/16",
+    "description": "Amtrak",
+    "original_description": "AMTRAK-NORTHEAST CAFWASHINGTON0527000066  800-872-7245 320161500807849698",
+    "amount": -16.25,
+    "transaction": "debit",
+    "category": "Travel"
+  },
+  {
+    "date": "5/28/16",
+    "description": "GrubHub",
+    "original_description": "GRUBHUB*BURGERURWAYMNEW YORKJXZFN7D     8775851085 320161490786827608",
+    "amount": -14.01,
+    "transaction": "debit",
+    "category": "Food & Dining"
+  },
+  {
+    "date": "5/28/16",
+    "description": "Au Bon Pain",
+    "original_description": "PENN STAT AUBONPAIN NEW YORK150883      FAST FOOD RESTAURANT 320161490788256470",
+    "amount": -11.92,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/28/16",
+    "description": "Spotify",
+    "original_description": "SPOTIFY USA         NEW YORK1GNEN4EO0I8 BUSINESS SERVICE 320161490781801837",
+    "amount": -9.99,
+    "transaction": "debit",
+    "category": "Music"
+  },
+  {
+    "date": "5/28/16",
+    "description": "Seamlss Thaism Seaml",
+    "original_description": "SEAMLSS*THAISM SEAMLNEW YORKNTRJHVP     8002561020 320161490786922729",
+    "amount": -21.29,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/28/16",
+    "description": "Papa John's",
+    "original_description": "PAPA JOHN'S         HAMPTON423679     0000000000000000023666 320161490788526004",
+    "amount": -20.11,
+    "transaction": "debit",
+    "category": "Fast Food"
+  },
+  {
+    "date": "5/28/16",
+    "description": "Starbucks",
+    "original_description": "STARBUCKS.COM/CARD  800-782-72827252528GOM GIFT CARD 320161490792287600",
+    "amount": -20,
+    "transaction": "debit",
+    "category": "Coffee Shops"
+  },
+  {
+    "date": "5/28/16",
+    "description": "Uber",
+    "original_description": "UBER UBER           866-576-103NNCBN9P     8665761039 320161490783540380",
+    "amount": -5.5,
+    "transaction": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "5/27/16",
+    "description": "Nordstrom",
+    "original_description": "NORDSTROM RACK #0537BROOKLYN00200600082 8002855800 320161480770887633",
+    "amount": -34.97,
+    "transaction": "debit",
+    "category": "Clothing"
+  },
+  {
+    "date": "5/27/16",
+    "description": "Uniqlo Atlantic Term",
+    "original_description": "UNIQLO ATLANTIC TERMBROOKLYNTA8053      877-486-4756 320161480773881215",
+    "amount": -52.8,
+    "transaction": "debit",
+    "category": "Clothing"
+  },
+  {
+    "date": "5/27/16",
+    "description": "Wall Street Physicia",
+    "original_description": "WALL STREET PHYSICIANEW YORK73011006147YELLOW FEVER VACC10006 320161480763187031",
+    "amount": -150,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "5/27/16",
+    "description": "GrubHub",
+    "original_description": "GRUBHUB*FATTYDADDYTANEW YORKHCYB8V4     8775851085 320161480767532480",
+    "amount": -23.81,
+    "transaction": "debit",
+    "category": "Food & Dining"
+  },
+  {
+    "date": "5/27/16",
+    "description": "Autopay Thank You",
+    "original_description": "AUTOPAY PAYMENT - THANK YOU 320161480779721146",
+    "amount": 4007.89,
+    "transaction": "credit",
+    "category": "Credit Card Payment"
+  },
+  {
+    "date": "5/26/16",
+    "description": "Atrium Dumbo Brooklyn",
+    "original_description": "ATRIUM DUMBO        BROOKLYN562446      RESTAURANT 320161470755717106",
+    "amount": -21.51,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/26/16",
+    "description": "Coach Usa",
+    "original_description": "HTTP://WWW.COACHUSA.PARAMUS4432089963  HTTP://WWW.COACHUSA.C 320161470761181111",
+    "amount": -17.25,
+    "transaction": "debit",
+    "category": "Auto & Transport"
+  },
+  {
+    "date": "5/26/16",
+    "description": "Netflix",
+    "original_description": "NETFLIX.COM         866-579-71710577625406 DVD RENTALS 320161470749076800",
+    "amount": -7.99,
+    "transaction": "debit",
     "category": "Movies & DVDs"
   },
   {
-    "date": "5/27/16",
-    "description": "Check 1186",
-    "originalDescription": "Check Paid #1186",
-    "amount": 150,
-    "type": "debit",
-    "category": "Check"
+    "date": "5/26/16",
+    "description": "Target",
+    "original_description": "TARGET ATLANTIC TERMBROOKLYN00969925    DISCOUNT STORE 320161470761777921",
+    "amount": -50.29,
+    "transaction": "debit",
+    "category": "Shopping"
   },
   {
-    "date": "5/27/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 1.04,
-    "type": "debit",
+    "date": "5/25/16",
+    "description": "Jack Threads",
+    "original_description": "PAYPAL *JACKTHREADS 402935773371642799    402-935-7733 320161460740134830",
+    "amount": -109,
+    "transaction": "debit",
     "category": "Business Services"
   },
   {
-    "date": "5/26/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 23.61,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "5/26/16",
-    "description": "Dam Realty Corp.",
-    "originalDescription": "ADAM REALTY CORP ONLINE PMT~ Future Amount: 2280 ~ Tran: ACH",
-    "amount": 2280,
-    "type": "debit",
-    "category": "Home Improvement"
-  },
-  {
-    "date": "5/26/16",
-    "description": "Hello Digit Bonus",
-    "originalDescription": "Hello Digit Inc. Bonus",
-    "amount": 0.3,
-    "type": "credit",
-    "category": "Bonus"
+    "date": "5/25/16",
+    "description": "GrubHub",
+    "original_description": "GRUBHUB*CURRYHEIGHTSNEW YORKP8BS8RT     8775851085 320161460733509244",
+    "amount": -17.37,
+    "transaction": "debit",
+    "category": "Food & Dining"
   },
   {
     "date": "5/24/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 22.57,
-    "type": "debit",
+    "description": "One Girl Cookies",
+    "original_description": "ONE GIRL COOKIES    BROOKLYN2126754669 320161450716655300",
+    "amount": -7.5,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/24/16",
+    "description": "B Bar",
+    "original_description": "B61 BAR 000000001   BROOKLYN99999996145 7189168898 320161450714307470",
+    "amount": -59,
+    "transaction": "debit",
+    "category": "Alcohol & Bars"
+  },
+  {
+    "date": "5/24/16",
+    "description": "West Elm",
+    "original_description": "WEST ELM E-COMMERCE 866-937-835338770370003387703700000000011201 320161450719267670",
+    "amount": -59.8,
+    "transaction": "debit",
+    "category": "Furnishings"
+  },
+  {
+    "date": "5/24/16",
+    "description": "Trader Joe's",
+    "original_description": "TRADER JOE'S #558  QBROOKLYN0133057     626-599-3700 320161450720348740",
+    "amount": -40.83,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/24/16",
+    "description": "Archway Cafe",
+    "original_description": "ARCHWAY CAFE        BROOKLYN253588           11201 320161450716994634",
+    "amount": -28.35,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/24/16",
+    "description": "One Girl Cookies",
+    "original_description": "ONE GIRL COOKIES    BROOKLYN2126754669 320161450717196653",
+    "amount": -3.75,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/24/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436146 7182430050 320161450726343555",
+    "amount": -8.62,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/24/16",
+    "description": "USPS",
+    "original_description": "USPS 350878035911965BROOKLYN013969483   800-2758777 320161450723313874",
+    "amount": -3.49,
+    "transaction": "debit",
+    "category": "Shipping"
+  },
+  {
+    "date": "5/23/16",
+    "description": "St Gambrinus Beer",
+    "original_description": "ST. GAMBRINUS BEER SBROOKLYN85101596143 718-915-3564 320161440705365207",
+    "amount": -18.5,
+    "transaction": "debit",
+    "category": "Alcohol & Bars"
+  },
+  {
+    "date": "5/23/16",
+    "description": "Granada Wines Spir",
+    "original_description": "GRANADA WINES & SPIRBROOKLYN85353546143718-624-3810 320161440706873527",
+    "amount": -43.54,
+    "transaction": "debit",
+    "category": "Alcohol & Bars"
+  },
+  {
+    "date": "5/23/16",
+    "description": "Amazon",
+    "original_description": "AMAZON MKTPLACE PMTSAMZN.COM/BIE9ZM94RE336 BOOK STORES 320161440701378593",
+    "amount": -16.99,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "5/23/16",
+    "description": "Gitbook Plus Ch",
+    "original_description": "GITBOOK PLUS        ORO VALLEYCH_18E8SC4Z 8778877815 320161440704064725",
+    "amount": -7,
+    "transaction": "debit",
+    "category": "Books"
+  },
+  {
+    "date": "5/23/16",
+    "description": "GrubHub",
+    "original_description": "GRUBHUB*PIZZETTA GRUNEW YORKN83FVKP     8775851085 320161440694601193",
+    "amount": -70.12,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/23/16",
+    "description": "Bar Tabac",
+    "original_description": "Bar Tabac           Brooklyn85133316143 718-923-0918 320161440705515780",
+    "amount": -48.73,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/23/16",
+    "description": "Konditori Konditor Misc",
+    "original_description": "KONDITORI 5 KONDITORBROOKLYN32173926143 MISC FOOD STORE 320161440705048623",
+    "amount": -9.5,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "5/23/16",
+    "description": "Granada Wines Spir",
+    "original_description": "GRANADA WINES & SPIRBROOKLYN85353546143718-624-3810 320161440705714222",
+    "amount": -60.96,
+    "transaction": "debit",
+    "category": "Alcohol & Bars"
+  },
+  {
+    "date": "5/22/16",
+    "description": "Uber Uber Gb",
+    "original_description": "UBER UBER           866-576-103GB2SFNY     8665761039 320161430681286644",
+    "amount": 9.59,
+    "transaction": "credit",
+    "category": "Credit Card Payment"
+  },
+  {
+    "date": "5/22/16",
+    "description": "Van Leeuwen Artisan Ice Cream",
+    "original_description": "VAN LEEUWEN ARTISAN BrooklynTW4JGX      squareup.com/receipts 320161430683816622",
+    "amount": -6.99,
+    "transaction": "debit",
     "category": "Business Services"
   },
   {
-    "date": "5/23/16",
-    "description": "Consolidated Edison",
-    "originalDescription": "CON ED OF NY INTELL CK",
-    "amount": 48.45,
-    "type": "debit",
-    "category": "Utilities"
+    "date": "5/22/16",
+    "description": "Zara",
+    "original_description": "HTTP://WWW.ZARA.COM/UNITED STAT32678557    HTTP://WWW.ZARA.COM/U 320161430692776581",
+    "amount": 17.9,
+    "transaction": "credit",
+    "category": "Clothing"
   },
   {
-    "date": "5/23/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 22.57,
-    "type": "debit",
+    "date": "5/21/16",
+    "description": "Uber",
+    "original_description": "UBER UBER           866-576-1033Z33JPJ     8665761039 320161420664531175",
+    "amount": -30.27,
+    "transaction": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "5/21/16",
+    "description": "Jagr Two Llc",
+    "original_description": "JAGR TWO LLC        New YorkTWXTOQ      squareup.com/receipts 320161420667912549",
+    "amount": -5.75,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "5/21/16",
+    "description": "Instacart San Francis",
+    "original_description": "INSTACART           SAN FRANCISCH_8UDKQUH9 8882467822 320161420663673065",
+    "amount": -14.3,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/21/16",
+    "description": "Uber",
+    "original_description": "UBER UBER           866-576-103D9FZMSY     8665761039 320161420664652252",
+    "amount": -10.63,
+    "transaction": "debit",
     "category": "Business Services"
   },
   {
     "date": "5/20/16",
-    "description": "Free Childre Direct",
-    "originalDescription": "FREE THE CHILDRE DIRECT DEP~ Future Amount: 4133.96 ~ Tran:",
-    "amount": 4133.96,
-    "type": "credit",
-    "category": "Paycheck"
+    "description": "Diwan E Khaas",
+    "original_description": "DIWAN-E-KHAAS       NEW YORK520980      RESTAURANT 320161410656036186",
+    "amount": -11.25,
+    "transaction": "debit",
+    "category": "Restaurants"
   },
   {
-    "date": "5/18/16",
-    "description": "Navi Ed Serv",
-    "originalDescription": "NAVI  ED SERV PP STUDNTLOAN",
-    "amount": 1053.33,
-    "type": "debit",
-    "category": "Student Loan"
-  },
-  {
-    "date": "5/17/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 21.43,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "5/16/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 0.47,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "5/13/16",
-    "description": "Huge Llc Dir",
-    "originalDescription": "HUGE LLC DIR DEP~ Future Amount: 2694.22 ~ Tran: DDIR",
-    "amount": 2694.22,
-    "type": "credit",
-    "category": "Paycheck"
-  },
-  {
-    "date": "5/12/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 27.67,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "5/11/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 75,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "5/10/16",
-    "description": "ATM Fee Refund",
-    "originalDescription": "ATM Fee Reimbursement",
-    "amount": 10,
-    "type": "credit",
-    "category": "ATM Fee"
-  },
-  {
-    "date": "5/10/16",
-    "description": "Interest Paid",
-    "originalDescription": "Interest Paid",
-    "amount": 0.55,
-    "type": "credit",
-    "category": "Interest Income"
-  },
-  {
-    "date": "5/9/16",
-    "description": "Betterment Sec Transfer",
-    "originalDescription": "BETTERMENT SEC TRANSFER",
-    "amount": 1000,
-    "type": "debit",
-    "category": "Transfer"
-  },
-  {
-    "date": "5/9/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 10.75,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "5/6/16",
-    "description": "Free Childre Direct",
-    "originalDescription": "FREE THE CHILDRE DIRECT DEP~ Future Amount: 2356.29 ~ Tran:",
-    "amount": 2356.29,
-    "type": "credit",
-    "category": "Paycheck"
-  },
-  {
-    "date": "5/6/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 77.91,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "5/6/16",
-    "description": "National Grid",
-    "originalDescription": "NATIONAL GRID NY UTILITYPAY~ Future Amount: 17.03 ~ Tran: AC",
-    "amount": 17.03,
-    "type": "debit",
-    "category": "Utilities"
-  },
-  {
-    "date": "5/6/16",
-    "description": "Apple",
-    "originalDescription": "APPLE TREE 312 COURT ST BROOKLYN NY US",
-    "amount": 102,
-    "type": "debit",
-    "category": "Electronics & Software"
-  },
-  {
-    "date": "5/6/16",
-    "description": "Banfield Pet Hospital",
-    "originalDescription": "BANFIELD WELLNESS PLAN 08668947927 OR US",
-    "amount": 28.95,
-    "type": "debit",
-    "category": "Veterinary"
-  },
-  {
-    "date": "5/5/16",
-    "description": "Capital One Crcardpmt",
-    "originalDescription": "CAPITAL ONE CRCARDPMT~ Future Amount: 143.35 ~ Tran: ACHDW",
-    "amount": 143.35,
-    "type": "debit",
-    "category": "Credit Card Payment"
-  },
-  {
-    "date": "5/4/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 77.91,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "5/3/16",
-    "description": "Betterment Sec Transfer",
-    "originalDescription": "BETTERMENT SEC TRANSFER",
-    "amount": 1000,
-    "type": "debit",
-    "category": "Transfer"
-  },
-  {
-    "date": "5/3/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 119.85,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "5/3/16",
-    "description": "Betterment Sec Transfer",
-    "originalDescription": "BETTERMENT SEC TRANSFER",
-    "amount": 277.32,
-    "type": "debit",
-    "category": "Transfer"
-  },
-  {
-    "date": "5/3/16",
-    "description": "Fedloanservicing Stdnt Loan",
-    "originalDescription": "FEDLOANSERVICING STDNT LOAN~ Future Amount: 691.84 ~ Tran: A",
-    "amount": 691.84,
-    "type": "debit",
-    "category": "Student Loan"
-  },
-  {
-    "date": "4/29/16",
-    "description": "ACS Education Services",
-    "originalDescription": "ACS LOAN PYMT",
-    "amount": 63.64,
-    "type": "debit",
-    "category": "Student Loan"
-  },
-  {
-    "date": "4/29/16",
-    "description": "Huge Llc Dir",
-    "originalDescription": "HUGE LLC DIR DEP~ Future Amount: 2694.22 ~ Tran: DDIR",
-    "amount": 2694.22,
-    "type": "credit",
-    "category": "Paycheck"
-  },
-  {
-    "date": "4/29/16",
-    "description": "ACS Education Services",
-    "originalDescription": "ACS LOAN PYMT",
-    "amount": 116.05,
-    "type": "debit",
-    "category": "Student Loan"
-  },
-  {
-    "date": "4/29/16",
-    "description": "Wscs Smith Laun 137 Smith Street",
-    "originalDescription": "WSCS SMITH LAUN 137 SMITH ST Brooklyn NY US",
-    "amount": 41.85,
-    "type": "debit",
+    "date": "5/20/16",
+    "description": "Wall Street Physicia",
+    "original_description": "WALL STREET PHYSICIANEW YORK73011006140260733325        10006 320161410644933499",
+    "amount": -295,
+    "transaction": "debit",
     "category": "Uncategorized"
   },
   {
-    "date": "4/29/16",
-    "description": "Hulu",
-    "originalDescription": "HLU*HULU 30609388-U HULU.COM/BILL CA US",
-    "amount": 7.99,
-    "type": "debit",
-    "category": "Movies & DVDs"
+    "date": "5/20/16",
+    "description": "TJ Maxx",
+    "original_description": "TJ MAXX             BROOKLYN136500998368009266299 320161410648769427",
+    "amount": 16.32,
+    "transaction": "credit",
+    "category": "Clothing"
+  },
+  {
+    "date": "5/20/16",
+    "description": "Co Market Place Corp.",
+    "original_description": "CO MARKET PLACE 1010BROOKLYN74270746141 718-923-6008 320161410655204832",
+    "amount": -13,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/20/16",
+    "description": "Sephora",
+    "original_description": "SEPHORA MOBILE PLUS SAN FRANCIS23512812ENL COSMETIC STORE 320161410650255784",
+    "amount": -64.24,
+    "transaction": "debit",
+    "category": "Clothing"
+  },
+  {
+    "date": "5/20/16",
+    "description": "Bien Cuit Llc",
+    "original_description": "BIEN CUIT LLC       BrooklynTWRJNH      squareup.com/receipts 320161410650140559",
+    "amount": -2.72,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "5/20/16",
+    "description": "Seamlss Fattydaddyta Vdm",
+    "original_description": "SEAMLSS*FATTYDADDYTANEW YORK552VDM8     8002561020 320161410646377444",
+    "amount": -33.81,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "5/20/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436142 7182430050 320161410645414532",
+    "amount": -37.09,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/20/16",
+    "description": "MTA",
+    "original_description": "MTA MVM*R602-BOROUGHNEW YORK05770250918 718-330-1234 320161410649346569",
+    "amount": -60,
+    "transaction": "debit",
+    "category": "Public Transportation"
+  },
+  {
+    "date": "5/18/16",
+    "description": "A & S Bakery",
+    "original_description": "MIAS BAKERY 14696500BROOKLYN74760626139 347-987-3194 320161390611843899",
+    "amount": -8,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/17/16",
+    "description": "Amazon",
+    "original_description": "AMAZON MKTPLACE PMTSAMZN.COM/BIMOHBGUZVR2E BOOK STORES 320161380600979077",
+    "amount": -45,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "5/17/16",
+    "description": "One Girl Cookies",
+    "original_description": "ONE GIRL COOKIES    BROOKLYN2126754669 320161380599208867",
+    "amount": -2.25,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/17/16",
+    "description": "Coffee Bean Tea",
+    "original_description": "THE COFFEE BEAN TEA NEW YORK00008361099 2128699800 320161380596046045",
+    "amount": -4.19,
+    "transaction": "debit",
+    "category": "Coffee Shops"
+  },
+  {
+    "date": "5/17/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436139 7182430050 320161380608359995",
+    "amount": -69.8,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/17/16",
+    "description": "Cafe Clover",
+    "original_description": "CAFE CLOVER         NEW YORK2122236432 320161380599138236",
+    "amount": -47.38,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/17/16",
+    "description": "Amazon",
+    "original_description": "AMAZON MKTPLACE PMTSAMZN.COM/BIMOHL813H00S BOOK STORES 320161380603872996",
+    "amount": -31.98,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "5/17/16",
+    "description": "iTunes",
+    "original_description": "WWW.ITUNES.COM/BILL CUPERTINOMKTM718JJT0 ITUNES STORE & APP ST 320161380597728410",
+    "amount": -9.99,
+    "transaction": "debit",
+    "category": "Music"
+  },
+  {
+    "date": "5/16/16",
+    "description": "iTunes",
+    "original_description": "WWW.ITUNES.COM/BILL CUPERTINOMKTM02KX140 ITUNES STORE & APP ST 320161370581111951",
+    "amount": -9.99,
+    "transaction": "debit",
+    "category": "Music"
+  },
+  {
+    "date": "5/16/16",
+    "description": "Cantina",
+    "original_description": "JOLIE CANTINA       BROOKLYN85101656136 718-488-9510 320161370588093529",
+    "amount": -74.24,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/16/16",
+    "description": "Dodge",
+    "original_description": "YMC* GREATER NY DODG718-625-31304104100006 CIVIC SOCIAL 320161370588137544",
+    "amount": -126,
+    "transaction": "debit",
+    "category": "Auto Payment"
+  },
+  {
+    "date": "5/16/16",
+    "description": "Trader Joe's",
+    "original_description": "TRADER JOE'S #558  QBROOKLYN0095128     626-599-3700 320161370586008591",
+    "amount": -75.65,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/16/16",
+    "description": "Zara",
+    "original_description": "HTTP://WWW.ZARA.COM/UNITED STAT32678557    HTTP://WWW.ZARA.COM/U 320161370591177664",
+    "amount": -22.85,
+    "transaction": "debit",
+    "category": "Clothing"
+  },
+  {
+    "date": "5/16/16",
+    "description": "American Apparel",
+    "original_description": "AMERICAN APPAREL    BROOKLYN0000232266  (213)488-0226 320161370578216563",
+    "amount": -18,
+    "transaction": "debit",
+    "category": "Clothing"
+  },
+  {
+    "date": "5/16/16",
+    "description": "Andy James Deli",
+    "original_description": "ANDY JAMES DELI     NEW YORK85180896137             USFC10007 320161370576230431",
+    "amount": -10.62,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/15/16",
+    "description": "CVS",
+    "original_description": "CVS PHARMACY        BROOKLYN10178272000 8007467287 320161360572060767",
+    "amount": -12.98,
+    "transaction": "debit",
+    "category": "Pharmacy"
+  },
+  {
+    "date": "5/15/16",
+    "description": "Leyenda",
+    "original_description": "LEYENDA 542929806170BROOKLYN24224436137 6463269847 320161360560717893",
+    "amount": -80.77,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/15/16",
+    "description": "Amazon",
+    "original_description": "AMAZON.COM          AMZN.COM/BIU0ELUPA2LRF MERCHANDISE 320161360573357032",
+    "amount": -50,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "5/15/16",
+    "description": "Seamlss Danonnarosa Jjx",
+    "original_description": "SEAMLSS*DANONNAROSA NEW YORK44JJX8J     8002561020 320161360561359774",
+    "amount": -39.44,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "5/14/16",
+    "description": "Blanc Et Rouge",
+    "original_description": "BLANC ET ROUGE 65000BROOKLYN10156320160 7188589463 320161350544514049",
+    "amount": -40.27,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "5/14/16",
+    "description": "TJ Maxx",
+    "original_description": "TJ MAXX             BROOKLYN136500749318009266299 320161350548601039",
+    "amount": -41.07,
+    "transaction": "debit",
+    "category": "Clothing"
+  },
+  {
+    "date": "5/14/16",
+    "description": "Miguel Locksmith Service",
+    "original_description": "MIGUEL LOCKSMITH SERBROOKLYN017134389   718-596-4142 320161350544745198",
+    "amount": -21.23,
+    "transaction": "debit",
+    "category": "Home"
+  },
+  {
+    "date": "5/14/16",
+    "description": "Bien Cuit Llc",
+    "original_description": "BIEN CUIT LLC       BrooklynTVV2IA      squareup.com/receipts 320161350549079339",
+    "amount": -7.89,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "5/13/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436135 7182430050 320161340527203313",
+    "amount": -38.88,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/13/16",
+    "description": "GrubHub",
+    "original_description": "GRUBHUB*NATURESGRILLNEW YORKGDM86PJ     8775851085 320161340528175637",
+    "amount": -22.29,
+    "transaction": "debit",
+    "category": "Food & Dining"
+  },
+  {
+    "date": "5/12/16",
+    "description": "Brooklyn Roasting Tvls",
+    "original_description": "BROOKLYN ROASTING COBrooklynTVLS7X      squareup.com/receipts 320161330513865276",
+    "amount": -5.5,
+    "transaction": "debit",
+    "category": "Coffee Shops"
+  },
+  {
+    "date": "5/12/16",
+    "description": "Wichcraft Lincoln Ctnew",
+    "original_description": "WICHCRAFT LINCOLN CTNEW YORK306         212-780-0577 320161330513064782",
+    "amount": -11.43,
+    "transaction": "debit",
+    "category": "Food & Dining"
+  },
+  {
+    "date": "5/12/16",
+    "description": "Whole Foods",
+    "original_description": "WHOLEFDS USQ 10162 0NEW YORK00010227041 2126735388 320161330516587751",
+    "amount": -3.49,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/12/16",
+    "description": "Trader Joe's",
+    "original_description": "TRADER JOE'S #541  QNEW YORK0010361     626-599-3700 320161330520020823",
+    "amount": -69.61,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/12/16",
+    "description": "Brooklyn Roasting Tvj",
+    "original_description": "BROOKLYN ROASTING COBrooklynTVJ4N4      squareup.com/receipts 320161330514803962",
+    "amount": -5,
+    "transaction": "debit",
+    "category": "Coffee Shops"
+  },
+  {
+    "date": "5/12/16",
+    "description": "MTA",
+    "original_description": "MTA MVM*R217A-BLEECKNEW YORK05484186526 718-330-1234 320161330513856933",
+    "amount": -40,
+    "transaction": "debit",
+    "category": "Public Transportation"
+  },
+  {
+    "date": "5/12/16",
+    "description": "Whole Foods",
+    "original_description": "WHOLEFDS USQ 10162 0NEW YORK000102270572126735388 320161330516186314",
+    "amount": -12.62,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/12/16",
+    "description": "Wichcraft Lincoln Ctnew",
+    "original_description": "WICHCRAFT LINCOLN CTNEW YORK306         212-780-0577 320161330512903373",
+    "amount": -3.54,
+    "transaction": "debit",
+    "category": "Food & Dining"
+  },
+  {
+    "date": "5/12/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436134 7182430050 320161330509307570",
+    "amount": -43.65,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/11/16",
+    "description": "Products",
+    "original_description": "PAYPAL *DT PRODUCTS 402935773339572626    402-935-7733 320161320506124095",
+    "amount": -9.99,
+    "transaction": "debit",
+    "category": "Home Services"
+  },
+  {
+    "date": "5/11/16",
+    "description": "Bare Burger",
+    "original_description": "TST* BAREBURGER COURBROOKLYNnzho7hYdh00 3475296673 320161320496254665",
+    "amount": -22.54,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/10/16",
+    "description": "JetBlue",
+    "original_description": "JETBLUE AIRWAYS 9010JETBLUEADPHDN      8005382583 320161310479693263",
+    "amount": -146.4,
+    "transaction": "debit",
+    "category": "Air Travel"
+  },
+  {
+    "date": "5/10/16",
+    "description": "Delta",
+    "original_description": "DELTA AIR LINES     ATLANTA18002211212 320161310484134515",
+    "amount": -160.1,
+    "transaction": "debit",
+    "category": "Air Travel"
+  },
+  {
+    "date": "5/10/16",
+    "description": "Minuteman Press",
+    "original_description": "MINUTEMAN PRESS BROOBROOKLYN73028666130 (718)858-0313 320161310486482903",
+    "amount": -8.72,
+    "transaction": "debit",
+    "category": "Printing"
+  },
+  {
+    "date": "5/10/16",
+    "description": "Greyhound",
+    "original_description": "GREYHOUND #6021     214-849-8966220201      BUS LINE 320161310479692146",
+    "amount": -13.18,
+    "transaction": "debit",
+    "category": "Travel"
+  },
+  {
+    "date": "5/10/16",
+    "description": "Amazon",
+    "original_description": "AMAZON.COM          AMZN.COM/BIRBHCKR7CS9O MERCHANDISE 320161310484380362",
+    "amount": -50,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "5/10/16",
+    "description": "Archway Cafe",
+    "original_description": "ARCHWAY CAFE        BROOKLYN250428           11201 320161310481459526",
+    "amount": -14.15,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/10/16",
+    "description": "Panera Bread",
+    "original_description": "PANERA BREAD #4078 0BROOKLYN000001973   5164560359 320161310487268875",
+    "amount": -9.57,
+    "transaction": "debit",
+    "category": "Fast Food"
+  },
+  {
+    "date": "5/10/16",
+    "description": "One Girl Cookies",
+    "original_description": "ONE GIRL COOKIES    BROOKLYN2126754669 320161310482153898",
+    "amount": -4.5,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/9/16",
+    "description": "Exit",
+    "original_description": "EXIT 9 GIFT EMPORIU BROOKLYN85353536130 718-422-7720 320161300472634367",
+    "amount": -62.27,
+    "transaction": "debit",
+    "category": "Clothing"
+  },
+  {
+    "date": "5/9/16",
+    "description": "Hello",
+    "original_description": "HELLO* HELLOFAX     SAN FRANCISCH_8Q6ACFNJ 4157660273 320161300459368608",
+    "amount": -0.99,
+    "transaction": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "5/9/16",
+    "description": "Brooklyn Roasting Tu",
+    "original_description": "BROOKLYN ROASTING COBrooklynTU42I3      squareup.com/receipts 320161300461262471",
+    "amount": -4,
+    "transaction": "debit",
+    "category": "Coffee Shops"
+  },
+  {
+    "date": "5/9/16",
+    "description": "eBay",
+    "original_description": "EBAY INC. 0000      866-779-32258316060    866-540-3229 320161300465065803",
+    "amount": -50.3,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "5/9/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436131 7182430050 320161300472704207",
+    "amount": -17.43,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/9/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436130 7182430050 320161300470323054",
+    "amount": -30.78,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/9/16",
+    "description": "One Girl Cookies",
+    "original_description": "ONE GIRL COOKIES    BROOKLYN2126754996 320161300463794705",
+    "amount": -7.5,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "5/8/16",
+    "description": "Verizon Wireless",
+    "original_description": "VERIZONWRLSSAPO VE  800-922-020E0000000996NONE             07921 320161290452077599",
+    "amount": -150.53,
+    "transaction": "debit",
+    "category": "Mobile Phone"
+  },
+  {
+    "date": "5/8/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436129 7182430050 320161290447435745",
+    "amount": -34.3,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/7/16",
+    "description": "Fawkner",
+    "original_description": "FAWKNER 000000001   BROOKLYN00002251019 7185223172 320161280427811835",
+    "amount": -6.44,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "5/7/16",
+    "description": "Seamlss Tajmahal Seanew",
+    "original_description": "SEAMLSS*TAJMAHAL SEANEW YORK7V53QVP     8002561020 320161280425961762",
+    "amount": -22.48,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/7/16",
+    "description": "Fawkner",
+    "original_description": "FAWKNER 000000001   BROOKLYN00002251061 7185223172 320161280427974499",
+    "amount": -59,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "5/7/16",
+    "description": "Rite Aid",
+    "original_description": "RITE AID STORE - 473BROOKLYN867746      DRUG STORE/PHARMACY 320161280431561661",
+    "amount": -10.98,
+    "transaction": "debit",
+    "category": "Pharmacy"
+  },
+  {
+    "date": "5/7/16",
+    "description": "Starbucks",
+    "original_description": "STARBUCKS.COM/CARD  800-782-728216350761NL GIFT CARD 320161280430750812",
+    "amount": -20,
+    "transaction": "debit",
+    "category": "Coffee Shops"
+  },
+  {
+    "date": "5/7/16",
+    "description": "Dunkin Donuts",
+    "original_description": "DUNKIN #351853     QBRONX05060001398 718-292-2100 320161280432624243",
+    "amount": -2,
+    "transaction": "debit",
+    "category": "Coffee Shops"
+  },
+  {
+    "date": "5/6/16",
+    "description": "Amazon",
+    "original_description": "AMAZON MKTPLACE PMTSAMZN.COM/BILV02GESYI50 BOOK STORES 320161270412284266",
+    "amount": -16.99,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "5/5/16",
+    "description": "GrubHub",
+    "original_description": "GRUBHUB*CURRYHEIGHTSNEW YORKM87D6M8     8775851085 320161260389483794",
+    "amount": -19.98,
+    "transaction": "debit",
+    "category": "Food & Dining"
+  },
+  {
+    "date": "5/5/16",
+    "description": "Wal-Mart",
+    "original_description": "WALMART ANNEX WALMARBENTONVILLE010752180   309-675-7922 320161260390859498",
+    "amount": -2.2,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "5/5/16",
+    "description": "Wal-Mart",
+    "original_description": "WALMART ANNEX WALMARBENTONVILLE010752350   309-675-7922 320161260391042116",
+    "amount": -1.76,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "5/4/16",
+    "description": "GrubHub",
+    "original_description": "GRUBHUB*BURGERURWAYMNEW YORKJYG9294     8775851085 320161250372773477",
+    "amount": -14.62,
+    "transaction": "debit",
+    "category": "Food & Dining"
+  },
+  {
+    "date": "5/3/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436125 7182430050 320161240369429354",
+    "amount": -13.82,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/3/16",
+    "description": "Target",
+    "original_description": "TARGET.COM          800-591-3861678111088  800-591-3869 320161240367613572",
+    "amount": -32.63,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "5/3/16",
+    "description": "Trader Joe's",
+    "original_description": "TRADER JOE'S #558  QBROOKLYN0171380     626-599-3700 320161240362836333",
+    "amount": -37.42,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/3/16",
+    "description": "GrubHub",
+    "original_description": "GRUBHUB*FRANCESCOSPINEW YORKJPSQMXD     8775851085 320161240352740055",
+    "amount": -33.41,
+    "transaction": "debit",
+    "category": "Food & Dining"
+  },
+  {
+    "date": "5/3/16",
+    "description": "Target",
+    "original_description": "TARGET.COM          800-591-3861678111088  800-591-3869 320161240365266289",
+    "amount": -87.09,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "5/3/16",
+    "description": "Focusatwill Com Marina",
+    "original_description": "FOCUSATWILL.COM     MARINA DELKWBCPQP     323-333-9833 320161240363820368",
+    "amount": 24.99,
+    "transaction": "credit",
+    "category": "Credit Card Payment"
+  },
+  {
+    "date": "5/3/16",
+    "description": "Gourmet Deli",
+    "original_description": "NEVIS GOURMET DELI  BROOKLYN85101656123718-855-5220 320161240364667536",
+    "amount": -7,
+    "transaction": "debit",
+    "category": "Food & Dining"
+  },
+  {
+    "date": "5/2/16",
+    "description": "Audible.com",
+    "original_description": "AUDIBLE             888-283-505XETX8W2OCZS AUDIO BOOKS 320161230339189253",
+    "amount": -14.95,
+    "transaction": "debit",
+    "category": "Books"
+  },
+  {
+    "date": "5/2/16",
+    "description": "Focusatwill Com Focumarina",
+    "original_description": "FOCUSATWILL.COM*FOCUMARINA DELFRX9Y3D     323-333-9833 320161230344759416",
+    "amount": -24.99,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "5/2/16",
+    "description": "Uniqlo Atlantic Term",
+    "original_description": "UNIQLO ATLANTIC TERMBROOKLYNTA4569      877-486-4756 320161230344295799",
+    "amount": -74.5,
+    "transaction": "debit",
+    "category": "Clothing"
+  },
+  {
+    "date": "5/1/16",
+    "description": "Seamlss Pizzetta Seanew",
+    "original_description": "SEAMLSS*PIZZETTA SEANEW YORKJ4WKGBY     8002561020 320161220320079080",
+    "amount": -33.18,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "5/1/16",
+    "description": "Target",
+    "original_description": "TARGET ATLANTIC TERMBROOKLYN00798979    DISCOUNT STORE 320161220321334915",
+    "amount": -38.33,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "5/1/16",
+    "description": "Two Two Bar",
+    "original_description": "TWO 8 TWO BAR & BURGBROOKLYN00002721131 7185962282 320161220321751003",
+    "amount": -33.31,
+    "transaction": "debit",
+    "category": "Alcohol & Bars"
+  },
+  {
+    "date": "5/1/16",
+    "description": "Wnyc Wqxr Njpr",
+    "original_description": "WNYC/WQXR/NJPR/NYPR 6468294000ID51G5U9eK ID51G5U9eK       11201 320161220333548869",
+    "amount": -10,
+    "transaction": "debit",
+    "category": "Charity"
+  },
+  {
+    "date": "5/1/16",
+    "description": "Barleycorn",
+    "original_description": "BARLEYCORN 000000333NEW YORK413000103   2129330039 320161220325113704",
+    "amount": -9.24,
+    "transaction": "debit",
+    "category": "Alcohol & Bars"
+  },
+  {
+    "date": "5/1/16",
+    "description": "Digitalocean Com Ci",
+    "original_description": "DIGITALOCEAN.COM    NEW YORK CICH_186C1H4I 6463978051 320161220327661549",
+    "amount": -5.36,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "5/1/16",
+    "description": "Uber",
+    "original_description": "UBER UBER           866-576-103967J45P     8665761039 320161220319885057",
+    "amount": -16.96,
+    "transaction": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "5/1/16",
+    "description": "Absolute",
+    "original_description": "ABSOLUTE COFFEE     BrooklynTTTFBI      squareup.com/receipts 320161220323664970",
+    "amount": -6,
+    "transaction": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "5/1/16",
+    "description": "Seamlss Fattydaddyta H",
+    "original_description": "SEAMLSS*FATTYDADDYTANEW YORKH7YB3BT     8002561020 320161220319954809",
+    "amount": -19.41,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "4/30/16",
+    "description": "Uber",
+    "original_description": "UBER UBER           866-576-1039HCTZMT     8665761039 320161210304105332",
+    "amount": -19.31,
+    "transaction": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "4/30/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436121 7182430050 320161210313029241",
+    "amount": -11.48,
+    "transaction": "debit",
+    "category": "Groceries"
   },
   {
     "date": "4/29/16",
-    "description": "Peas N Pickles",
-    "originalDescription": "PEAS N PICKLES 45-55 WASHINGTON S BROOKLYN NY US",
-    "amount": 61.5,
-    "type": "debit",
+    "description": "Brooklyn Roasting Ttlu",
+    "original_description": "BROOKLYN ROASTING COBrooklynTTLU63      squareup.com/receipts 320161200289033090",
+    "amount": -4.25,
+    "transaction": "debit",
+    "category": "Coffee Shops"
+  },
+  {
+    "date": "4/28/16",
+    "description": "Trader Joe's",
+    "original_description": "TRADER JOE'S #558  QBROOKLYN0238053     626-599-3700 320161190276399447",
+    "amount": -34.08,
+    "transaction": "debit",
     "category": "Groceries"
   },
   {
     "date": "4/28/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 92.19,
-    "type": "debit",
-    "category": "Business Services"
+    "description": "Spotify",
+    "original_description": "SPOTIFY USA         NEW YORK1GNDUVVH206 BUSINESS SERVICE 320161190282682368",
+    "amount": -9.99,
+    "transaction": "debit",
+    "category": "Music"
   },
   {
     "date": "4/27/16",
-    "description": "Check 995009",
-    "originalDescription": "Check Paid #995009",
-    "amount": 2280,
-    "type": "debit",
-    "category": "Check"
+    "description": "MTA",
+    "original_description": "MTA MVM*N532-BERGEN NEW YORK05051053512 718-330-1234 320161180254100971",
+    "amount": -60,
+    "transaction": "debit",
+    "category": "Public Transportation"
   },
   {
     "date": "4/27/16",
-    "description": "American Express",
-    "originalDescription": "AMEX EPayment ACH PMT",
-    "amount": 4100.7,
-    "type": "debit",
-    "category": "Credit Card Payment"
+    "description": "Le Pain Quotidien",
+    "original_description": "LE PAIN QUOTIDIEN   NEW YORK3596852     RESTAURANT 320161180256948345",
+    "amount": -42.69,
+    "transaction": "debit",
+    "category": "Restaurants"
   },
   {
     "date": "4/27/16",
-    "description": "Check 995010",
-    "originalDescription": "Check Paid #995010",
-    "amount": 320,
-    "type": "debit",
-    "category": "Check"
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436119 7182430050 320161180251739157",
+    "amount": -16.97,
+    "transaction": "debit",
+    "category": "Groceries"
   },
   {
     "date": "4/27/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 5.56,
-    "type": "debit",
-    "category": "Business Services"
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436119 7182430050 320161180265896109",
+    "amount": -33.95,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "4/27/16",
+    "description": "Trader Joe's",
+    "original_description": "TRADER JOE'S #541  QNEW YORK0018441     626-599-3700 320161180257439684",
+    "amount": -65.25,
+    "transaction": "debit",
+    "category": "Groceries"
   },
   {
     "date": "4/26/16",
-    "description": "Hello Digit Savings",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 230,
-    "type": "credit",
-    "category": "Income"
+    "description": "Terroir",
+    "original_description": "TERROIR TRIBECA     NEW YORK7795188     RESTAURANT 320161170241671151",
+    "amount": -83.14,
+    "transaction": "debit",
+    "category": "Food & Dining"
   },
   {
-    "date": "4/25/16",
-    "description": "Hello Digit Savings",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 310,
-    "type": "credit",
-    "category": "Income"
-  },
-  {
-    "date": "4/25/16",
-    "description": "Comenity Pay Ns",
-    "originalDescription": "COMENITY PAY NS WEB PYMT",
-    "amount": 74.16,
-    "type": "debit",
+    "date": "4/26/16",
+    "description": "Lipault Mansfield Umy",
+    "original_description": "LIPAULT             MANSFIELD23849694UMY 888-890-1328 320161170238181821",
+    "amount": -184.16,
+    "transaction": "debit",
     "category": "Uncategorized"
+  },
+  {
+    "date": "4/26/16",
+    "description": "H&M",
+    "original_description": "H & M               BROOKLYN00000088329 855-466-7467 320161170242711761",
+    "amount": -89.97,
+    "transaction": "debit",
+    "category": "Clothing"
+  },
+  {
+    "date": "4/26/16",
+    "description": "Autopay Thank You",
+    "original_description": "AUTOPAY PAYMENT - THANK YOU 320161170247665136",
+    "amount": 4100.7,
+    "transaction": "credit",
+    "category": "Credit Card Payment"
+  },
+  {
+    "date": "4/26/16",
+    "description": "Seamlss Fattydaddyta Sg",
+    "original_description": "SEAMLSS*FATTYDADDYTANEW YORK94SG73J     8002561020 320161170234871713",
+    "amount": -33.81,
+    "transaction": "debit",
+    "category": "Uncategorized"
+  },
+  {
+    "date": "4/26/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436117 7182430050 320161170246234395",
+    "amount": -18.98,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "4/26/16",
+    "description": "Netflix",
+    "original_description": "NETFLIX.COM         866-579-71710185553154 DVD RENTALS 320161170235863824",
+    "amount": -7.99,
+    "transaction": "debit",
+    "category": "Movies & DVDs"
+  },
+  {
+    "date": "4/25/16",
+    "description": "PetSmart",
+    "original_description": "PETSMART            BROOKLYN22496384102 PET SHOP/FOOD/SUPPLY 320161160227453553",
+    "amount": -28.3,
+    "transaction": "debit",
+    "category": "Pet Food & Supplies"
+  },
+  {
+    "date": "4/25/16",
+    "description": "Uber",
+    "original_description": "UBER UBER           866-576-1035YMG8Q8     8665761039 320161160218392271",
+    "amount": -30.78,
+    "transaction": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "4/25/16",
+    "description": "CVS",
+    "original_description": "CVS/PHARMACY #10086 BROOKLYN10173109   8007467287 320161160224416617",
+    "amount": -3.26,
+    "transaction": "debit",
+    "category": "Pharmacy"
+  },
+  {
+    "date": "4/25/16",
+    "description": "Cost Plus World Market",
+    "original_description": "WORLDMARKET.COM 00781-877-967-500433601783 CUSTOMERCARE@WORLDMAR 320161160223201140",
+    "amount": -310.27,
+    "transaction": "debit",
+    "category": "Furnishings"
+  },
+  {
+    "date": "4/25/16",
+    "description": "Amazon",
+    "original_description": "AMAZON.COM          AMZN.COM/BIONHVJX1TSF6 MERCHANDISE 320161160226092582",
+    "amount": -16.86,
+    "transaction": "debit",
+    "category": "Shopping"
+  },
+  {
+    "date": "4/25/16",
+    "description": "Amazon",
+    "original_description": "AMAZON.COM          AMZN.COM/BIONHLR0JZUAM MERCHANDISE 320161160217521184",
+    "amount": -47.25,
+    "transaction": "debit",
+    "category": "Shopping"
   },
   {
     "date": "4/24/16",
-    "description": "El Gllito 20 34th Avenue",
-    "originalDescription": "EL GLLITO CO-18 32-20 34TH AVE LONG ISLAND C NY US",
-    "amount": 82.25,
-    "type": "debit",
-    "category": "Uncategorized"
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436115 7182430050 320161150213593698",
+    "amount": -33.33,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "4/24/16",
+    "description": "Nunu Chocolates",
+    "original_description": "NUNU CHOCOLATES     BrooklynTSQDW5      squareup.com/receipts 320161150207957947",
+    "amount": -23.33,
+    "transaction": "debit",
+    "category": "Business Services"
+  },
+  {
+    "date": "4/24/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436116 7182430050 320161150202205460",
+    "amount": -27.9,
+    "transaction": "debit",
+    "category": "Groceries"
   },
   {
     "date": "4/23/16",
-    "description": "Wscs Smith Laun 137 Smith Street",
-    "originalDescription": "WSCS SMITH LAUN 137 SMITH ST Brooklyn NY US",
-    "amount": 61.85,
-    "type": "debit",
-    "category": "Uncategorized"
+    "description": "Uber",
+    "original_description": "UBER UBER           866-576-103938TRWY     8665761039 320161140188560760",
+    "amount": -13.27,
+    "transaction": "debit",
+    "category": "Business Services"
   },
   {
     "date": "4/23/16",
-    "description": "Pai Iso 305 Atlantic Avenue",
-    "originalDescription": "PAI ISO 305 ATLANTIC AVE BROOKLYN NY US",
-    "amount": 62.75,
-    "type": "debit",
+    "description": "Gitbook Plus Ch",
+    "original_description": "GITBOOK PLUS        ORO VALLEYCH_183GBA4Z 8778877815 320161140200362543",
+    "amount": -7,
+    "transaction": "debit",
+    "category": "Books"
+  },
+  {
+    "date": "4/23/16",
+    "description": "The Levee",
+    "original_description": "THE LEVEE 8990000030BROOKLYN73011006115 HNHUNT@GMAIL.COM 320161140187012904",
+    "amount": -15,
+    "transaction": "debit",
+    "category": "Alcohol & Bars"
+  },
+  {
+    "date": "4/22/16",
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436114 7182430050 320161130182996194",
+    "amount": -16.22,
+    "transaction": "debit",
+    "category": "Groceries"
+  },
+  {
+    "date": "4/22/16",
+    "description": "Dos Toros Taqueria",
+    "original_description": "DOS TOROS TAQUERIA  NEW YORK562632      FAST FOOD RESTAURANT 320161130178947978",
+    "amount": -12.75,
+    "transaction": "debit",
+    "category": "Restaurants"
+  },
+  {
+    "date": "4/22/16",
+    "description": "Bin No. 220",
+    "original_description": "Bin No. 220         New York85133316113 212-374-9463 320161130183060777",
+    "amount": -16,
+    "transaction": "debit",
+    "category": "Alcohol & Bars"
+  },
+  {
+    "date": "4/22/16",
+    "description": "Hpytech",
+    "original_description": "PAYPAL *HPYTECH     402935773391324740    402-935-7733 320161130177029559",
+    "amount": -53.49,
+    "transaction": "debit",
     "category": "Uncategorized"
   },
   {
     "date": "4/22/16",
-    "description": "Free Childre Direct",
-    "originalDescription": "FREE THE CHILDRE DIRECT DEP~ Future Amount: 4136.49 ~ Tran:",
-    "amount": 4136.49,
-    "type": "credit",
-    "category": "Paycheck"
+    "description": "Trader Joe's",
+    "original_description": "TRADER JOE'S #558  QBROOKLYN0137856     626-599-3700 320161130177094795",
+    "amount": -49.64,
+    "transaction": "debit",
+    "category": "Groceries"
   },
   {
     "date": "4/22/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 31.39,
-    "type": "debit",
-    "category": "Business Services"
+    "description": "Brooklyn Fare",
+    "original_description": "BROOKLYN FARE #192 5BROOKLYN24224436113 7182430050 320161130181020035",
+    "amount": -10.28,
+    "transaction": "debit",
+    "category": "Groceries"
   },
   {
     "date": "4/22/16",
-    "description": "Consolidated Edison",
-    "originalDescription": "CON ED OF NY INTELL CK",
-    "amount": 54.32,
-    "type": "debit",
-    "category": "Utilities"
-  },
-  {
-    "date": "4/20/16",
-    "description": "Thomas Golden",
-    "originalDescription": "SQC*THOMAS GOLDENBE 04153753176 CA US",
-    "amount": 30,
-    "type": "debit",
-    "category": "Doctor"
-  },
-  {
-    "date": "4/20/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 76.84,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "4/19/16",
-    "description": "Venmo Cashout",
-    "originalDescription": "VENMO-0 CASHOUT",
-    "amount": 20,
-    "type": "credit",
-    "category": "Income"
-  },
-  {
-    "date": "4/19/16",
-    "description": "Transfer",
-    "originalDescription": "PAYPAL TRANSFER",
-    "amount": 331.31,
-    "type": "credit",
-    "category": "Transfer"
-  },
-  {
-    "date": "4/19/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 9,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "4/18/16",
-    "description": "Nys Dtf Pit",
-    "originalDescription": "NYS DTF PIT Tax Paymnt",
-    "amount": 899,
-    "type": "debit",
-    "category": "Taxes"
-  },
-  {
-    "date": "4/18/16",
-    "description": "Navi Ed Serv",
-    "originalDescription": "NAVI  ED SERV PP STUDNTLOAN",
-    "amount": 1053.33,
-    "type": "debit",
-    "category": "Student Loan"
-  },
-  {
-    "date": "4/18/16",
-    "description": "Robinhood Crfn Ach",
-    "originalDescription": "ROBINHOOD (CRFN) ACH",
-    "amount": 96.76,
-    "type": "debit",
-    "category": "Uncategorized"
-  },
-  {
-    "date": "4/17/16",
-    "description": "Pai Iso 261 Flatbush Avenue",
-    "originalDescription": "PAI ISO 261 FLATBUSH AVE BROOKLYN NY US",
-    "amount": 60,
-    "type": "debit",
-    "category": "Uncategorized"
-  },
-  {
-    "date": "4/17/16",
-    "description": "Pai Iso 261 Flatbush Avenue",
-    "originalDescription": "PAI ISO 261 FLATBUSH AVE BROOKLYN NY US",
-    "amount": 60,
-    "type": "debit",
-    "category": "Uncategorized"
-  },
-  {
-    "date": "4/15/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 0.9,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "4/15/16",
-    "description": "Huge Llc Dir",
-    "originalDescription": "HUGE LLC DIR DEP~ Future Amount: 2694.22 ~ Tran: DDIR",
-    "amount": 2694.22,
-    "type": "credit",
-    "category": "Paycheck"
-  },
-  {
-    "date": "4/14/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 14,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "4/14/16",
-    "description": "Pai Iso 305 Atlantic Avenue",
-    "originalDescription": "PAI ISO 305 ATLANTIC AVE BROOKLYN NY US",
-    "amount": 22.75,
-    "type": "debit",
-    "category": "Uncategorized"
-  },
-  {
-    "date": "4/13/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 22.54,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "4/12/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 43.97,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "4/11/16",
-    "description": "Transfer",
-    "originalDescription": "PAYPAL TRANSFER",
-    "amount": 85,
-    "type": "credit",
-    "category": "Transfer"
-  },
-  {
-    "date": "4/10/16",
-    "description": "Interest Paid",
-    "originalDescription": "Interest Paid",
-    "amount": 1.53,
-    "type": "credit",
-    "category": "Interest Income"
-  },
-  {
-    "date": "4/10/16",
-    "description": "ATM Fee Refund",
-    "originalDescription": "ATM Fee Reimbursement",
-    "amount": 10,
-    "type": "credit",
-    "category": "ATM Fee"
-  },
-  {
-    "date": "4/8/16",
-    "description": "Free Childre Direct",
-    "originalDescription": "FREE THE CHILDRE DIRECT DEP~ Future Amount: 4037.11 ~ Tran:",
-    "amount": 4037.11,
-    "type": "credit",
-    "category": "Paycheck"
-  },
-  {
-    "date": "4/8/16",
-    "description": "Wscs Smith Laun 137 Smith Street",
-    "originalDescription": "WSCS SMITH LAUN 137 SMITH ST Brooklyn NY US",
-    "amount": 41.85,
-    "type": "debit",
-    "category": "Uncategorized"
-  },
-  {
-    "date": "4/8/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 1.28,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "4/7/16",
-    "description": "Hello",
-    "originalDescription": "Hello Digit Inc. Savings",
-    "amount": 74.47,
-    "type": "debit",
-    "category": "Business Services"
-  },
-  {
-    "date": "4/6/16",
-    "description": "National Grid",
-    "originalDescription": "NATIONAL GRID NY UTILITYPAY~ Future Amount: 17.02 ~ Tran: AC",
-    "amount": 17.02,
-    "type": "debit",
-    "category": "Utilities"
+    "description": "One Girl Cookies",
+    "original_description": "ONE GIRL COOKIES    BROOKLYN2126754669 320161130176096345",
+    "amount": -5.5,
+    "transaction": "debit",
+    "category": "Restaurants"
   }
 ]
