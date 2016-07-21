@@ -4,7 +4,6 @@ import moment from 'moment';
 import numeral from 'numeral';
 
 import { Transactions } from './transactions.js';
-import { History } from '../history/history.js';
 
 formatCurrency = (number) => numeral(number).format('$0,0.00');
 
