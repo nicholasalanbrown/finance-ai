@@ -145,7 +145,7 @@ Meteor.methods({
         calledFunction = Meteor.call('getSpending', response.result.parameters.category, response.result.parameters['date-period'])
         break;
       case 'graphSpending':
-        calledFunction = Meteor.call('graphSpending');
+        calledFunction = Meteor.call('graphSpending', response);
         break;
       case 'getBalance':
         calledFunction = Meteor.call('getBalance');
