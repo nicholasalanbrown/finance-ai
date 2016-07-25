@@ -1,4 +1,5 @@
 import { Meteor } from 'meteor/meteor';
+let Future = Npm.require( 'fibers/future' );
 import { _ } from 'meteor/underscore';
 import moment from 'moment';
 import numeral from 'numeral';
@@ -129,16 +130,23 @@ Meteor.methods({
   graphSpending (category, datePeriod) {
     console.log('Generating spending graph...')
     let speech = '';
-    let startDate = datePeriod.startDate.rfcString;
-    let endDate = datePeriod.endDate.rfcString;
+    let startDate = moment(datePeriod.startDate.rfcString).format();
+    let endDate = moment(datePeriod.endDate.rfcString).format();
 
-    Charts.insert({
-      category: category,
-      startDate: startDate,
-      endDate: endDate
-    })
+    let future = new Future();
 
-    console.log(speech);
+    Charts.insert({category: category, startDate: startDate, endDate: endDate}, function( error, id ) {
+      if ( error ) {
+        future.return( error );
+      } else {
+        future.return( id );
+      }
+    });
+
+    chartDoc = future.wait();
+
+    const chartUrl = `${Meteor.absoluteUrl()}charts/${chartDoc}`;
+    speech = `I've created a chart for you here: ${chartUrl}`
 
     return {
       speech: speech,
@@ -146,10 +154,11 @@ Meteor.methods({
       data: {},
       contextOut: [],
     };
+
   },
 
   webhook(response) {
-    console.log('Api.ai requests '+ response.result.action + 'action, running matching method...');
+    console.log('Api.ai requests '+ response.result.action + ' action, running matching method...');
     let calledFunction;
     switch (response.result.action) {
       case 'getTransactions':
