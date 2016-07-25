@@ -1,2 +1,2 @@
-import '../../api/transactions/methods.js';
-import '../../api/transactions/server/publications.js';
+import '../../api/server/methods.js';
+import '../../api/server/publications.js';
