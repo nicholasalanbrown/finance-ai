@@ -15,11 +15,11 @@ export default class Chart extends Component {
       labels: series,
       series: [series]
     };
+
     console.log(data);
 
     const options = {
-      high: 100,
-      low: 0
+      showLine: false
     };
 
     const type = 'Line'
