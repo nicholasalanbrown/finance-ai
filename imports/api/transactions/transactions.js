@@ -11,12 +11,12 @@ Transactions.schema = new SimpleSchema({
   description: {
     type: String,
   },
-  original_description: {
-    type: String,
-  },
   amount: {
     type: Number,
     decimal: true
+  },
+  type: {
+    type: String,
   },
   category: {
     type: String,

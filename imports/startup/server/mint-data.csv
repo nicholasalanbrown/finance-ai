@@ -1,0 +1,356 @@
+date,description, amount ,type,category
+7/24/16,Oscorp,-0.21,debit,Food & Dining
+7/24/16,Sirius Cybernetics Corporation,-0.21,debit,Food & Dining
+7/24/16,Dunder Mifflin,-9.22,debit,Groceries
+7/24/16,Duff Beer Company,-9.17,debit,Food & Dining
+7/23/16,Conglom-O,-11.13,debit,Alcohol & Bars
+7/23/16,Dunder Mifflin,-5.49,debit,Rental Car & Taxi
+7/23/16,Acme Corporation,-0.21,debit,Movies & DVDs
+7/23/16,Sirius Cybernetics Corporation,-26.46,debit,Restaurants
+7/23/16,Dunder Mifflin,-11.08,debit,Uncategorized
+7/22/16,Acme Corporation,-0.21,debit,Travel
+7/22/16,Oscorp,-6.93,debit,Alcohol & Bars
+7/22/16,Oscorp,-0.21,debit,Alcohol & Bars
+7/23/16,Conglom-O,-13.13,debit,Gym
+7/23/16,Vandelay Industries,-17.64,debit,Travel
+7/23/16,Conglom-O,-1.47,debit,Books
+7/23/16,Acme Corporation,-8.12,debit,Uncategorized
+7/23/16,Dunder Mifflin,-2.21,debit,Restaurants
+7/22/16,Sirius Cybernetics Corporation,-0.84,debit,Restaurants
+7/21/16,Vandelay Industries,15.60,credit,Shopping
+7/21/16,Dunder Mifflin,14.69,credit,Shopping
+7/21/16,Sirius Cybernetics Corporation,16.80,credit,Shopping
+7/20/16,Oscorp,-7.35,debit,Groceries
+7/20/16,Dunder Mifflin,-4.00,debit,Food & Dining
+7/19/16,Dunder Mifflin,-5.80,debit,Groceries
+7/19/16,Dunder Mifflin,-16.68,debit,Restaurants
+7/17/16,Conglom-O,-15.96,debit,Alcohol & Bars
+7/17/16,Acme Corporation,-6.36,debit,Business Services
+7/17/16,Duff Beer Company,-8.40,debit,Public Transportation
+7/17/16,Sirius Cybernetics Corporation,-34.46,debit,Restaurants
+7/17/16,Vandelay Industries,-6.72,debit,Alcohol & Bars
+7/17/16,Bluth Company,-41.36,debit,Uncategorized
+7/17/16,Conglom-O,-4.20,debit,Alcohol & Bars
+7/16/16,Bluth Company,-26.46,debit,Auto Payment
+7/16/16,Dunder Mifflin,6.36,credit,Credit Card Payment
+7/15/16,Bluth Company,-16.80,debit,Shopping
+7/15/16,Sirius Cybernetics Corporation,-15.60,debit,Shopping
+7/15/16,Dunder Mifflin,-14.69,debit,Shopping
+7/14/16,Bluth Company,-3.78,debit,Shopping
+7/14/16,Vandelay Industries,-3.38,debit,Shopping
+7/14/16,Acme Corporation,-0.37,debit,Coffee Shops
+7/14/16,Bluth Company,-12.55,debit,Groceries
+7/14/16,Acme Corporation,-1.27,debit,Groceries
+7/13/16,Oscorp,-0.37,debit,Coffee Shops
+7/12/16,Dunder Mifflin,-4.47,debit,Restaurants
+7/11/16,Vandelay Industries,-3.14,debit,Restaurants
+7/11/16,Conglom-O,-7.56,debit,Credit Card Payment
+7/11/16,Vandelay Industries,-13.60,debit,Spa & Massage
+7/10/16,Oscorp,-18.02,debit,Groceries
+7/10/16,Conglom-O,-2.00,debit,Shopping
+7/9/16,Bluth Company,-4.52,debit,Internet
+7/9/16,Bluth Company,-2.84,debit,Restaurants
+7/8/16,Oscorp,-30.45,debit,Mobile Phone
+7/8/16,Bluth Company,-3.49,debit,Restaurants
+7/8/16,Acme Corporation,-5.46,debit,Food & Dining
+7/8/16,Sirius Cybernetics Corporation,-6.94,debit,Fast Food
+7/8/16,Sirius Cybernetics Corporation,-2.10,debit,Charity
+7/8/16,Conglom-O,-8.40,debit,Public Transportation
+7/7/16,Dunder Mifflin,-21.56,debit,Clothing
+7/7/16,Vandelay Industries,13.64,credit,Shopping
+7/7/16,Acme Corporation,-1.47,debit,Food & Dining
+7/7/16,Dunder Mifflin,-2.11,debit,Doctor
+7/7/16,Bluth Company,-9.39,debit,Clothing
+7/7/16,Bluth Company,-0.73,debit,Business Services
+7/7/16,Duff Beer Company,-11.55,debit,Books
+7/7/16,Sirius Cybernetics Corporation,-18.06,debit,Babysitter & Daycare
+7/7/16,Dunder Mifflin,-20.35,debit,Sporting Goods
+7/6/16,Duff Beer Company,-1.03,debit,Restaurants
+7/6/16,Conglom-O,-7.36,debit,Restaurants
+7/6/16,Acme Corporation,-4.96,debit,Groceries
+7/6/16,Conglom-O,-8.10,debit,Shopping
+7/6/16,Acme Corporation,-0.95,debit,Business Services
+7/5/16,Oscorp,-3.99,debit,Restaurants
+7/5/16,Duff Beer Company,-11.84,debit,Uncategorized
+7/4/16,Bluth Company,-13.23,debit,Uncategorized
+7/3/16,Conglom-O,33.08,credit,Credit Card Payment
+7/2/16,Bluth Company,-17.12,debit,Hotel
+7/2/16,Bluth Company,-3.14,debit,Books
+7/2/16,Conglom-O,-6.67,debit,Food & Dining
+7/2/16,Duff Beer Company,-0.35,debit,Coffee Shops
+7/2/16,Vandelay Industries,-2.10,debit,Shopping
+7/2/16,Bluth Company,-6.94,debit,Shopping
+7/2/16,Sirius Cybernetics Corporation,-0.92,debit,Restaurants
+7/2/16,Sirius Cybernetics Corporation,-2.12,debit,Groceries
+7/1/16,Acme Corporation,-2.10,debit,Shopping
+7/1/16,Duff Beer Company,-31.80,debit,Shopping
+7/1/16,Acme Corporation,-4.86,debit,Uncategorized
+7/1/16,Vandelay Industries,-3.78,debit,Business Services
+7/1/16,Sirius Cybernetics Corporation,-7.55,debit,Restaurants
+7/1/16,Acme Corporation,-1.05,debit,Uncategorized
+7/1/16,Dunder Mifflin,-7.90,debit,Personal Care
+6/29/16,Bluth Company,-2.94,debit,Fast Food
+6/29/16,Conglom-O,-2.10,debit,Music
+6/29/16,Vandelay Industries,-9.60,debit,Restaurants
+6/29/16,Conglom-O,-4.60,debit,Groceries
+6/28/16,Bluth Company,-2.10,debit,Music
+6/28/16,Sirius Cybernetics Corporation,-6.11,debit,Shopping
+6/28/16,Oscorp,-0.33,debit,Coffee Shops
+6/28/16,Acme Corporation,-1.37,debit,Uncategorized
+6/27/16,Oscorp,-2.48,debit,Uncategorized
+6/27/16,Dunder Mifflin,985.90,credit,Credit Card Payment
+6/27/16,Dunder Mifflin,-7.75,debit,Pharmacy
+6/27/16,Vandelay Industries,-9.03,debit,Restaurants
+6/27/16,Acme Corporation,-1.01,debit,Rental Car & Taxi
+6/27/16,Acme Corporation,-6.40,debit,Restaurants
+6/27/16,Conglom-O,-2.10,debit,Movies & DVDs
+6/27/16,Duff Beer Company,-2.97,debit,Restaurants
+6/26/16,Bluth Company,-6.44,debit,Groceries
+6/26/16,Bluth Company,-0.35,debit,Shipping
+6/26/16,Oscorp,-2.46,debit,Restaurants
+6/25/16,Dunder Mifflin,-12.66,debit,Shopping
+6/25/16,Bluth Company,-17.77,debit,Restaurants
+6/25/16,Sirius Cybernetics Corporation,-5.26,debit,Uncategorized
+6/25/16,Conglom-O,-7.55,debit,Restaurants
+6/25/16,Acme Corporation,-10.35,debit,Shopping
+6/25/16,Dunder Mifflin,-7.56,debit,Uncategorized
+6/24/16,Sirius Cybernetics Corporation,-2.21,debit,Business Services
+6/24/16,Dunder Mifflin,-41.15,debit,Shopping
+6/24/16,Bluth Company,-2.94,debit,Fast Food
+6/24/16,Acme Corporation,-1.58,debit,Business Services
+6/23/16,Oscorp,-1.47,debit,Books
+6/23/16,Sirius Cybernetics Corporation,-4.20,debit,Coffee Shops
+6/23/16,Duff Beer Company,-9.36,debit,Groceries
+6/22/16,Oscorp,-7.10,debit,Uncategorized
+6/21/16,Acme Corporation,-5.80,debit,Groceries
+6/21/16,Sirius Cybernetics Corporation,-9.96,debit,Business Services
+6/21/16,Conglom-O,-11.04,debit,Rental Car & Taxi
+6/20/16,Dunder Mifflin,-2.25,debit,Hotel
+6/20/16,Oscorp,-3.51,debit,Hotel
+6/19/16,Duff Beer Company,-7.21,debit,Restaurants
+6/18/16,Oscorp,-2.31,debit,Home Services
+6/17/16,Sirius Cybernetics Corporation,-88.77,debit,Hotel
+6/17/16,Oscorp,-4.08,debit,Restaurants
+6/16/16,Oscorp,-26.46,debit,Auto Payment
+6/16/16,Duff Beer Company,-33.08,debit,Business Services
+6/15/16,Dunder Mifflin,-5.01,debit,Uncategorized
+6/13/16,Vandelay Industries,-86.63,debit,Hotel
+6/13/16,Dunder Mifflin,-3.15,debit,Shopping
+6/8/16,Acme Corporation,-30.35,debit,Mobile Phone
+6/7/16,Duff Beer Company,-2.10,debit,Music
+6/6/16,Vandelay Industries,-4.20,debit,Restaurants
+6/5/16,Acme Corporation,-4.86,debit,Food & Dining
+6/5/16,Oscorp,-14.59,debit,Business Services
+6/5/16,Conglom-O,-3.38,debit,Business Services
+6/5/16,Bluth Company,-4.11,debit,Furnishings
+6/4/16,Duff Beer Company,-6.05,debit,Uncategorized
+6/4/16,Sirius Cybernetics Corporation,-0.41,debit,Restaurants
+6/4/16,Sirius Cybernetics Corporation,-9.17,debit,Restaurants
+6/4/16,Oscorp,-5.46,debit,Public Transportation
+6/3/16,Bluth Company,-0.80,debit,Coffee Shops
+6/3/16,Acme Corporation,10.49,credit,Shopping
+6/3/16,Acme Corporation,-55.65,debit,Business Services
+6/3/16,Sirius Cybernetics Corporation,-38.12,debit,Business Services
+6/3/16,Acme Corporation,-1.21,debit,Business Services
+6/3/16,Conglom-O,-7.67,debit,Public Transportation
+6/3/16,Bluth Company,-4.16,debit,Groceries
+6/3/16,Sirius Cybernetics Corporation,-5.26,debit,Restaurants
+6/2/16,Oscorp,-0.37,debit,Coffee Shops
+6/2/16,Sirius Cybernetics Corporation,-5.69,debit,Groceries
+6/2/16,Duff Beer Company,-3.14,debit,Books
+6/2/16,Acme Corporation,-2.94,debit,Shipping
+6/2/16,Duff Beer Company,-12.57,debit,Alcohol & Bars
+6/2/16,Acme Corporation,-5.78,debit,Restaurants
+6/2/16,Vandelay Industries,-12.95,debit,Pet Food & Supplies
+6/1/16,Vandelay Industries,-1.05,debit,Uncategorized
+6/1/16,Acme Corporation,-0.84,debit,Coffee Shops
+6/1/16,Acme Corporation,-1.26,debit,Pharmacy
+6/1/16,Dunder Mifflin,-2.10,debit,Charity
+6/1/16,Acme Corporation,-13.64,debit,Shopping
+6/1/16,Bluth Company,-11.96,debit,Shopping
+6/1/16,Conglom-O,-4.23,debit,Restaurants
+6/1/16,Vandelay Industries,-5.48,debit,Restaurants
+6/1/16,Acme Corporation,-4.52,debit,Clothing
+5/31/16,Vandelay Industries,-15.10,debit,Shopping
+5/31/16,Vandelay Industries,-6.44,debit,Restaurants
+5/31/16,Bluth Company,-4.57,debit,Shopping
+5/31/16,Vandelay Industries,-1.68,debit,Coffee Shops
+5/31/16,Dunder Mifflin,-8.57,debit,Rental Car & Taxi
+5/30/16,Oscorp,-1.17,debit,Hotel
+5/30/16,Dunder Mifflin,-0.87,debit,Hotel
+5/30/16,Vandelay Industries,-11.34,debit,Food & Dining
+5/29/16,Acme Corporation,-2.61,debit,Restaurants
+5/29/16,Acme Corporation,-4.41,debit,Shopping
+5/29/16,Oscorp,-10.76,debit,Restaurants
+5/29/16,Conglom-O,-3.62,debit,Travel
+5/29/16,Duff Beer Company,-3.77,debit,Gas & Fuel
+5/29/16,Bluth Company,-3.41,debit,Travel
+5/28/16,Acme Corporation,-2.94,debit,Food & Dining
+5/28/16,Oscorp,-2.50,debit,Restaurants
+5/28/16,Sirius Cybernetics Corporation,-2.10,debit,Music
+5/28/16,Dunder Mifflin,-4.47,debit,Restaurants
+5/28/16,Conglom-O,-4.22,debit,Fast Food
+5/28/16,Duff Beer Company,-4.20,debit,Coffee Shops
+5/28/16,Oscorp,-1.16,debit,Business Services
+5/27/16,Vandelay Industries,-7.34,debit,Clothing
+5/27/16,Sirius Cybernetics Corporation,-11.09,debit,Clothing
+5/27/16,Conglom-O,-31.50,debit,Uncategorized
+5/27/16,Bluth Company,-5.00,debit,Food & Dining
+5/27/16,Conglom-O,841.66,credit,Credit Card Payment
+5/26/16,Duff Beer Company,-4.52,debit,Restaurants
+5/26/16,Conglom-O,-3.62,debit,Auto & Transport
+5/26/16,Conglom-O,-1.68,debit,Movies & DVDs
+5/26/16,Vandelay Industries,-10.56,debit,Shopping
+5/25/16,Dunder Mifflin,-22.89,debit,Business Services
+5/25/16,Conglom-O,-3.65,debit,Food & Dining
+5/24/16,Vandelay Industries,-1.58,debit,Restaurants
+5/24/16,Acme Corporation,-12.39,debit,Alcohol & Bars
+5/24/16,Vandelay Industries,-12.56,debit,Furnishings
+5/24/16,Bluth Company,-8.57,debit,Groceries
+5/24/16,Vandelay Industries,-5.95,debit,Restaurants
+5/24/16,Bluth Company,-0.79,debit,Restaurants
+5/24/16,Vandelay Industries,-1.81,debit,Groceries
+5/24/16,Bluth Company,-0.73,debit,Shipping
+5/23/16,Vandelay Industries,-3.89,debit,Alcohol & Bars
+5/23/16,Conglom-O,-9.14,debit,Alcohol & Bars
+5/23/16,Oscorp,-3.57,debit,Shopping
+5/23/16,Oscorp,-1.47,debit,Books
+5/23/16,Conglom-O,-14.73,debit,Restaurants
+5/23/16,Duff Beer Company,-10.23,debit,Restaurants
+5/23/16,Vandelay Industries,-2.00,debit,Uncategorized
+5/23/16,Sirius Cybernetics Corporation,-12.80,debit,Alcohol & Bars
+5/22/16,Conglom-O,2.01,credit,Credit Card Payment
+5/22/16,Oscorp,-1.47,debit,Business Services
+5/22/16,Duff Beer Company,3.76,credit,Clothing
+5/21/16,Bluth Company,-6.36,debit,Business Services
+5/21/16,Acme Corporation,-1.21,debit,Uncategorized
+5/21/16,Acme Corporation,-3.00,debit,Groceries
+5/21/16,Vandelay Industries,-2.23,debit,Business Services
+5/20/16,Conglom-O,-2.36,debit,Restaurants
+5/20/16,Vandelay Industries,-61.95,debit,Uncategorized
+5/20/16,Dunder Mifflin,3.43,credit,Clothing
+5/20/16,Bluth Company,-2.73,debit,Groceries
+5/20/16,Bluth Company,-13.49,debit,Clothing
+5/20/16,Dunder Mifflin,-0.57,debit,Uncategorized
+5/20/16,Duff Beer Company,-7.10,debit,Uncategorized
+5/20/16,Acme Corporation,-7.79,debit,Groceries
+5/20/16,Duff Beer Company,-12.60,debit,Public Transportation
+5/18/16,Acme Corporation,-1.68,debit,Restaurants
+5/17/16,Dunder Mifflin,-9.45,debit,Shopping
+5/17/16,Acme Corporation,-0.47,debit,Restaurants
+5/17/16,Dunder Mifflin,-0.88,debit,Coffee Shops
+5/17/16,Vandelay Industries,-14.66,debit,Groceries
+5/17/16,Oscorp,-9.95,debit,Restaurants
+5/17/16,Oscorp,-6.72,debit,Shopping
+5/17/16,Bluth Company,-2.10,debit,Music
+5/16/16,Dunder Mifflin,-2.10,debit,Music
+5/16/16,Oscorp,-15.59,debit,Restaurants
+5/16/16,Oscorp,-26.46,debit,Auto Payment
+5/16/16,Dunder Mifflin,-15.89,debit,Groceries
+5/16/16,Conglom-O,-4.80,debit,Clothing
+5/16/16,Dunder Mifflin,-3.78,debit,Clothing
+5/16/16,Sirius Cybernetics Corporation,-2.23,debit,Restaurants
+5/15/16,Oscorp,-2.73,debit,Pharmacy
+5/15/16,Duff Beer Company,-16.96,debit,Restaurants
+5/15/16,Bluth Company,-10.50,debit,Shopping
+5/15/16,Duff Beer Company,-8.28,debit,Uncategorized
+5/14/16,Bluth Company,-8.46,debit,Uncategorized
+5/14/16,Sirius Cybernetics Corporation,-8.62,debit,Clothing
+5/14/16,Dunder Mifflin,-4.46,debit,Home
+5/14/16,Conglom-O,-1.66,debit,Uncategorized
+5/13/16,Bluth Company,-8.16,debit,Groceries
+5/13/16,Duff Beer Company,-4.68,debit,Food & Dining
+5/12/16,Oscorp,-1.16,debit,Coffee Shops
+5/12/16,Conglom-O,-2.40,debit,Food & Dining
+5/12/16,Vandelay Industries,-0.73,debit,Groceries
+5/12/16,Conglom-O,-14.62,debit,Groceries
+5/12/16,Duff Beer Company,-1.05,debit,Coffee Shops
+5/12/16,Conglom-O,-8.40,debit,Public Transportation
+5/12/16,Sirius Cybernetics Corporation,-2.65,debit,Groceries
+5/12/16,Bluth Company,-0.74,debit,Food & Dining
+5/12/16,Oscorp,-9.17,debit,Groceries
+5/11/16,Duff Beer Company,-2.10,debit,Home Services
+5/11/16,Acme Corporation,-4.73,debit,Restaurants
+5/10/16,Conglom-O,-30.74,debit,Air Travel
+5/10/16,Conglom-O,-33.62,debit,Air Travel
+5/10/16,Vandelay Industries,-1.83,debit,Printing
+5/10/16,Duff Beer Company,-2.77,debit,Travel
+5/10/16,Sirius Cybernetics Corporation,-10.50,debit,Shopping
+5/10/16,Bluth Company,-2.97,debit,Restaurants
+5/10/16,Vandelay Industries,-2.01,debit,Fast Food
+5/10/16,Dunder Mifflin,-0.95,debit,Restaurants
+5/9/16,Oscorp,-13.08,debit,Clothing
+5/9/16,Dunder Mifflin,-0.21,debit,Business Services
+5/9/16,Oscorp,-0.84,debit,Coffee Shops
+5/9/16,Oscorp,-10.56,debit,Shopping
+5/9/16,Sirius Cybernetics Corporation,-3.66,debit,Groceries
+5/9/16,Oscorp,-6.46,debit,Groceries
+5/9/16,Vandelay Industries,-1.58,debit,Restaurants
+5/8/16,Duff Beer Company,-31.61,debit,Mobile Phone
+5/8/16,Bluth Company,-7.20,debit,Groceries
+5/7/16,Bluth Company,-1.35,debit,Uncategorized
+5/7/16,Dunder Mifflin,-4.72,debit,Groceries
+5/7/16,Conglom-O,-12.39,debit,Uncategorized
+5/7/16,Bluth Company,-2.31,debit,Pharmacy
+5/7/16,Bluth Company,-4.20,debit,Coffee Shops
+5/7/16,Sirius Cybernetics Corporation,-0.42,debit,Coffee Shops
+5/6/16,Oscorp,-3.57,debit,Shopping
+5/5/16,Sirius Cybernetics Corporation,-4.20,debit,Food & Dining
+5/5/16,Sirius Cybernetics Corporation,-0.46,debit,Shopping
+5/5/16,Acme Corporation,-0.37,debit,Shopping
+5/4/16,Acme Corporation,-3.07,debit,Food & Dining
+5/3/16,Dunder Mifflin,-2.90,debit,Groceries
+5/3/16,Oscorp,-6.85,debit,Shopping
+5/3/16,Acme Corporation,-7.86,debit,Groceries
+5/3/16,Vandelay Industries,-7.02,debit,Food & Dining
+5/3/16,Duff Beer Company,-18.29,debit,Shopping
+5/3/16,Sirius Cybernetics Corporation,5.25,credit,Credit Card Payment
+5/3/16,Vandelay Industries,-1.47,debit,Food & Dining
+5/2/16,Bluth Company,-3.14,debit,Books
+5/2/16,Sirius Cybernetics Corporation,-5.25,debit,Uncategorized
+5/2/16,Duff Beer Company,-15.65,debit,Clothing
+5/1/16,Conglom-O,-6.97,debit,Groceries
+5/1/16,Acme Corporation,-8.05,debit,Shopping
+5/1/16,Bluth Company,-7.00,debit,Alcohol & Bars
+5/1/16,Conglom-O,-2.10,debit,Charity
+5/1/16,Oscorp,-1.94,debit,Alcohol & Bars
+5/1/16,Conglom-O,-1.13,debit,Uncategorized
+5/1/16,Conglom-O,-3.56,debit,Business Services
+5/1/16,Oscorp,-1.26,debit,Business Services
+5/1/16,Bluth Company,-4.08,debit,Uncategorized
+4/30/16,Duff Beer Company,-4.06,debit,Business Services
+4/30/16,Bluth Company,-2.41,debit,Groceries
+4/29/16,Sirius Cybernetics Corporation,-0.89,debit,Coffee Shops
+4/28/16,Vandelay Industries,-7.16,debit,Groceries
+4/28/16,Sirius Cybernetics Corporation,-2.10,debit,Music
+4/27/16,Vandelay Industries,-12.60,debit,Public Transportation
+4/27/16,Dunder Mifflin,-8.96,debit,Restaurants
+4/27/16,Sirius Cybernetics Corporation,-3.56,debit,Groceries
+4/27/16,Dunder Mifflin,-7.13,debit,Groceries
+4/27/16,Acme Corporation,-13.70,debit,Groceries
+4/26/16,Oscorp,-17.46,debit,Food & Dining
+4/26/16,Oscorp,-38.67,debit,Uncategorized
+4/26/16,Acme Corporation,-18.89,debit,Clothing
+4/26/16,Sirius Cybernetics Corporation,861.15,credit,Credit Card Payment
+4/26/16,Acme Corporation,-7.10,debit,Uncategorized
+4/26/16,Bluth Company,-3.99,debit,Groceries
+4/26/16,Dunder Mifflin,-1.68,debit,Movies & DVDs
+4/25/16,Bluth Company,-5.94,debit,Pet Food & Supplies
+4/25/16,Dunder Mifflin,-6.46,debit,Business Services
+4/25/16,Acme Corporation,-0.68,debit,Pharmacy
+4/25/16,Oscorp,-65.16,debit,Furnishings
+4/25/16,Conglom-O,-3.54,debit,Shopping
+4/25/16,Duff Beer Company,-9.92,debit,Shopping
+4/24/16,Conglom-O,-7.00,debit,Groceries
+4/24/16,Dunder Mifflin,-4.90,debit,Business Services
+4/24/16,Dunder Mifflin,-5.86,debit,Groceries
+4/23/16,Conglom-O,-2.79,debit,Business Services
+4/23/16,Oscorp,-1.47,debit,Books
+4/23/16,Acme Corporation,-3.15,debit,Alcohol & Bars
+4/22/16,Vandelay Industries,-3.41,debit,Groceries
+4/22/16,Conglom-O,-2.68,debit,Restaurants
+4/22/16,Vandelay Industries,-3.36,debit,Alcohol & Bars
+4/22/16,Vandelay Industries,-11.23,debit,Uncategorized
+4/22/16,Bluth Company,-10.42,debit,Groceries
+4/22/16,Conglom-O,-2.16,debit,Groceries
+4/22/16,Conglom-O,-1.16,debit,Restaurants
