@@ -9,7 +9,7 @@ Meteor.startup( () => {
   render(
     <Router history={ browserHistory }>
       <Route path="/" component={ App } />
-        <Route path="/chart/:id" component={Chart}/>
+        <Route path="/charts/:id" component={Chart}/>
     </Router>,
     document.getElementById('react-root')
   );

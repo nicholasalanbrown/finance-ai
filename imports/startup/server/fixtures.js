@@ -1,5 +1,5 @@
 import { Meteor } from 'meteor/meteor';
-import { Transactions } from '../../api/server/transactions.js';
+import { Transactions } from '../../api/transactions.js';
 import _ from 'underscore';
 const mintData = require('./mint-data.json');
 
