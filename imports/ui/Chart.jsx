@@ -5,6 +5,7 @@ import ChartistGraph from 'react-chartist';
 export default class Chart extends Component {
 
   render() {
+    console.log(this.props.params.id);
     const data = {
       labels: ['W1', 'W2', 'W3', 'W4', 'W5', 'W6', 'W7', 'W8', 'W9', 'W10'],
       series: [
