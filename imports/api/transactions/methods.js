@@ -5,6 +5,7 @@ import numeral from 'numeral';
 import math from 'mathjs';
 
 import { Transactions } from './transactions.js';
+let currentDate = moment();
 
 formatCurrency = (number) => numeral(number).format('$0,0.00');
 
@@ -21,7 +22,6 @@ Meteor.methods({
   getTransactionsOnDate(date) {
     console.log('Getting transactions on a specific date..');
     let speech = '';
-    let currentDate = moment();
     let requestDate = moment(date);
 
     //If the request year is after the current year, set it back to the current year
@@ -57,7 +57,6 @@ Meteor.methods({
   getTransactionsBetweenDates(datePeriod) {
     console.log('Getting transactions over a date period...');
     let speech = '';
-    let currentDate = moment();
     let startDate = moment(datePeriod.startDate.rfcString);
     let endDate = moment(datePeriod.endDate.rfcString);
 
@@ -96,7 +95,6 @@ Meteor.methods({
   getSpending(category, datePeriod) {
     console.log('Getting spending...')
     let speech = '';
-    let currentDate = moment();
     let startDate = moment(datePeriod.startDate.rfcString);
     let endDate = moment(datePeriod.endDate.rfcString);
 
@@ -113,7 +111,6 @@ Meteor.methods({
     else {
       const amounts = _.pluck(docArray, 'amount');
       const sum = formatCurrency(-1*math.sum(amounts));
-      console.log(sum);
       let transactionNoun = docArray.length > 1 ? 'transactions' : 'transaction';
       speech = 'I found ' + docArray.length +' '+ transactionNoun +' for '+ category.toLowerCase() +', totalling ' + sum;
     }
@@ -127,6 +124,10 @@ Meteor.methods({
       contextOut: [],
     };
   },
+
+  graphSpending (response) {
+    console.log(response);
+  }
 
   webhook(response) {
     console.log('Running webhook method...');
@@ -142,6 +143,9 @@ Meteor.methods({
         break;
       case 'getSpending':
         calledFunction = Meteor.call('getSpending', response.result.parameters.category, response.result.parameters['date-period'])
+        break;
+      case 'graphSpending':
+        calledFunction = Meteor.call('graphSpending');
         break;
       case 'getBalance':
         calledFunction = Meteor.call('getBalance');
