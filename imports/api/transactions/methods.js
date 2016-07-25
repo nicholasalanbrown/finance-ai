@@ -127,7 +127,7 @@ Meteor.methods({
 
   graphSpending (response) {
     console.log(response);
-  }
+  },
 
   webhook(response) {
     console.log('Running webhook method...');
