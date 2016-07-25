@@ -5,6 +5,7 @@ import numeral from 'numeral';
 import math from 'mathjs';
 
 import { Transactions } from './transactions.js';
+import { Charts } from './charts.js';
 let currentDate = moment();
 
 formatCurrency = (number) => numeral(number).format('$0,0.00');
@@ -125,8 +126,26 @@ Meteor.methods({
     };
   },
 
-  graphSpending (response) {
-    console.log(response);
+  graphSpending (category, datePeriod) {
+    console.log('Generating spending graph...')
+    let speech = '';
+    let startDate = datePeriod.startDate.rfcString;
+    let endDate = datePeriod.endDate.rfcString;
+
+    Charts.insert({
+      category: category,
+      startDate: startDate,
+      endDate: endDate
+    })
+
+    console.log(speech);
+
+    return {
+      speech: speech,
+      displayText: speech,
+      data: {},
+      contextOut: [],
+    };
   },
 
   webhook(response) {
@@ -145,7 +164,7 @@ Meteor.methods({
         calledFunction = Meteor.call('getSpending', response.result.parameters.category, response.result.parameters['date-period'])
         break;
       case 'graphSpending':
-        calledFunction = Meteor.call('graphSpending', response);
+        calledFunction = Meteor.call('graphSpending', response.result.parameters.category, response.result.parameters['date-period'])
         break;
       case 'getBalance':
         calledFunction = Meteor.call('getBalance');
