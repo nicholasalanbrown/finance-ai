@@ -2,6 +2,7 @@ import { Meteor } from 'meteor/meteor';
 import { _ } from 'meteor/underscore';
 import moment from 'moment';
 import numeral from 'numeral';
+import math from 'mathjs';
 
 import { Transactions } from './transactions.js';
 
@@ -111,9 +112,10 @@ Meteor.methods({
 
     else {
       const amounts = _.pluck(docArray, 'amount');
-      const sum = formatCurrency(_.reduce(amounts, function(memo, num){ return memo + num; }, 0));
+      const sum = formatCurrency(-1*math.sum(amounts));
+      console.log(sum);
       let transactionNoun = docArray.length > 1 ? 'transactions' : 'transaction';
-      speech = 'I found ' + docArray.length +' '+ transactionNoun +' for '+ category.toLowerCase() +', totalling ' + sum*-1;
+      speech = 'I found ' + docArray.length +' '+ transactionNoun +' for '+ category.toLowerCase() +', totalling ' + sum;
     }
 
     console.log(speech);
