@@ -12,7 +12,6 @@ export default ChartContainer = createContainer(({params}) => {
   const dataExists = !loading && !!data;
   return {
     loading,
-    data,
     dataExists,
     data: dataExists ? data : [],
   };

@@ -8,8 +8,6 @@ Meteor.publish('transactionsPublication', function (chartId) {
 
   let chartDoc = Charts.findOne({_id: chartId});
 
-  console.log(chartDoc);
-
   const startDate = moment(chartDoc.startDate);
   const endDate = moment(chartDoc.endDate);
 

@@ -1,29 +1,28 @@
 import { Meteor } from 'meteor/meteor';
 import React, { Component } from 'react';
 import ChartistGraph from 'react-chartist';
+import { _ } from 'meteor/underscore';
 
 export default class Chart extends Component {
 
   render() {
-    console.log(this);
+
+    const amounts = _.pluck(this.props.data, 'amount');
+    const series = _.map(amounts, function(amount) {
+      return amount*-1;
+    });
     const data = {
-      labels: ['W1', 'W2', 'W3', 'W4', 'W5', 'W6', 'W7', 'W8', 'W9', 'W10'],
-      series: [
-        [1, 2, 4, 8, 6, -2, -1, -4, -6, -2]
-      ]
+      labels: series,
+      series: [series]
     };
+    console.log(data);
 
     const options = {
-      high: 10,
-      low: -10,
-      axisX: {
-        labelInterpolationFnc: function(value, index) {
-          return index % 2 === 0 ? value : null;
-        }
-      }
+      high: 100,
+      low: 0
     };
 
-    const type = 'Bar'
+    const type = 'Line'
 
     return (
       <div>
