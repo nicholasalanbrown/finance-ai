@@ -130,7 +130,7 @@ Meteor.methods({
   },
 
   webhook(response) {
-    console.log('Running webhook method...');
+    console.log('Api.ai requests '+ response.result.action + 'action, running matching method...');
     let calledFunction;
     switch (response.result.action) {
       case 'getTransactions':
