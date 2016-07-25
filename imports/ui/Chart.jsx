@@ -29,8 +29,6 @@ export default class Chart extends Component {
       }
     })
 
-    console.log(chartData);
-
     chartData.sort(function (x, y) {
         var n = x.year - y.year;
         if (n !== 0) {
@@ -40,34 +38,23 @@ export default class Chart extends Component {
         return x.month - y.month;
     });
 
-    console.log(chartData);
+    labels = [];
 
-    const amounts = _.pluck(this.props.data, 'amount');
-    const dates = _.pluck(this.props.data, 'date');
-    const labels = _.map(dates, function (date) {
-      return moment(date).format('MMMM Do');
-    });
-    const series = _.map(amounts, function(amount) {
-      return amount*-1;
-    });
+    _.each(chartData, function(object) {
+      let date = moment().set({'month': object.month, 'year': object.year});
+      labels.push(date.format('MMMM YY'));
+    })
 
-    console.log(labels);
+    let amounts = _.pluck(chartData, 'amount');
+
     const data = {
       labels: labels,
-      series: [series]
+      series: [amounts]
     };
 
     console.log(data);
 
-    let axisLabels = [];
-
     const options = {
-      showLine: false,
-      axisX: {
-        labelInterpolationFnc: function(value) {
-          let weekStart = moment(value).startOf('week')
-        }
-      }
     };
 
     const type = 'Bar'
