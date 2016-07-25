@@ -10,11 +10,11 @@ let currentDate = moment();
 formatCurrency = (number) => numeral(number).format('$0,0.00');
 
 Meteor.methods({
-  getBalance(accountType) {
+  getBalance() {
     console.log('Getting balance...');
     return {
-      speech: 'Your checking account balance is $500',
-      displayText: 'Your checking account balance is $500',
+      speech: 'Your credit card balance is currently $295',
+      displayText: 'Your credit card balance is currently $295',
       data: {},
       contextOut: [],
     }
