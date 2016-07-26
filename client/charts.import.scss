@@ -19,6 +19,10 @@ body {
   }
 }
 
+.chart-container .ct-bar {
+  stroke-width: 80px;
+}
+
 .ct-label {
   fill: rgba(0, 0, 0, 0.4);
   color: rgba(0, 0, 0, 0.4);
@@ -182,7 +186,7 @@ body {
   stroke-width: 60px; }
 
 .ct-series-a .ct-point, .ct-series-a .ct-line, .ct-series-a .ct-bar, .ct-series-a .ct-slice-donut {
-  stroke: #d70206; }
+  stroke: #57BB89; }
 
 .ct-series-a .ct-slice-pie, .ct-series-a .ct-area {
   fill: #d70206; }
