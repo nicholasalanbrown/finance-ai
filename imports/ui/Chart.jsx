@@ -56,7 +56,12 @@ export default class Chart extends Component {
 
     const options = {
       height: 360,
-      chartPadding: 40
+      chartPadding: 40,
+      axisY: {
+        labelInterpolationFnc: function(value) {
+          return '$'+value.toFixed(2);
+        },
+      }
     };
 
     const type = 'Bar'
