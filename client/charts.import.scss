@@ -6,10 +6,24 @@ body {
 }
 
 .chart-container {
+  @keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
   background: #ffffff;
   box-shadow: 0 0 4px rgba(0,0,0,.14),0 4px 8px rgba(0,0,0,.18);
   margin: 0 auto;
   max-width: 600px;
+    opacity:0;  /* make things invisible upon start */
+    -webkit-animation:fadeIn ease-in 0.7;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
+    -moz-animation:fadeIn ease-in 1;
+    animation:fadeIn ease-in 1;
+    -webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+    -moz-animation-fill-mode:forwards;
+    animation-fill-mode:forwards;
+    -webkit-animation-duration:0.4s;
+    -moz-animation-duration:0.4s;
+    animation-duration:0.4s;
+    -webkit-animation-delay: 0.7s;
+    -moz-animation-delay: 0.7s;
+    animation-delay: 0.7s;
   h1 {
     font-size: 18px;
     text-align: center;
