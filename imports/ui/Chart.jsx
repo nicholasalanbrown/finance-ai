@@ -55,12 +55,17 @@ export default class Chart extends Component {
     console.log(data);
 
     const options = {
+      height: 360,
+      chartPadding: 40
     };
 
     const type = 'Bar'
 
+    let sampleDoc = this.props.data[0];
+
     return (
-      <div>
+      <div className="chart-container">
+        <h1>{sampleDoc ? 'Spending on ' + sampleDoc.category  : ''}</h1>
         <ChartistGraph data={data} options={options} type={type} />
       </div>
     );
