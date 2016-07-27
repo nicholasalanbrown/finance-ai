@@ -131,12 +131,16 @@ Meteor.methods({
     console.log('Generating spending graph...')
     let speech = '';
     let currentDate = moment();
-    let startDate = moment(datePeriod.startDate.rfcString).format();
-    let endDate = moment(datePeriod.endDate.rfcString).format();
+    console.log(currentDate.format());
+    let startDate = moment(datePeriod.startDate.rfcString);
+    let endDate = moment(datePeriod.endDate.rfcString);
 
     //If the request year is after the current year, set it back to the current year
     currentDate < startDate ? startDate.year(currentDate.year()) : null;
     currentDate < endDate ? endDate.year(currentDate.year()) : null;
+
+    startDate = startDate.format();
+    endDate = endDate.format();
 
     let future = new Future();
 
