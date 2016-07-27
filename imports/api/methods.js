@@ -133,6 +133,10 @@ Meteor.methods({
     let startDate = moment(datePeriod.startDate.rfcString).format();
     let endDate = moment(datePeriod.endDate.rfcString).format();
 
+    //If the request year is after the current year, set it back to the current year
+    currentDate < startDate ? startDate.year(currentDate.year()) : null;
+    currentDate < endDate ? endDate.year(currentDate.year()) : null;
+
     let future = new Future();
 
     Charts.insert({category: category, startDate: startDate, endDate: endDate}, function( error, id ) {
