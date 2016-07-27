@@ -130,6 +130,7 @@ Meteor.methods({
   graphSpending (category, datePeriod) {
     console.log('Generating spending graph...')
     let speech = '';
+    let currentDate = moment();
     let startDate = moment(datePeriod.startDate.rfcString).format();
     let endDate = moment(datePeriod.endDate.rfcString).format();
 
