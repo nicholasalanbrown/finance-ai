@@ -96,11 +96,10 @@ Meteor.methods({
 
   getSpending(category, datePeriod) {
     console.log('Getting spending...')
-    console.log(category);
-    
+    let dateRange = datePeriod.split("/");
     let speech = '';
-    let startDate = moment(datePeriod.startDate.rfcString);
-    let endDate = moment(datePeriod.endDate.rfcString);
+    let startDate = moment(dateRange[0]);
+    let endDate = moment(dateRange[1]);
 
     //If the request year is after the current year, set it back to the current year
     currentDate < startDate ? startDate.year(currentDate.year()) : null;
