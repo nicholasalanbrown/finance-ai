@@ -96,6 +96,8 @@ Meteor.methods({
 
   getSpending(category, datePeriod) {
     console.log('Getting spending...')
+    console.log(category);
+    
     let speech = '';
     let startDate = moment(datePeriod.startDate.rfcString);
     let endDate = moment(datePeriod.endDate.rfcString);
