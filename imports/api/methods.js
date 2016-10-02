@@ -179,6 +179,7 @@ Meteor.methods({
         }
         break;
       case 'getSpending':
+        console.log(response.result.parameters);
         calledFunction = Meteor.call('getSpending', response.result.parameters.category, response.result.parameters['date-period'])
         break;
       case 'graphSpending':
